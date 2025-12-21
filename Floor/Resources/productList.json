@@ -1,0 +1,27 @@
+{"productList": [
+  {
+    "productId": 1,
+    "type": "floor",
+    "title": "Nature & Authenticity",
+    "description": "This collection of flooring restores the most authentic characteristics of wood to the greatest extent, embodying a pursuit of authenticity and nature. It showcases a sense of freedom and a release of nature, allowing you to fully experience the beauty and power of the natural world.",
+  },
+  {
+    "productId": 2,
+    "type": "cabinet",
+    "title": "xxx",
+    "description": "xxx",
+  },
+  {
+    "productId": 3,
+    "type": "stairs",
+    "title": "xxx",
+    "description": "xxx",
+  },
+  {
+    "productId": 4,
+    "type": "door",
+    "title": "xxx",
+    "description": "xxx",
+  },
+]
+}

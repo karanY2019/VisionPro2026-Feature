@@ -1,0 +1,93 @@
+# Cline Ignore File for Floor visionOS Project
+# Optimizes prompt caching by excluding large/unnecessary files from context
+
+# Xcode Build Artifacts
+DerivedData/
+build/
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+*.xcworkspace
+!Floor.xcodeproj/project.xcworkspace
+*.xccheckout
+*.moved-aside
+
+# Image Assets (exclude actual image files, keep JSON metadata)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.heic
+*.tiff
+*.pdf
+*.svg
+# Keep Contents.json for asset catalog structure
+!**/Contents.json
+
+# Video and Audio Assets
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.m4a
+
+# 3D Model Assets (can be large)
+*.usdz
+*.reality
+*.rcproject
+*.obj
+*.fbx
+*.dae
+
+# System Files
+.DS_Store
+*.swp
+*.swo
+*~
+.Spotlight-V100
+.Trashes
+
+# Documentation and Markdown (keep project docs)
+# Uncomment if you have large documentation folders
+# docs/
+# documentation/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.cache
+
+# Package Dependencies
+.build/
+Packages/
+.swiftpm/
+SPM/
+
+# CocoaPods (if used)
+Pods/
+*.xcworkspace
+!Floor.xcodeproj/project.xcworkspace
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code Coverage
+*.gcda
+*.gcno
+coverage/
+*.profdata
+
+# Large Data Files
+*.csv
+*.json.gz
+*.sqlite
+*.db
+
+# Backup Files
+*.backup
+*.bak
+*.old

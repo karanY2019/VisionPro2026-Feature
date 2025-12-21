@@ -1,0 +1,7632 @@
+[
+  {
+    "Color ID": "SW0001",
+    "Color Name": "Mulberry Silk",
+    "HEX": "94766C"
+  },
+  {
+    "Color ID": "SW0002",
+    "Color Name": "Chelsea Mauve",
+    "HEX": "BEAC9F"
+  },
+  {
+    "Color ID": "SW0003",
+    "Color Name": "Cabbage Rose",
+    "HEX": "C59F91"
+  },
+  {
+    "Color ID": "SW0004",
+    "Color Name": "Rose Brocade",
+    "HEX": "996C6E"
+  },
+  {
+    "Color ID": "SW0005",
+    "Color Name": "Deepest Mauve",
+    "HEX": "6D595A"
+  },
+  {
+    "Color ID": "SW0006",
+    "Color Name": "Toile Red",
+    "HEX": "8B534E"
+  },
+  {
+    "Color ID": "SW0007",
+    "Color Name": "Decorous Amber",
+    "HEX": "AC7559"
+  },
+  {
+    "Color ID": "SW0008",
+    "Color Name": "Cajun Red",
+    "HEX": "8D422F"
+  },
+  {
+    "Color ID": "SW0009",
+    "Color Name": "Eastlake Gold",
+    "HEX": "C28E61"
+  },
+  {
+    "Color ID": "SW0010",
+    "Color Name": "Wickerwork",
+    "HEX": "C19E80"
+  },
+  {
+    "Color ID": "SW0011",
+    "Color Name": "Crewel Tan",
+    "HEX": "CBB99B"
+  },
+  {
+    "Color ID": "SW0012",
+    "Color Name": "Empire Gold",
+    "HEX": "C19F6E"
+  },
+  {
+    "Color ID": "SW0013",
+    "Color Name": "Majolica Green",
+    "HEX": "AEB08F"
+  },
+  {
+    "Color ID": "SW0014",
+    "Color Name": "Sheraton Sage",
+    "HEX": "8F8666"
+  },
+  {
+    "Color ID": "SW0015",
+    "Color Name": "Gallery Green",
+    "HEX": "708672"
+  },
+  {
+    "Color ID": "SW0016",
+    "Color Name": "Billiard Green",
+    "HEX": "45584D"
+  },
+  {
+    "Color ID": "SW0017",
+    "Color Name": "Calico",
+    "HEX": "8CA49C"
+  },
+  {
+    "Color ID": "SW0018",
+    "Color Name": "Teal Stencil",
+    "HEX": "627F7B"
+  },
+  {
+    "Color ID": "SW0019",
+    "Color Name": "Festoon Aqua",
+    "HEX": "A0BBB8"
+  },
+  {
+    "Color ID": "SW0020",
+    "Color Name": "Peacock Plume",
+    "HEX": "739694"
+  },
+  {
+    "Color ID": "SW0021",
+    "Color Name": "Queen Anne Lilac",
+    "HEX": "C0B6B4"
+  },
+  {
+    "Color ID": "SW0022",
+    "Color Name": "Patchwork Plum",
+    "HEX": "7E696A"
+  },
+  {
+    "Color ID": "SW0023",
+    "Color Name": "Pewter Tankard",
+    "HEX": "A39B90"
+  },
+  {
+    "Color ID": "SW0024",
+    "Color Name": "Curio Gray",
+    "HEX": "988977"
+  },
+  {
+    "Color ID": "SW0025",
+    "Color Name": "Rosedust",
+    "HEX": "CC8D84"
+  },
+  {
+    "Color ID": "SW0026",
+    "Color Name": "Rachel Pink",
+    "HEX": "E8B9AE"
+  },
+  {
+    "Color ID": "SW0027",
+    "Color Name": "Aristocrat Peach",
+    "HEX": "ECCEB9"
+  },
+  {
+    "Color ID": "SW0028",
+    "Color Name": "Caen Stone",
+    "HEX": "ECD0B1"
+  },
+  {
+    "Color ID": "SW0029",
+    "Color Name": "Acanthus",
+    "HEX": "CDCDB4"
+  },
+  {
+    "Color ID": "SW0030",
+    "Color Name": "Colonial Yellow",
+    "HEX": "EFC488"
+  },
+  {
+    "Color ID": "SW0031",
+    "Color Name": "Dutch Tile Blue",
+    "HEX": "9AABAB"
+  },
+  {
+    "Color ID": "SW0032",
+    "Color Name": "Needlepoint Navy",
+    "HEX": "546670"
+  },
+  {
+    "Color ID": "SW0033",
+    "Color Name": "Rembrandt Ruby",
+    "HEX": "974F49"
+  },
+  {
+    "Color ID": "SW0034",
+    "Color Name": "Roycroft Rose",
+    "HEX": "C08F80"
+  },
+  {
+    "Color ID": "SW0035",
+    "Color Name": "Warm Beige",
+    "HEX": "EEDAC3"
+  },
+  {
+    "Color ID": "SW0036",
+    "Color Name": "Buckram Binding",
+    "HEX": "D9C3A6"
+  },
+  {
+    "Color ID": "SW0037",
+    "Color Name": "Morris Room Grey",
+    "HEX": "ADA193"
+  },
+  {
+    "Color ID": "SW0038",
+    "Color Name": "Library Pewter",
+    "HEX": "7F7263"
+  },
+  {
+    "Color ID": "SW0039",
+    "Color Name": "Mellow Mauve",
+    "HEX": "C4957A"
+  },
+  {
+    "Color ID": "SW0040",
+    "Color Name": "Roycroft Adobe",
+    "HEX": "A76251"
+  },
+  {
+    "Color ID": "SW0041",
+    "Color Name": "Dard Hunter Green",
+    "HEX": "3A4A3F"
+  },
+  {
+    "Color ID": "SW0042",
+    "Color Name": "Ruskin Room Green",
+    "HEX": "ACA17D"
+  },
+  {
+    "Color ID": "SW0043",
+    "Color Name": "Peristyle Brass",
+    "HEX": "AE905E"
+  },
+  {
+    "Color ID": "SW0044",
+    "Color Name": "Hubbard Squash",
+    "HEX": "E9BF8C"
+  },
+  {
+    "Color ID": "SW0045",
+    "Color Name": "Antiquarian Brown",
+    "HEX": "946644"
+  },
+  {
+    "Color ID": "SW0046",
+    "Color Name": "White Hyacinth",
+    "HEX": "F3E5D1"
+  },
+  {
+    "Color ID": "SW0047",
+    "Color Name": "Studio Blue Green",
+    "HEX": "6D817B"
+  },
+  {
+    "Color ID": "SW0048",
+    "Color Name": "Bunglehouse Blue",
+    "HEX": "47626F"
+  },
+  {
+    "Color ID": "SW0049",
+    "Color Name": "Silver Gray",
+    "HEX": "B8B2A2"
+  },
+  {
+    "Color ID": "SW0050",
+    "Color Name": "Classic Light Buff",
+    "HEX": "F0EADC"
+  },
+  {
+    "Color ID": "SW0051",
+    "Color Name": "Classic Ivory",
+    "HEX": "F2E0C3"
+  },
+  {
+    "Color ID": "SW0052",
+    "Color Name": "Pearl Gray",
+    "HEX": "CBCEC5"
+  },
+  {
+    "Color ID": "SW0053",
+    "Color Name": "Porcelain",
+    "HEX": "E9E0D5"
+  },
+  {
+    "Color ID": "SW0054",
+    "Color Name": "Twilight Gray",
+    "HEX": "C8BFB5"
+  },
+  {
+    "Color ID": "SW0055",
+    "Color Name": "Light French Gray",
+    "HEX": "C2C0BB"
+  },
+  {
+    "Color ID": "SW0056",
+    "Color Name": "Classic Sand",
+    "HEX": "D6BCAA"
+  },
+  {
+    "Color ID": "SW0057",
+    "Color Name": "Chinese Red",
+    "HEX": "9E3E33"
+  },
+  {
+    "Color ID": "SW0058",
+    "Color Name": "Jazz Age Coral",
+    "HEX": "F1BFB1"
+  },
+  {
+    "Color ID": "SW0059",
+    "Color Name": "Frostwork",
+    "HEX": "CBD0C2"
+  },
+  {
+    "Color ID": "SW0060",
+    "Color Name": "Alexandrite",
+    "HEX": "598C74"
+  },
+  {
+    "Color ID": "SW0061",
+    "Color Name": "Salon Rose",
+    "HEX": "AB7878"
+  },
+  {
+    "Color ID": "SW0062",
+    "Color Name": "Studio Mauve",
+    "HEX": "C6B9B8"
+  },
+  {
+    "Color ID": "SW0063",
+    "Color Name": "Blue Sky",
+    "HEX": "ABD1C9"
+  },
+  {
+    "Color ID": "SW0064",
+    "Color Name": "Blue Peacock",
+    "HEX": "014E4C"
+  },
+  {
+    "Color ID": "SW0065",
+    "Color Name": "Vogue Green",
+    "HEX": "4B5645"
+  },
+  {
+    "Color ID": "SW0066",
+    "Color Name": "Cascade Green",
+    "HEX": "ACB19F"
+  },
+  {
+    "Color ID": "SW0067",
+    "Color Name": "Belvedere Cream",
+    "HEX": "F0CDA0"
+  },
+  {
+    "Color ID": "SW0068",
+    "Color Name": "Copen Blue",
+    "HEX": "C2CCC4"
+  },
+  {
+    "Color ID": "SW0069",
+    "Color Name": "Rose Tan",
+    "HEX": "CD9C85"
+  },
+  {
+    "Color ID": "SW0070",
+    "Color Name": "Pink Shadow",
+    "HEX": "DEC3B9"
+  },
+  {
+    "Color ID": "SW0071",
+    "Color Name": "Orchid",
+    "HEX": "BC9C9E"
+  },
+  {
+    "Color ID": "SW0072",
+    "Color Name": "Deep Maroon",
+    "HEX": "623F45"
+  },
+  {
+    "Color ID": "SW0073",
+    "Color Name": "Chartreuse",
+    "HEX": "E1D286"
+  },
+  {
+    "Color ID": "SW0074",
+    "Color Name": "Radiant Lilac",
+    "HEX": "A489A0"
+  },
+  {
+    "Color ID": "SW0075",
+    "Color Name": "Holiday Turquoise",
+    "HEX": "8AC6BD"
+  },
+  {
+    "Color ID": "SW0076",
+    "Color Name": "Appleblossom",
+    "HEX": "DAB5B4"
+  },
+  {
+    "Color ID": "SW0077",
+    "Color Name": "Classic French Gray",
+    "HEX": "888782"
+  },
+  {
+    "Color ID": "SW0078",
+    "Color Name": "Sunbeam Yellow",
+    "HEX": "F0D39D"
+  },
+  {
+    "Color ID": "SW0079",
+    "Color Name": "Pinky Beige",
+    "HEX": "C9AA98"
+  },
+  {
+    "Color ID": "SW0080",
+    "Color Name": "Pink Flamingo",
+    "HEX": "CD717B"
+  },
+  {
+    "Color ID": "SW1015",
+    "Color Name": "Skyline Steel",
+    "HEX": "C6BFB3"
+  },
+  {
+    "Color ID": "SW1666",
+    "Color Name": "Venetian Yellow",
+    "HEX": "F6E3A1"
+  },
+  {
+    "Color ID": "SW1667",
+    "Color Name": "Icy Lemonade",
+    "HEX": "F4E8B2"
+  },
+  {
+    "Color ID": "SW1668",
+    "Color Name": "Pineapple Cream",
+    "HEX": "F2EAC3"
+  },
+  {
+    "Color ID": "SW2704",
+    "Color Name": "Merlot",
+    "HEX": "51323B"
+  },
+  {
+    "Color ID": "SW2735",
+    "Color Name": "Rockweed",
+    "HEX": "443735"
+  },
+  {
+    "Color ID": "SW2739",
+    "Color Name": "Charcoal Blue",
+    "HEX": "3D4450"
+  },
+  {
+    "Color ID": "SW2740",
+    "Color Name": "Mineral Gray",
+    "HEX": "515763"
+  },
+  {
+    "Color ID": "SW2801",
+    "Color Name": "Rookwood Dark Red",
+    "HEX": "4B2929"
+  },
+  {
+    "Color ID": "SW2802",
+    "Color Name": "Rookwood Red",
+    "HEX": "622F2D"
+  },
+  {
+    "Color ID": "SW2803",
+    "Color Name": "Rookwood Terra Cotta",
+    "HEX": "975840"
+  },
+  {
+    "Color ID": "SW2804",
+    "Color Name": "Renwick Rose Beige",
+    "HEX": "AF8871"
+  },
+  {
+    "Color ID": "SW2805",
+    "Color Name": "Renwick Beige",
+    "HEX": "C3B09D"
+  },
+  {
+    "Color ID": "SW2806",
+    "Color Name": "Rookwood Brown",
+    "HEX": "7F614A"
+  },
+  {
+    "Color ID": "SW2807",
+    "Color Name": "Rookwood Medium Brown",
+    "HEX": "6E5241"
+  },
+  {
+    "Color ID": "SW2808",
+    "Color Name": "Rookwood Dark Brown",
+    "HEX": "5F4D43"
+  },
+  {
+    "Color ID": "SW2809",
+    "Color Name": "Rookwood Shutter Green",
+    "HEX": "303B39"
+  },
+  {
+    "Color ID": "SW2810",
+    "Color Name": "Rookwood Sash Green",
+    "HEX": "506A67"
+  },
+  {
+    "Color ID": "SW2811",
+    "Color Name": "Rookwood Blue Green",
+    "HEX": "738478"
+  },
+  {
+    "Color ID": "SW2812",
+    "Color Name": "Rookwood Jade",
+    "HEX": "979F7F"
+  },
+  {
+    "Color ID": "SW2813",
+    "Color Name": "Downing Straw",
+    "HEX": "CAAB7D"
+  },
+  {
+    "Color ID": "SW2814",
+    "Color Name": "Rookwood Antique Gold",
+    "HEX": "A58258"
+  },
+  {
+    "Color ID": "SW2815",
+    "Color Name": "Renwick Olive",
+    "HEX": "97896A"
+  },
+  {
+    "Color ID": "SW2816",
+    "Color Name": "Rookwood Dark Green",
+    "HEX": "565C4A"
+  },
+  {
+    "Color ID": "SW2817",
+    "Color Name": "Rookwood Amber",
+    "HEX": "C08650"
+  },
+  {
+    "Color ID": "SW2818",
+    "Color Name": "Renwick Heather",
+    "HEX": "8B7D7B"
+  },
+  {
+    "Color ID": "SW2819",
+    "Color Name": "Downing Slate",
+    "HEX": "777F86"
+  },
+  {
+    "Color ID": "SW2820",
+    "Color Name": "Downing Earth",
+    "HEX": "887B67"
+  },
+  {
+    "Color ID": "SW2821",
+    "Color Name": "Downing Stone",
+    "HEX": "A6A397"
+  },
+  {
+    "Color ID": "SW2822",
+    "Color Name": "Downing Sand",
+    "HEX": "CBBCA5"
+  },
+  {
+    "Color ID": "SW2823",
+    "Color Name": "Rookwood Clay",
+    "HEX": "9A7E64"
+  },
+  {
+    "Color ID": "SW2824",
+    "Color Name": "Renwick Golden Oak",
+    "HEX": "96724C"
+  },
+  {
+    "Color ID": "SW2826",
+    "Color Name": "Colonial Revival Green Stone",
+    "HEX": "A39B7E"
+  },
+  {
+    "Color ID": "SW2827",
+    "Color Name": "Colonial Revival Stone",
+    "HEX": "A7947C"
+  },
+  {
+    "Color ID": "SW2828",
+    "Color Name": "Colonial Revival Tan",
+    "HEX": "D3B699"
+  },
+  {
+    "Color ID": "SW2829",
+    "Color Name": "Classical White",
+    "HEX": "ECE1CB"
+  },
+  {
+    "Color ID": "SW2831",
+    "Color Name": "Classical Gold",
+    "HEX": "EBB875"
+  },
+  {
+    "Color ID": "SW2832",
+    "Color Name": "Colonial Revival Gray",
+    "HEX": "B4B9B9"
+  },
+  {
+    "Color ID": "SW2833",
+    "Color Name": "Roycroft Vellum",
+    "HEX": "E8D9BD"
+  },
+  {
+    "Color ID": "SW2834",
+    "Color Name": "Birdseye Maple",
+    "HEX": "E4C495"
+  },
+  {
+    "Color ID": "SW2835",
+    "Color Name": "Craftsman Brown",
+    "HEX": "AE9278"
+  },
+  {
+    "Color ID": "SW2836",
+    "Color Name": "Quartersawn Oak",
+    "HEX": "85695B"
+  },
+  {
+    "Color ID": "SW2837",
+    "Color Name": "Aurora Brown",
+    "HEX": "6A4238"
+  },
+  {
+    "Color ID": "SW2838",
+    "Color Name": "Polished Mahogany",
+    "HEX": "432722"
+  },
+  {
+    "Color ID": "SW2839",
+    "Color Name": "Roycroft Copper Red",
+    "HEX": "7B3728"
+  },
+  {
+    "Color ID": "SW2840",
+    "Color Name": "Hammered Silver",
+    "HEX": "978A7F"
+  },
+  {
+    "Color ID": "SW2841",
+    "Color Name": "Weathered Shingle",
+    "HEX": "937F68"
+  },
+  {
+    "Color ID": "SW2842",
+    "Color Name": "Roycroft Suede",
+    "HEX": "A79473"
+  },
+  {
+    "Color ID": "SW2843",
+    "Color Name": "Roycroft Brass",
+    "HEX": "7A6A51"
+  },
+  {
+    "Color ID": "SW2844",
+    "Color Name": "Roycroft Mist Gray",
+    "HEX": "C2BDB1"
+  },
+  {
+    "Color ID": "SW2845",
+    "Color Name": "Bunglehouse Gray",
+    "HEX": "988F7B"
+  },
+  {
+    "Color ID": "SW2846",
+    "Color Name": "Roycroft Bronze Green",
+    "HEX": "575449"
+  },
+  {
+    "Color ID": "SW2847",
+    "Color Name": "Roycroft Bottle Green",
+    "HEX": "324038"
+  },
+  {
+    "Color ID": "SW2848",
+    "Color Name": "Roycroft Pewter",
+    "HEX": "616564"
+  },
+  {
+    "Color ID": "SW2849",
+    "Color Name": "Westchester Gray",
+    "HEX": "797978"
+  },
+  {
+    "Color ID": "SW2850",
+    "Color Name": "Chelsea Gray",
+    "HEX": "B6B7B0"
+  },
+  {
+    "Color ID": "SW2851",
+    "Color Name": "Sage Green Light",
+    "HEX": "73705E"
+  },
+  {
+    "Color ID": "SW2853",
+    "Color Name": "New Colonial Yellow",
+    "HEX": "D9AD7F"
+  },
+  {
+    "Color ID": "SW2854",
+    "Color Name": "Caribbean Coral",
+    "HEX": "BE795E"
+  },
+  {
+    "Color ID": "SW2855",
+    "Color Name": "Sycamore Tan",
+    "HEX": "9C8A79"
+  },
+  {
+    "Color ID": "SW2856",
+    "Color Name": "Fairfax Brown",
+    "HEX": "61463A"
+  },
+  {
+    "Color ID": "SW2857",
+    "Color Name": "Peace Yellow",
+    "HEX": "EECF9E"
+  },
+  {
+    "Color ID": "SW2858",
+    "Color Name": "Harvest Gold",
+    "HEX": "D9A06A"
+  },
+  {
+    "Color ID": "SW2859",
+    "Color Name": "Beige",
+    "HEX": "DFC8B5"
+  },
+  {
+    "Color ID": "SW2860",
+    "Color Name": "Sage",
+    "HEX": "B3AE95"
+  },
+  {
+    "Color ID": "SW2861",
+    "Color Name": "Avocado",
+    "HEX": "857C5D"
+  },
+  {
+    "Color ID": "SW2863",
+    "Color Name": "Powder Blue",
+    "HEX": "89A4AD"
+  },
+  {
+    "Color ID": "SW2865",
+    "Color Name": "Classical Yellow",
+    "HEX": "F8D492"
+  },
+  {
+    "Color ID": "SW6000",
+    "Color Name": "Snowfall",
+    "HEX": "E0DEDA"
+  },
+  {
+    "Color ID": "SW6001",
+    "Color Name": "Grayish",
+    "HEX": "CFCAC7"
+  },
+  {
+    "Color ID": "SW6002",
+    "Color Name": "Essential Gray",
+    "HEX": "BCB8B6"
+  },
+  {
+    "Color ID": "SW6003",
+    "Color Name": "Proper Gray",
+    "HEX": "ADA8A5"
+  },
+  {
+    "Color ID": "SW6004",
+    "Color Name": "Mink",
+    "HEX": "847B77"
+  },
+  {
+    "Color ID": "SW6005",
+    "Color Name": "Folkstone",
+    "HEX": "6D6562"
+  },
+  {
+    "Color ID": "SW6006",
+    "Color Name": "Black Bean",
+    "HEX": "403330"
+  },
+  {
+    "Color ID": "SW6007",
+    "Color Name": "Smart White",
+    "HEX": "E4DBD8"
+  },
+  {
+    "Color ID": "SW6008",
+    "Color Name": "Individual White",
+    "HEX": "D4CDCA"
+  },
+  {
+    "Color ID": "SW6009",
+    "Color Name": "Imagine",
+    "HEX": "C2B6B6"
+  },
+  {
+    "Color ID": "SW6010",
+    "Color Name": "Flexible Gray",
+    "HEX": "B1A3A1"
+  },
+  {
+    "Color ID": "SW6011",
+    "Color Name": "Chinchilla",
+    "HEX": "867875"
+  },
+  {
+    "Color ID": "SW6012",
+    "Color Name": "Browse Brown",
+    "HEX": "6E615F"
+  },
+  {
+    "Color ID": "SW6013",
+    "Color Name": "Bitter Chocolate",
+    "HEX": "4D3C3C"
+  },
+  {
+    "Color ID": "SW6015",
+    "Color Name": "Vaguely Mauve",
+    "HEX": "D1C5C4"
+  },
+  {
+    "Color ID": "SW6016",
+    "Color Name": "Chaise Mauve",
+    "HEX": "C1B2B3"
+  },
+  {
+    "Color ID": "SW6017",
+    "Color Name": "Intuitive",
+    "HEX": "B3A3A5"
+  },
+  {
+    "Color ID": "SW6018",
+    "Color Name": "Enigma",
+    "HEX": "8B7C7E"
+  },
+  {
+    "Color ID": "SW6019",
+    "Color Name": "Poetry Plum",
+    "HEX": "6F5C5F"
+  },
+  {
+    "Color ID": "SW6020",
+    "Color Name": "Marooned",
+    "HEX": "4E3132"
+  },
+  {
+    "Color ID": "SW6021",
+    "Color Name": "Dreamy White",
+    "HEX": "E3D9D5"
+  },
+  {
+    "Color ID": "SW6022",
+    "Color Name": "Breathless",
+    "HEX": "D6C2BE"
+  },
+  {
+    "Color ID": "SW6023",
+    "Color Name": "Insightful Rose",
+    "HEX": "C9B0AB"
+  },
+  {
+    "Color ID": "SW6024",
+    "Color Name": "Dressy Rose",
+    "HEX": "B89D9A"
+  },
+  {
+    "Color ID": "SW6025",
+    "Color Name": "Socialite",
+    "HEX": "907676"
+  },
+  {
+    "Color ID": "SW6026",
+    "Color Name": "River Rouge",
+    "HEX": "76595D"
+  },
+  {
+    "Color ID": "SW6027",
+    "Color Name": "Cordovan",
+    "HEX": "5F3D3F"
+  },
+  {
+    "Color ID": "SW6028",
+    "Color Name": "Cultured Pearl",
+    "HEX": "E5DCD6"
+  },
+  {
+    "Color ID": "SW6029",
+    "Color Name": "White Truffle",
+    "HEX": "D7C8C2"
+  },
+  {
+    "Color ID": "SW6030",
+    "Color Name": "Artistic Taupe",
+    "HEX": "C3B1AC"
+  },
+  {
+    "Color ID": "SW6031",
+    "Color Name": "Glamour",
+    "HEX": "B6A09A"
+  },
+  {
+    "Color ID": "SW6032",
+    "Color Name": "Dutch Cocoa",
+    "HEX": "8C706A"
+  },
+  {
+    "Color ID": "SW6033",
+    "Color Name": "Bateau Brown",
+    "HEX": "7A5F5A"
+  },
+  {
+    "Color ID": "SW6034",
+    "Color Name": "Dark Auburn",
+    "HEX": "5A3532"
+  },
+  {
+    "Color ID": "SW6035",
+    "Color Name": "Gauzy White",
+    "HEX": "E3DBD4"
+  },
+  {
+    "Color ID": "SW6036",
+    "Color Name": "Angora",
+    "HEX": "D1C5BE"
+  },
+  {
+    "Color ID": "SW6037",
+    "Color Name": "Temperate Taupe",
+    "HEX": "BFB1AA"
+  },
+  {
+    "Color ID": "SW6038",
+    "Color Name": "Truly Taupe",
+    "HEX": "AC9E97"
+  },
+  {
+    "Color ID": "SW6039",
+    "Color Name": "Poised Taupe",
+    "HEX": "8C7E78"
+  },
+  {
+    "Color ID": "SW6040",
+    "Color Name": "Nutshell",
+    "HEX": "756761"
+  },
+  {
+    "Color ID": "SW6041",
+    "Color Name": "Otter",
+    "HEX": "56433B"
+  },
+  {
+    "Color ID": "SW6042",
+    "Color Name": "Hush White",
+    "HEX": "E5DAD4"
+  },
+  {
+    "Color ID": "SW6043",
+    "Color Name": "Unfussy Beige",
+    "HEX": "D6C8C0"
+  },
+  {
+    "Color ID": "SW6044",
+    "Color Name": "Doeskin",
+    "HEX": "C6B3A9"
+  },
+  {
+    "Color ID": "SW6045",
+    "Color Name": "Emerging Taupe",
+    "HEX": "B8A196"
+  },
+  {
+    "Color ID": "SW6046",
+    "Color Name": "Swing Brown",
+    "HEX": "947569"
+  },
+  {
+    "Color ID": "SW6047",
+    "Color Name": "Hot Cocoa",
+    "HEX": "806257"
+  },
+  {
+    "Color ID": "SW6048",
+    "Color Name": "Terra Brun",
+    "HEX": "5A382D"
+  },
+  {
+    "Color ID": "SW6049",
+    "Color Name": "Gorgeous White",
+    "HEX": "E7DBD3"
+  },
+  {
+    "Color ID": "SW6050",
+    "Color Name": "Abalone Shell",
+    "HEX": "DBC7BD"
+  },
+  {
+    "Color ID": "SW6051",
+    "Color Name": "Sashay Sand",
+    "HEX": "CFB4A8"
+  },
+  {
+    "Color ID": "SW6052",
+    "Color Name": "Sandbank",
+    "HEX": "C3A497"
+  },
+  {
+    "Color ID": "SW6053",
+    "Color Name": "Reddened Earth",
+    "HEX": "9C6E63"
+  },
+  {
+    "Color ID": "SW6054",
+    "Color Name": "Canyon Clay",
+    "HEX": "85594F"
+  },
+  {
+    "Color ID": "SW6055",
+    "Color Name": "Fiery Brown",
+    "HEX": "5D3831"
+  },
+  {
+    "Color ID": "SW6056",
+    "Color Name": "Polite White",
+    "HEX": "E9DDD4"
+  },
+  {
+    "Color ID": "SW6057",
+    "Color Name": "Malted Milk",
+    "HEX": "DECABD"
+  },
+  {
+    "Color ID": "SW6058",
+    "Color Name": "Likeable Sand",
+    "HEX": "D1B7A8"
+  },
+  {
+    "Color ID": "SW6059",
+    "Color Name": "Interface Tan",
+    "HEX": "C1A392"
+  },
+  {
+    "Color ID": "SW6060",
+    "Color Name": "Moroccan Spice",
+    "HEX": "9D7868"
+  },
+  {
+    "Color ID": "SW6061",
+    "Color Name": "Tanbark",
+    "HEX": "896656"
+  },
+  {
+    "Color ID": "SW6062",
+    "Color Name": "Vintage Leather",
+    "HEX": "694336"
+  },
+  {
+    "Color ID": "SW6063",
+    "Color Name": "Nice White",
+    "HEX": "E6DDD5"
+  },
+  {
+    "Color ID": "SW6064",
+    "Color Name": "Reticence",
+    "HEX": "D9CDC3"
+  },
+  {
+    "Color ID": "SW6065",
+    "Color Name": "Bona Fide Beige",
+    "HEX": "CBB9AB"
+  },
+  {
+    "Color ID": "SW6066",
+    "Color Name": "Sand Trap",
+    "HEX": "BBA595"
+  },
+  {
+    "Color ID": "SW6067",
+    "Color Name": "Mocha",
+    "HEX": "967A6A"
+  },
+  {
+    "Color ID": "SW6068",
+    "Color Name": "Brevity Brown",
+    "HEX": "715243"
+  },
+  {
+    "Color ID": "SW6069",
+    "Color Name": "French Roast",
+    "HEX": "4F3426"
+  },
+  {
+    "Color ID": "SW6070",
+    "Color Name": "Heron Plume",
+    "HEX": "E5E1D8"
+  },
+  {
+    "Color ID": "SW6071",
+    "Color Name": "Popular Gray",
+    "HEX": "D4CCC3"
+  },
+  {
+    "Color ID": "SW6072",
+    "Color Name": "Versatile Gray",
+    "HEX": "C1B6AB"
+  },
+  {
+    "Color ID": "SW6073",
+    "Color Name": "Perfect Greige",
+    "HEX": "B7AB9F"
+  },
+  {
+    "Color ID": "SW6074",
+    "Color Name": "Spalding Gray",
+    "HEX": "8D7F75"
+  },
+  {
+    "Color ID": "SW6075",
+    "Color Name": "Garret Gray",
+    "HEX": "756861"
+  },
+  {
+    "Color ID": "SW6076",
+    "Color Name": "Turkish Coffee",
+    "HEX": "4D3930"
+  },
+  {
+    "Color ID": "SW6077",
+    "Color Name": "Everyday White",
+    "HEX": "E4DCD4"
+  },
+  {
+    "Color ID": "SW6078",
+    "Color Name": "Realist Beige",
+    "HEX": "D3C8BD"
+  },
+  {
+    "Color ID": "SW6079",
+    "Color Name": "Diverse Beige",
+    "HEX": "C2B4A7"
+  },
+  {
+    "Color ID": "SW6080",
+    "Color Name": "Utterly Beige",
+    "HEX": "B5A597"
+  },
+  {
+    "Color ID": "SW6081",
+    "Color Name": "Down Home",
+    "HEX": "907865"
+  },
+  {
+    "Color ID": "SW6082",
+    "Color Name": "Cobble Brown",
+    "HEX": "7A6455"
+  },
+  {
+    "Color ID": "SW6083",
+    "Color Name": "Sable",
+    "HEX": "5F4B3F"
+  },
+  {
+    "Color ID": "SW6084",
+    "Color Name": "Modest White",
+    "HEX": "E6DDD4"
+  },
+  {
+    "Color ID": "SW6085",
+    "Color Name": "Simplify Beige",
+    "HEX": "D6C7B9"
+  },
+  {
+    "Color ID": "SW6086",
+    "Color Name": "Sand Dune",
+    "HEX": "C5B1A2"
+  },
+  {
+    "Color ID": "SW6087",
+    "Color Name": "Trusty Tan",
+    "HEX": "B59F8F"
+  },
+  {
+    "Color ID": "SW6088",
+    "Color Name": "Nuthatch",
+    "HEX": "8E725F"
+  },
+  {
+    "Color ID": "SW6089",
+    "Color Name": "Grounded",
+    "HEX": "785B47"
+  },
+  {
+    "Color ID": "SW6090",
+    "Color Name": "Java",
+    "HEX": "634533"
+  },
+  {
+    "Color ID": "SW6091",
+    "Color Name": "Reliable White",
+    "HEX": "E8DED3"
+  },
+  {
+    "Color ID": "SW6092",
+    "Color Name": "Lightweight Beige",
+    "HEX": "DAC8B8"
+  },
+  {
+    "Color ID": "SW6093",
+    "Color Name": "Familiar Beige",
+    "HEX": "CAB3A0"
+  },
+  {
+    "Color ID": "SW6094",
+    "Color Name": "Sensational Sand",
+    "HEX": "BFA38D"
+  },
+  {
+    "Color ID": "SW6095",
+    "Color Name": "Toasty",
+    "HEX": "957258"
+  },
+  {
+    "Color ID": "SW6096",
+    "Color Name": "Jute Brown",
+    "HEX": "815D40"
+  },
+  {
+    "Color ID": "SW6097",
+    "Color Name": "Sturdy Brown",
+    "HEX": "69482C"
+  },
+  {
+    "Color ID": "SW6098",
+    "Color Name": "Pacer White",
+    "HEX": "E5DDD0"
+  },
+  {
+    "Color ID": "SW6099",
+    "Color Name": "Sand Dollar",
+    "HEX": "D7C5B3"
+  },
+  {
+    "Color ID": "SW6100",
+    "Color Name": "Practical Beige",
+    "HEX": "C9B29C"
+  },
+  {
+    "Color ID": "SW6101",
+    "Color Name": "Sands of Time",
+    "HEX": "BCA38B"
+  },
+  {
+    "Color ID": "SW6102",
+    "Color Name": "Portabello",
+    "HEX": "947A62"
+  },
+  {
+    "Color ID": "SW6103",
+    "Color Name": "Tea Chest",
+    "HEX": "7D644D"
+  },
+  {
+    "Color ID": "SW6104",
+    "Color Name": "Kaffee",
+    "HEX": "65503D"
+  },
+  {
+    "Color ID": "SW6105",
+    "Color Name": "Divine White",
+    "HEX": "E6DCCD"
+  },
+  {
+    "Color ID": "SW6106",
+    "Color Name": "Kilim Beige",
+    "HEX": "D7C5AE"
+  },
+  {
+    "Color ID": "SW6107",
+    "Color Name": "Nomadic Desert",
+    "HEX": "C7B198"
+  },
+  {
+    "Color ID": "SW6108",
+    "Color Name": "Latte",
+    "HEX": "BAA185"
+  },
+  {
+    "Color ID": "SW6109",
+    "Color Name": "Hopsack",
+    "HEX": "9E8163"
+  },
+  {
+    "Color ID": "SW6110",
+    "Color Name": "Steady Brown",
+    "HEX": "8A6B4D"
+  },
+  {
+    "Color ID": "SW6111",
+    "Color Name": "Coconut Husk",
+    "HEX": "70573F"
+  },
+  {
+    "Color ID": "SW6112",
+    "Color Name": "Biscuit",
+    "HEX": "EBDDCB"
+  },
+  {
+    "Color ID": "SW6113",
+    "Color Name": "Interactive Cream",
+    "HEX": "E4CAAD"
+  },
+  {
+    "Color ID": "SW6114",
+    "Color Name": "Bagel",
+    "HEX": "D7B593"
+  },
+  {
+    "Color ID": "SW6115",
+    "Color Name": "Totally Tan",
+    "HEX": "CCA683"
+  },
+  {
+    "Color ID": "SW6116",
+    "Color Name": "Tatami Tan",
+    "HEX": "BA8C64"
+  },
+  {
+    "Color ID": "SW6117",
+    "Color Name": "Smokey Topaz",
+    "HEX": "A57955"
+  },
+  {
+    "Color ID": "SW6118",
+    "Color Name": "Leather Bound",
+    "HEX": "8D623D"
+  },
+  {
+    "Color ID": "SW6119",
+    "Color Name": "Antique White",
+    "HEX": "E8DCC6"
+  },
+  {
+    "Color ID": "SW6120",
+    "Color Name": "Believable Buff",
+    "HEX": "DBC7A8"
+  },
+  {
+    "Color ID": "SW6121",
+    "Color Name": "Whole Wheat",
+    "HEX": "CDB592"
+  },
+  {
+    "Color ID": "SW6122",
+    "Color Name": "Camelback",
+    "HEX": "C5AA85"
+  },
+  {
+    "Color ID": "SW6123",
+    "Color Name": "Baguette",
+    "HEX": "B39167"
+  },
+  {
+    "Color ID": "SW6124",
+    "Color Name": "Cardboard",
+    "HEX": "9C7A56"
+  },
+  {
+    "Color ID": "SW6125",
+    "Color Name": "Craft Paper",
+    "HEX": "8A6645"
+  },
+  {
+    "Color ID": "SW6126",
+    "Color Name": "Navajo White",
+    "HEX": "E9DCC6"
+  },
+  {
+    "Color ID": "SW6127",
+    "Color Name": "Ivoire",
+    "HEX": "E4CEAC"
+  },
+  {
+    "Color ID": "SW6128",
+    "Color Name": "Blonde",
+    "HEX": "DCBD92"
+  },
+  {
+    "Color ID": "SW6129",
+    "Color Name": "Restrained Gold",
+    "HEX": "D2B084"
+  },
+  {
+    "Color ID": "SW6130",
+    "Color Name": "Mannered Gold",
+    "HEX": "C19763"
+  },
+  {
+    "Color ID": "SW6131",
+    "Color Name": "Chamois",
+    "HEX": "AD8451"
+  },
+  {
+    "Color ID": "SW6132",
+    "Color Name": "Relic Bronze",
+    "HEX": "906A3A"
+  },
+  {
+    "Color ID": "SW6133",
+    "Color Name": "Muslin",
+    "HEX": "EADFC9"
+  },
+  {
+    "Color ID": "SW6134",
+    "Color Name": "Netsuke",
+    "HEX": "E0CFB0"
+  },
+  {
+    "Color ID": "SW6135",
+    "Color Name": "Ecru",
+    "HEX": "D0BA94"
+  },
+  {
+    "Color ID": "SW6136",
+    "Color Name": "Harmonic Tan",
+    "HEX": "C6B08A"
+  },
+  {
+    "Color ID": "SW6137",
+    "Color Name": "Burlap",
+    "HEX": "AC9571"
+  },
+  {
+    "Color ID": "SW6138",
+    "Color Name": "Artifact",
+    "HEX": "9A815E"
+  },
+  {
+    "Color ID": "SW6139",
+    "Color Name": "Mossy Gold",
+    "HEX": "7F6743"
+  },
+  {
+    "Color ID": "SW6140",
+    "Color Name": "Moderate White",
+    "HEX": "E9DECF"
+  },
+  {
+    "Color ID": "SW6141",
+    "Color Name": "Softer Tan",
+    "HEX": "DACAB2"
+  },
+  {
+    "Color ID": "SW6142",
+    "Color Name": "Macadamia",
+    "HEX": "CCB79B"
+  },
+  {
+    "Color ID": "SW6143",
+    "Color Name": "Basket Beige",
+    "HEX": "C0A98B"
+  },
+  {
+    "Color ID": "SW6144",
+    "Color Name": "Dapper Tan",
+    "HEX": "947F65"
+  },
+  {
+    "Color ID": "SW6145",
+    "Color Name": "Thatch Brown",
+    "HEX": "867057"
+  },
+  {
+    "Color ID": "SW6146",
+    "Color Name": "Umber",
+    "HEX": "6E543C"
+  },
+  {
+    "Color ID": "SW6147",
+    "Color Name": "Panda White",
+    "HEX": "EAE2D4"
+  },
+  {
+    "Color ID": "SW6148",
+    "Color Name": "Wool Skein",
+    "HEX": "D9CFBA"
+  },
+  {
+    "Color ID": "SW6149",
+    "Color Name": "Relaxed Khaki",
+    "HEX": "C8BBA3"
+  },
+  {
+    "Color ID": "SW6150",
+    "Color Name": "Universal Khaki",
+    "HEX": "B8A992"
+  },
+  {
+    "Color ID": "SW6151",
+    "Color Name": "Quiver Tan",
+    "HEX": "8E7F6A"
+  },
+  {
+    "Color ID": "SW6152",
+    "Color Name": "Superior Bronze",
+    "HEX": "786957"
+  },
+  {
+    "Color ID": "SW6153",
+    "Color Name": "Prot\u00e9g\u00e9 Bronze",
+    "HEX": "66543E"
+  },
+  {
+    "Color ID": "SW6154",
+    "Color Name": "Nacre",
+    "HEX": "E8E2D4"
+  },
+  {
+    "Color ID": "SW6155",
+    "Color Name": "Rice Grain",
+    "HEX": "DBD0B9"
+  },
+  {
+    "Color ID": "SW6156",
+    "Color Name": "Ramie",
+    "HEX": "CDBDA2"
+  },
+  {
+    "Color ID": "SW6157",
+    "Color Name": "Favorite Tan",
+    "HEX": "C1AE91"
+  },
+  {
+    "Color ID": "SW6158",
+    "Color Name": "Sawdust",
+    "HEX": "998970"
+  },
+  {
+    "Color ID": "SW6159",
+    "Color Name": "High Tea",
+    "HEX": "7E6F59"
+  },
+  {
+    "Color ID": "SW6160",
+    "Color Name": "Best Bronze",
+    "HEX": "5D513E"
+  },
+  {
+    "Color ID": "SW6161",
+    "Color Name": "Nonchalant White",
+    "HEX": "DEDDD1"
+  },
+  {
+    "Color ID": "SW6162",
+    "Color Name": "Ancient Marble",
+    "HEX": "D1CCB9"
+  },
+  {
+    "Color ID": "SW6163",
+    "Color Name": "Grassland",
+    "HEX": "C1BCA7"
+  },
+  {
+    "Color ID": "SW6164",
+    "Color Name": "Svelte Sage",
+    "HEX": "B2AC96"
+  },
+  {
+    "Color ID": "SW6165",
+    "Color Name": "Connected Gray",
+    "HEX": "898473"
+  },
+  {
+    "Color ID": "SW6166",
+    "Color Name": "Eclipse",
+    "HEX": "6B6757"
+  },
+  {
+    "Color ID": "SW6167",
+    "Color Name": "Garden Gate",
+    "HEX": "5E5949"
+  },
+  {
+    "Color ID": "SW6168",
+    "Color Name": "Moderne White",
+    "HEX": "E2E0D7"
+  },
+  {
+    "Color ID": "SW6169",
+    "Color Name": "Sedate Gray",
+    "HEX": "D1CDBF"
+  },
+  {
+    "Color ID": "SW6170",
+    "Color Name": "Techno Gray",
+    "HEX": "BFB9AA"
+  },
+  {
+    "Color ID": "SW6171",
+    "Color Name": "Chatroom",
+    "HEX": "B0AB9C"
+  },
+  {
+    "Color ID": "SW6172",
+    "Color Name": "Hardware",
+    "HEX": "8B8372"
+  },
+  {
+    "Color ID": "SW6173",
+    "Color Name": "Cocoon",
+    "HEX": "726B5B"
+  },
+  {
+    "Color ID": "SW6174",
+    "Color Name": "Andiron",
+    "HEX": "424036"
+  },
+  {
+    "Color ID": "SW6175",
+    "Color Name": "Sagey",
+    "HEX": "E2E2D1"
+  },
+  {
+    "Color ID": "SW6176",
+    "Color Name": "Liveable Green",
+    "HEX": "CECEBD"
+  },
+  {
+    "Color ID": "SW6177",
+    "Color Name": "Softened Green",
+    "HEX": "BBBCA7"
+  },
+  {
+    "Color ID": "SW6178",
+    "Color Name": "Clary Sage",
+    "HEX": "ACAD97"
+  },
+  {
+    "Color ID": "SW6179",
+    "Color Name": "Artichoke",
+    "HEX": "7F8266"
+  },
+  {
+    "Color ID": "SW6180",
+    "Color Name": "Oakmoss",
+    "HEX": "65684C"
+  },
+  {
+    "Color ID": "SW6181",
+    "Color Name": "Secret Garden",
+    "HEX": "4F523A"
+  },
+  {
+    "Color ID": "SW6182",
+    "Color Name": "Ethereal White",
+    "HEX": "E3E2D9"
+  },
+  {
+    "Color ID": "SW6183",
+    "Color Name": "Conservative Gray",
+    "HEX": "D1D0C6"
+  },
+  {
+    "Color ID": "SW6184",
+    "Color Name": "Austere Gray",
+    "HEX": "BEBFB2"
+  },
+  {
+    "Color ID": "SW6185",
+    "Color Name": "Escape Gray",
+    "HEX": "ABAC9F"
+  },
+  {
+    "Color ID": "SW6186",
+    "Color Name": "Dried Thyme",
+    "HEX": "7B8070"
+  },
+  {
+    "Color ID": "SW6187",
+    "Color Name": "Rosemary",
+    "HEX": "64695C"
+  },
+  {
+    "Color ID": "SW6188",
+    "Color Name": "Shade\u2010Grown",
+    "HEX": "4E5147"
+  },
+  {
+    "Color ID": "SW6189",
+    "Color Name": "Opaline",
+    "HEX": "DCDFD7"
+  },
+  {
+    "Color ID": "SW6190",
+    "Color Name": "Filmy Green",
+    "HEX": "D1D3C7"
+  },
+  {
+    "Color ID": "SW6191",
+    "Color Name": "Contented",
+    "HEX": "BDC0B3"
+  },
+  {
+    "Color ID": "SW6192",
+    "Color Name": "Coastal Plain",
+    "HEX": "9FA694"
+  },
+  {
+    "Color ID": "SW6193",
+    "Color Name": "Privilege Green",
+    "HEX": "7A8775"
+  },
+  {
+    "Color ID": "SW6194",
+    "Color Name": "Basil",
+    "HEX": "626E60"
+  },
+  {
+    "Color ID": "SW6195",
+    "Color Name": "Rock Garden",
+    "HEX": "465448"
+  },
+  {
+    "Color ID": "SW6196",
+    "Color Name": "Frosty White",
+    "HEX": "DDDDD6"
+  },
+  {
+    "Color ID": "SW6197",
+    "Color Name": "Aloof Gray",
+    "HEX": "C9C9C0"
+  },
+  {
+    "Color ID": "SW6198",
+    "Color Name": "Sensible Hue",
+    "HEX": "B6B5AB"
+  },
+  {
+    "Color ID": "SW6199",
+    "Color Name": "Rare Gray",
+    "HEX": "A6A69B"
+  },
+  {
+    "Color ID": "SW6200",
+    "Color Name": "Link Gray",
+    "HEX": "7F7E72"
+  },
+  {
+    "Color ID": "SW6201",
+    "Color Name": "Thunderous",
+    "HEX": "6D6C62"
+  },
+  {
+    "Color ID": "SW6202",
+    "Color Name": "Cast Iron",
+    "HEX": "64645A"
+  },
+  {
+    "Color ID": "SW6203",
+    "Color Name": "Spare White",
+    "HEX": "E4E4DD"
+  },
+  {
+    "Color ID": "SW6204",
+    "Color Name": "Sea Salt",
+    "HEX": "CDD2CA"
+  },
+  {
+    "Color ID": "SW6205",
+    "Color Name": "Comfort Gray",
+    "HEX": "BEC3BB"
+  },
+  {
+    "Color ID": "SW6206",
+    "Color Name": "Oyster Bay",
+    "HEX": "AEB3A9"
+  },
+  {
+    "Color ID": "SW6207",
+    "Color Name": "Retreat",
+    "HEX": "7A8076"
+  },
+  {
+    "Color ID": "SW6208",
+    "Color Name": "Pewter Green",
+    "HEX": "5E6259"
+  },
+  {
+    "Color ID": "SW6209",
+    "Color Name": "Ripe Olive",
+    "HEX": "44483D"
+  },
+  {
+    "Color ID": "SW6210",
+    "Color Name": "Window Pane",
+    "HEX": "D7DFD8"
+  },
+  {
+    "Color ID": "SW6211",
+    "Color Name": "Rainwashed",
+    "HEX": "C2CDC5"
+  },
+  {
+    "Color ID": "SW6212",
+    "Color Name": "Quietude",
+    "HEX": "ADBBB2"
+  },
+  {
+    "Color ID": "SW6213",
+    "Color Name": "Halcyon Green",
+    "HEX": "9BAAA2"
+  },
+  {
+    "Color ID": "SW6214",
+    "Color Name": "Underseas",
+    "HEX": "7C8E87"
+  },
+  {
+    "Color ID": "SW6215",
+    "Color Name": "Rocky River",
+    "HEX": "5E706A"
+  },
+  {
+    "Color ID": "SW6216",
+    "Color Name": "Jasper",
+    "HEX": "343B36"
+  },
+  {
+    "Color ID": "SW6217",
+    "Color Name": "Topsail",
+    "HEX": "DAE2E0"
+  },
+  {
+    "Color ID": "SW6218",
+    "Color Name": "Tradewind",
+    "HEX": "C2CFCF"
+  },
+  {
+    "Color ID": "SW6219",
+    "Color Name": "Rain",
+    "HEX": "ABBEBF"
+  },
+  {
+    "Color ID": "SW6220",
+    "Color Name": "Interesting Aqua",
+    "HEX": "9BAFB2"
+  },
+  {
+    "Color ID": "SW6221",
+    "Color Name": "Moody Blue",
+    "HEX": "7A9192"
+  },
+  {
+    "Color ID": "SW6222",
+    "Color Name": "Riverway",
+    "HEX": "5D7274"
+  },
+  {
+    "Color ID": "SW6223",
+    "Color Name": "Still Water",
+    "HEX": "4A5D5F"
+  },
+  {
+    "Color ID": "SW6224",
+    "Color Name": "Mountain Air",
+    "HEX": "D8E0DF"
+  },
+  {
+    "Color ID": "SW6225",
+    "Color Name": "Sleepy Blue",
+    "HEX": "BCCBCE"
+  },
+  {
+    "Color ID": "SW6226",
+    "Color Name": "Languid Blue",
+    "HEX": "A4B7BD"
+  },
+  {
+    "Color ID": "SW6227",
+    "Color Name": "Meditative",
+    "HEX": "96AAB0"
+  },
+  {
+    "Color ID": "SW6228",
+    "Color Name": "Refuge",
+    "HEX": "607D84"
+  },
+  {
+    "Color ID": "SW6229",
+    "Color Name": "Tempe Star",
+    "HEX": "47626A"
+  },
+  {
+    "Color ID": "SW6230",
+    "Color Name": "Rainstorm",
+    "HEX": "244653"
+  },
+  {
+    "Color ID": "SW6231",
+    "Color Name": "Rock Candy",
+    "HEX": "DEE1DF"
+  },
+  {
+    "Color ID": "SW6232",
+    "Color Name": "Misty",
+    "HEX": "CDD2D2"
+  },
+  {
+    "Color ID": "SW6233",
+    "Color Name": "Samovar Silver",
+    "HEX": "B8BEBE"
+  },
+  {
+    "Color ID": "SW6234",
+    "Color Name": "Uncertain Gray",
+    "HEX": "A9B0B1"
+  },
+  {
+    "Color ID": "SW6235",
+    "Color Name": "Foggy Day",
+    "HEX": "727C7F"
+  },
+  {
+    "Color ID": "SW6236",
+    "Color Name": "Grays Harbor",
+    "HEX": "596368"
+  },
+  {
+    "Color ID": "SW6237",
+    "Color Name": "Dark Night",
+    "HEX": "23383F"
+  },
+  {
+    "Color ID": "SW6238",
+    "Color Name": "Icicle",
+    "HEX": "DBDFE0"
+  },
+  {
+    "Color ID": "SW6239",
+    "Color Name": "Upward",
+    "HEX": "BFC9D0"
+  },
+  {
+    "Color ID": "SW6240",
+    "Color Name": "Windy Blue",
+    "HEX": "AABAC6"
+  },
+  {
+    "Color ID": "SW6241",
+    "Color Name": "Aleutian",
+    "HEX": "98A9B7"
+  },
+  {
+    "Color ID": "SW6242",
+    "Color Name": "Bracing Blue",
+    "HEX": "768B9A"
+  },
+  {
+    "Color ID": "SW6243",
+    "Color Name": "Distance",
+    "HEX": "5D6F7F"
+  },
+  {
+    "Color ID": "SW6244",
+    "Color Name": "Naval",
+    "HEX": "2F3D4C"
+  },
+  {
+    "Color ID": "SW6245",
+    "Color Name": "Quicksilver",
+    "HEX": "DDE2E0"
+  },
+  {
+    "Color ID": "SW6246",
+    "Color Name": "North Star",
+    "HEX": "CAD0D2"
+  },
+  {
+    "Color ID": "SW6247",
+    "Color Name": "Krypton",
+    "HEX": "B8C0C3"
+  },
+  {
+    "Color ID": "SW6248",
+    "Color Name": "Jubilee",
+    "HEX": "ADB5B9"
+  },
+  {
+    "Color ID": "SW6249",
+    "Color Name": "Storm Cloud",
+    "HEX": "7A848D"
+  },
+  {
+    "Color ID": "SW6250",
+    "Color Name": "Granite Peak",
+    "HEX": "606B75"
+  },
+  {
+    "Color ID": "SW6251",
+    "Color Name": "Outerspace",
+    "HEX": "586168"
+  },
+  {
+    "Color ID": "SW6252",
+    "Color Name": "Ice Cube",
+    "HEX": "E3E4E1"
+  },
+  {
+    "Color ID": "SW6253",
+    "Color Name": "Olympus White",
+    "HEX": "D4D8D7"
+  },
+  {
+    "Color ID": "SW6254",
+    "Color Name": "Lazy Gray",
+    "HEX": "BEC1C3"
+  },
+  {
+    "Color ID": "SW6255",
+    "Color Name": "Morning Fog",
+    "HEX": "A8AEB1"
+  },
+  {
+    "Color ID": "SW6256",
+    "Color Name": "Serious Gray",
+    "HEX": "7D848B"
+  },
+  {
+    "Color ID": "SW6257",
+    "Color Name": "Gibraltar",
+    "HEX": "626970"
+  },
+  {
+    "Color ID": "SW6258",
+    "Color Name": "Tricorn Black",
+    "HEX": "2F2F30"
+  },
+  {
+    "Color ID": "SW6259",
+    "Color Name": "Spatial White",
+    "HEX": "DDDCDB"
+  },
+  {
+    "Color ID": "SW6260",
+    "Color Name": "Unique Gray",
+    "HEX": "CBC9C9"
+  },
+  {
+    "Color ID": "SW6261",
+    "Color Name": "Swanky Gray",
+    "HEX": "B5B1B5"
+  },
+  {
+    "Color ID": "SW6262",
+    "Color Name": "Mysterious Mauve",
+    "HEX": "A6A3A9"
+  },
+  {
+    "Color ID": "SW6263",
+    "Color Name": "Exclusive Plum",
+    "HEX": "736F78"
+  },
+  {
+    "Color ID": "SW6264",
+    "Color Name": "Midnight",
+    "HEX": "5D5962"
+  },
+  {
+    "Color ID": "SW6265",
+    "Color Name": "Quixotic Plum",
+    "HEX": "4A4653"
+  },
+  {
+    "Color ID": "SW6267",
+    "Color Name": "Sensitive Tint",
+    "HEX": "CEC9CC"
+  },
+  {
+    "Color ID": "SW6268",
+    "Color Name": "Veiled Violet",
+    "HEX": "BDB5B9"
+  },
+  {
+    "Color ID": "SW6269",
+    "Color Name": "Beguiling Mauve",
+    "HEX": "AFA7AC"
+  },
+  {
+    "Color ID": "SW6270",
+    "Color Name": "Soulmate",
+    "HEX": "85777B"
+  },
+  {
+    "Color ID": "SW6271",
+    "Color Name": "Expressive Plum",
+    "HEX": "695C62"
+  },
+  {
+    "Color ID": "SW6272",
+    "Color Name": "Plum Brown",
+    "HEX": "4E4247"
+  },
+  {
+    "Color ID": "SW6274",
+    "Color Name": "Destiny",
+    "HEX": "CFC9C8"
+  },
+  {
+    "Color ID": "SW6275",
+    "Color Name": "Fashionable Gray",
+    "HEX": "BDB8B8"
+  },
+  {
+    "Color ID": "SW6276",
+    "Color Name": "Mystical Shade",
+    "HEX": "AEA9AA"
+  },
+  {
+    "Color ID": "SW6277",
+    "Color Name": "Special Gray",
+    "HEX": "7B787D"
+  },
+  {
+    "Color ID": "SW6278",
+    "Color Name": "Cloak Gray",
+    "HEX": "605E63"
+  },
+  {
+    "Color ID": "SW6279",
+    "Color Name": "Black Swan",
+    "HEX": "3A373E"
+  },
+  {
+    "Color ID": "SW6281",
+    "Color Name": "Wallflower",
+    "HEX": "DBCFD4"
+  },
+  {
+    "Color ID": "SW6282",
+    "Color Name": "Mauve Finery",
+    "HEX": "CBB8C0"
+  },
+  {
+    "Color ID": "SW6283",
+    "Color Name": "Thistle",
+    "HEX": "AA8E9A"
+  },
+  {
+    "Color ID": "SW6284",
+    "Color Name": "Plum Dandy",
+    "HEX": "8B6878"
+  },
+  {
+    "Color ID": "SW6285",
+    "Color Name": "Grape Harvest",
+    "HEX": "7E5A6D"
+  },
+  {
+    "Color ID": "SW6286",
+    "Color Name": "Mature Grape",
+    "HEX": "5F3F54"
+  },
+  {
+    "Color ID": "SW6288",
+    "Color Name": "Rosebud",
+    "HEX": "E0CDD1"
+  },
+  {
+    "Color ID": "SW6289",
+    "Color Name": "Delightful",
+    "HEX": "D2B6BE"
+  },
+  {
+    "Color ID": "SW6290",
+    "Color Name": "Ros\u00e9",
+    "HEX": "B995A1"
+  },
+  {
+    "Color ID": "SW6291",
+    "Color Name": "Moss Rose",
+    "HEX": "9E6D79"
+  },
+  {
+    "Color ID": "SW6292",
+    "Color Name": "Berry Bush",
+    "HEX": "8D5869"
+  },
+  {
+    "Color ID": "SW6293",
+    "Color Name": "Fabulous Grape",
+    "HEX": "6D344F"
+  },
+  {
+    "Color ID": "SW6295",
+    "Color Name": "Demure",
+    "HEX": "E8D4D5"
+  },
+  {
+    "Color ID": "SW6296",
+    "Color Name": "Fading Rose",
+    "HEX": "DABDC1"
+  },
+  {
+    "Color ID": "SW6297",
+    "Color Name": "Rose Embroidery",
+    "HEX": "C79EA2"
+  },
+  {
+    "Color ID": "SW6298",
+    "Color Name": "Concerto",
+    "HEX": "9E6B75"
+  },
+  {
+    "Color ID": "SW6299",
+    "Color Name": "Aged Wine",
+    "HEX": "895460"
+  },
+  {
+    "Color ID": "SW6300",
+    "Color Name": "Burgundy",
+    "HEX": "63333E"
+  },
+  {
+    "Color ID": "SW6302",
+    "Color Name": "Innocence",
+    "HEX": "EBD1CF"
+  },
+  {
+    "Color ID": "SW6303",
+    "Color Name": "Rose Colored",
+    "HEX": "DCB6B5"
+  },
+  {
+    "Color ID": "SW6304",
+    "Color Name": "Pressed Flower",
+    "HEX": "C39393"
+  },
+  {
+    "Color ID": "SW6305",
+    "Color Name": "Rambling Rose",
+    "HEX": "995D62"
+  },
+  {
+    "Color ID": "SW6306",
+    "Color Name": "Cordial",
+    "HEX": "864C52"
+  },
+  {
+    "Color ID": "SW6307",
+    "Color Name": "Fine Wine",
+    "HEX": "723941"
+  },
+  {
+    "Color ID": "SW6309",
+    "Color Name": "Charming Pink",
+    "HEX": "EDD3D2"
+  },
+  {
+    "Color ID": "SW6310",
+    "Color Name": "Lotus Flower",
+    "HEX": "E6BDBD"
+  },
+  {
+    "Color ID": "SW6311",
+    "Color Name": "Memorable Rose",
+    "HEX": "CF8A8D"
+  },
+  {
+    "Color ID": "SW6312",
+    "Color Name": "Redbud",
+    "HEX": "AD5E65"
+  },
+  {
+    "Color ID": "SW6313",
+    "Color Name": "Kirsch Red",
+    "HEX": "974953"
+  },
+  {
+    "Color ID": "SW6314",
+    "Color Name": "Luxurious Red",
+    "HEX": "863A42"
+  },
+  {
+    "Color ID": "SW6316",
+    "Color Name": "Rosy Outlook",
+    "HEX": "EBCECB"
+  },
+  {
+    "Color ID": "SW6317",
+    "Color Name": "Gracious Rose",
+    "HEX": "E3B7B1"
+  },
+  {
+    "Color ID": "SW6318",
+    "Color Name": "Resounding Rose",
+    "HEX": "CD8E89"
+  },
+  {
+    "Color ID": "SW6319",
+    "Color Name": "Reddish",
+    "HEX": "B56966"
+  },
+  {
+    "Color ID": "SW6320",
+    "Color Name": "Bravado Red",
+    "HEX": "A0524E"
+  },
+  {
+    "Color ID": "SW6321",
+    "Color Name": "Red Bay",
+    "HEX": "8E3738"
+  },
+  {
+    "Color ID": "SW6322",
+    "Color Name": "Intimate White",
+    "HEX": "F0E1D8"
+  },
+  {
+    "Color ID": "SW6323",
+    "Color Name": "Romance",
+    "HEX": "EBCFC3"
+  },
+  {
+    "Color ID": "SW6324",
+    "Color Name": "Mellow Coral",
+    "HEX": "E3B5A8"
+  },
+  {
+    "Color ID": "SW6325",
+    "Color Name": "Constant Coral",
+    "HEX": "CD8E7F"
+  },
+  {
+    "Color ID": "SW6326",
+    "Color Name": "Henna Shade",
+    "HEX": "B3675D"
+  },
+  {
+    "Color ID": "SW6327",
+    "Color Name": "Bold Brick",
+    "HEX": "A0584F"
+  },
+  {
+    "Color ID": "SW6328",
+    "Color Name": "Fireweed",
+    "HEX": "7B3730"
+  },
+  {
+    "Color ID": "SW6329",
+    "Color Name": "Faint Coral",
+    "HEX": "EEDED5"
+  },
+  {
+    "Color ID": "SW6330",
+    "Color Name": "Quaint Peche",
+    "HEX": "EACDC1"
+  },
+  {
+    "Color ID": "SW6331",
+    "Color Name": "Smoky Salmon",
+    "HEX": "E2B6A7"
+  },
+  {
+    "Color ID": "SW6332",
+    "Color Name": "Coral Island",
+    "HEX": "CE9382"
+  },
+  {
+    "Color ID": "SW6333",
+    "Color Name": "Foxy",
+    "HEX": "A85E53"
+  },
+  {
+    "Color ID": "SW6334",
+    "Color Name": "Flower Pot",
+    "HEX": "8F4438"
+  },
+  {
+    "Color ID": "SW6335",
+    "Color Name": "Fired Brick",
+    "HEX": "83382A"
+  },
+  {
+    "Color ID": "SW6336",
+    "Color Name": "Nearly Peach",
+    "HEX": "EFDED1"
+  },
+  {
+    "Color ID": "SW6337",
+    "Color Name": "Spun Sugar",
+    "HEX": "EDD2C0"
+  },
+  {
+    "Color ID": "SW6338",
+    "Color Name": "Warming Peach",
+    "HEX": "E4B9A2"
+  },
+  {
+    "Color ID": "SW6339",
+    "Color Name": "Persimmon",
+    "HEX": "D9987C"
+  },
+  {
+    "Color ID": "SW6340",
+    "Color Name": "Baked Clay",
+    "HEX": "C1785C"
+  },
+  {
+    "Color ID": "SW6341",
+    "Color Name": "Red Cent",
+    "HEX": "AD654C"
+  },
+  {
+    "Color ID": "SW6342",
+    "Color Name": "Spicy Hue",
+    "HEX": "994B35"
+  },
+  {
+    "Color ID": "SW6343",
+    "Color Name": "Alluring White",
+    "HEX": "EFE1D2"
+  },
+  {
+    "Color ID": "SW6344",
+    "Color Name": "Peach Fuzz",
+    "HEX": "ECCFBB"
+  },
+  {
+    "Color ID": "SW6345",
+    "Color Name": "Sumptuous Peach",
+    "HEX": "E5B99B"
+  },
+  {
+    "Color ID": "SW6346",
+    "Color Name": "Fame Orange",
+    "HEX": "DB9C7B"
+  },
+  {
+    "Color ID": "SW6347",
+    "Color Name": "Chrysanthemum",
+    "HEX": "C47B5B"
+  },
+  {
+    "Color ID": "SW6348",
+    "Color Name": "Reynard",
+    "HEX": "B46848"
+  },
+  {
+    "Color ID": "SW6349",
+    "Color Name": "Pennywise",
+    "HEX": "A2583A"
+  },
+  {
+    "Color ID": "SW6350",
+    "Color Name": "Intricate Ivory",
+    "HEX": "EDDDCA"
+  },
+  {
+    "Color ID": "SW6351",
+    "Color Name": "Sweet Orange",
+    "HEX": "EBCCB3"
+  },
+  {
+    "Color ID": "SW6352",
+    "Color Name": "Soft Apricot",
+    "HEX": "E0B392"
+  },
+  {
+    "Color ID": "SW6353",
+    "Color Name": "Chivalry Copper",
+    "HEX": "D4966E"
+  },
+  {
+    "Color ID": "SW6354",
+    "Color Name": "Armagnac",
+    "HEX": "C38058"
+  },
+  {
+    "Color ID": "SW6355",
+    "Color Name": "Truepenny",
+    "HEX": "B46C42"
+  },
+  {
+    "Color ID": "SW6356",
+    "Color Name": "Copper Mountain",
+    "HEX": "A6613C"
+  },
+  {
+    "Color ID": "SW6357",
+    "Color Name": "Choice Cream",
+    "HEX": "F0E1D0"
+  },
+  {
+    "Color ID": "SW6358",
+    "Color Name": "Creamery",
+    "HEX": "EDD0B6"
+  },
+  {
+    "Color ID": "SW6359",
+    "Color Name": "Sociable",
+    "HEX": "E8BE9B"
+  },
+  {
+    "Color ID": "SW6360",
+    "Color Name": "Folksy Gold",
+    "HEX": "D69969"
+  },
+  {
+    "Color ID": "SW6361",
+    "Color Name": "Autumnal",
+    "HEX": "CD8C5D"
+  },
+  {
+    "Color ID": "SW6362",
+    "Color Name": "Tigereye",
+    "HEX": "BB7748"
+  },
+  {
+    "Color ID": "SW6363",
+    "Color Name": "Gingery",
+    "HEX": "B06C3E"
+  },
+  {
+    "Color ID": "SW6364",
+    "Color Name": "Eggwhite",
+    "HEX": "F3E5D2"
+  },
+  {
+    "Color ID": "SW6365",
+    "Color Name": "Cachet Cream",
+    "HEX": "F3D9BA"
+  },
+  {
+    "Color ID": "SW6366",
+    "Color Name": "Ambitious Amber",
+    "HEX": "F0CB97"
+  },
+  {
+    "Color ID": "SW6367",
+    "Color Name": "Viva Gold",
+    "HEX": "E3AC72"
+  },
+  {
+    "Color ID": "SW6368",
+    "Color Name": "Bakelite Gold",
+    "HEX": "D7995D"
+  },
+  {
+    "Color ID": "SW6369",
+    "Color Name": "Tassel",
+    "HEX": "C6884A"
+  },
+  {
+    "Color ID": "SW6370",
+    "Color Name": "Saucy Gold",
+    "HEX": "B6743B"
+  },
+  {
+    "Color ID": "SW6371",
+    "Color Name": "Vanillin",
+    "HEX": "F2E3CA"
+  },
+  {
+    "Color ID": "SW6372",
+    "Color Name": "Inviting Ivory",
+    "HEX": "F2D5B0"
+  },
+  {
+    "Color ID": "SW6373",
+    "Color Name": "Harvester",
+    "HEX": "EDC38E"
+  },
+  {
+    "Color ID": "SW6374",
+    "Color Name": "Torchlight",
+    "HEX": "E5AE6B"
+  },
+  {
+    "Color ID": "SW6375",
+    "Color Name": "Honeycomb",
+    "HEX": "D59858"
+  },
+  {
+    "Color ID": "SW6376",
+    "Color Name": "Gold Coast",
+    "HEX": "C78538"
+  },
+  {
+    "Color ID": "SW6377",
+    "Color Name": "Butterscotch",
+    "HEX": "B67D3C"
+  },
+  {
+    "Color ID": "SW6378",
+    "Color Name": "Crisp Linen",
+    "HEX": "F3E6D4"
+  },
+  {
+    "Color ID": "SW6379",
+    "Color Name": "Jersey Cream",
+    "HEX": "F5DEBB"
+  },
+  {
+    "Color ID": "SW6380",
+    "Color Name": "Humble Gold",
+    "HEX": "EDC796"
+  },
+  {
+    "Color ID": "SW6381",
+    "Color Name": "Anjou Pear",
+    "HEX": "DDAC6D"
+  },
+  {
+    "Color ID": "SW6382",
+    "Color Name": "Ceremonial Gold",
+    "HEX": "D69E59"
+  },
+  {
+    "Color ID": "SW6383",
+    "Color Name": "Golden Rule",
+    "HEX": "CC9249"
+  },
+  {
+    "Color ID": "SW6384",
+    "Color Name": "Cut the Mustard",
+    "HEX": "BA7F38"
+  },
+  {
+    "Color ID": "SW6385",
+    "Color Name": "Dover White",
+    "HEX": "F0EADC"
+  },
+  {
+    "Color ID": "SW6386",
+    "Color Name": "Napery",
+    "HEX": "EFDDC1"
+  },
+  {
+    "Color ID": "SW6387",
+    "Color Name": "Compatible Cream",
+    "HEX": "E8C89E"
+  },
+  {
+    "Color ID": "SW6388",
+    "Color Name": "Golden Fleece",
+    "HEX": "D6AD78"
+  },
+  {
+    "Color ID": "SW6389",
+    "Color Name": "Butternut",
+    "HEX": "CC9B5C"
+  },
+  {
+    "Color ID": "SW6390",
+    "Color Name": "Bosc Pear",
+    "HEX": "C09056"
+  },
+  {
+    "Color ID": "SW6391",
+    "Color Name": "Gallant Gold",
+    "HEX": "A4763C"
+  },
+  {
+    "Color ID": "SW6392",
+    "Color Name": "Vital Yellow",
+    "HEX": "EDE0C5"
+  },
+  {
+    "Color ID": "SW6393",
+    "Color Name": "Convivial Yellow",
+    "HEX": "E9D6B0"
+  },
+  {
+    "Color ID": "SW6394",
+    "Color Name": "Sequin",
+    "HEX": "E1C28D"
+  },
+  {
+    "Color ID": "SW6395",
+    "Color Name": "Alchemy",
+    "HEX": "C99E53"
+  },
+  {
+    "Color ID": "SW6396",
+    "Color Name": "Different Gold",
+    "HEX": "BC934D"
+  },
+  {
+    "Color ID": "SW6397",
+    "Color Name": "Nankeen",
+    "HEX": "AA803A"
+  },
+  {
+    "Color ID": "SW6398",
+    "Color Name": "Sconce Gold",
+    "HEX": "996F32"
+  },
+  {
+    "Color ID": "SW6399",
+    "Color Name": "Chamomile",
+    "HEX": "E9E0C5"
+  },
+  {
+    "Color ID": "SW6400",
+    "Color Name": "Lucent Yellow",
+    "HEX": "E4D0A5"
+  },
+  {
+    "Color ID": "SW6401",
+    "Color Name": "Independent Gold",
+    "HEX": "D2BA83"
+  },
+  {
+    "Color ID": "SW6402",
+    "Color Name": "Antiquity",
+    "HEX": "C2A462"
+  },
+  {
+    "Color ID": "SW6403",
+    "Color Name": "Escapade Gold",
+    "HEX": "B89B59"
+  },
+  {
+    "Color ID": "SW6404",
+    "Color Name": "Grandiose",
+    "HEX": "9C7F41"
+  },
+  {
+    "Color ID": "SW6405",
+    "Color Name": "Fervent Brass",
+    "HEX": "95793D"
+  },
+  {
+    "Color ID": "SW6406",
+    "Color Name": "Ionic Ivory",
+    "HEX": "E7DFC5"
+  },
+  {
+    "Color ID": "SW6407",
+    "Color Name": "Ancestral Gold",
+    "HEX": "DDCDA6"
+  },
+  {
+    "Color ID": "SW6408",
+    "Color Name": "Wheat Grass",
+    "HEX": "CBB584"
+  },
+  {
+    "Color ID": "SW6409",
+    "Color Name": "Edgy Gold",
+    "HEX": "B1975F"
+  },
+  {
+    "Color ID": "SW6410",
+    "Color Name": "Brassy",
+    "HEX": "9D8344"
+  },
+  {
+    "Color ID": "SW6411",
+    "Color Name": "Bengal Grass",
+    "HEX": "8E773F"
+  },
+  {
+    "Color ID": "SW6412",
+    "Color Name": "Eminent Bronze",
+    "HEX": "7A6841"
+  },
+  {
+    "Color ID": "SW6413",
+    "Color Name": "Restoration Ivory",
+    "HEX": "E9E1CA"
+  },
+  {
+    "Color ID": "SW6414",
+    "Color Name": "Rice Paddy",
+    "HEX": "DFD4B0"
+  },
+  {
+    "Color ID": "SW6415",
+    "Color Name": "Hearts of Palm",
+    "HEX": "CFC291"
+  },
+  {
+    "Color ID": "SW6416",
+    "Color Name": "Sassy Green",
+    "HEX": "BBA86A"
+  },
+  {
+    "Color ID": "SW6417",
+    "Color Name": "Tupelo Tree",
+    "HEX": "9C9152"
+  },
+  {
+    "Color ID": "SW6418",
+    "Color Name": "Rural Green",
+    "HEX": "8D844D"
+  },
+  {
+    "Color ID": "SW6419",
+    "Color Name": "Saguaro",
+    "HEX": "655F2D"
+  },
+  {
+    "Color ID": "SW6420",
+    "Color Name": "Queen Anne's Lace",
+    "HEX": "ECEAD5"
+  },
+  {
+    "Color ID": "SW6421",
+    "Color Name": "Celery",
+    "HEX": "E0DDBD"
+  },
+  {
+    "Color ID": "SW6422",
+    "Color Name": "Shagreen",
+    "HEX": "CBC99D"
+  },
+  {
+    "Color ID": "SW6423",
+    "Color Name": "Ryegrass",
+    "HEX": "AEAC7A"
+  },
+  {
+    "Color ID": "SW6424",
+    "Color Name": "Tansy Green",
+    "HEX": "95945C"
+  },
+  {
+    "Color ID": "SW6425",
+    "Color Name": "Relentless Olive",
+    "HEX": "71713E"
+  },
+  {
+    "Color ID": "SW6426",
+    "Color Name": "Basque Green",
+    "HEX": "5F6033"
+  },
+  {
+    "Color ID": "SW6427",
+    "Color Name": "Sprout",
+    "HEX": "E4E4CE"
+  },
+  {
+    "Color ID": "SW6428",
+    "Color Name": "Honeydew",
+    "HEX": "DBDDBD"
+  },
+  {
+    "Color ID": "SW6429",
+    "Color Name": "Baize Green",
+    "HEX": "C7CDA8"
+  },
+  {
+    "Color ID": "SW6430",
+    "Color Name": "Great Green",
+    "HEX": "ABB486"
+  },
+  {
+    "Color ID": "SW6431",
+    "Color Name": "Leapfrog",
+    "HEX": "88915D"
+  },
+  {
+    "Color ID": "SW6432",
+    "Color Name": "Garden Spot",
+    "HEX": "6D7645"
+  },
+  {
+    "Color ID": "SW6433",
+    "Color Name": "Inverness",
+    "HEX": "576238"
+  },
+  {
+    "Color ID": "SW6434",
+    "Color Name": "Spinach White",
+    "HEX": "E4E8DA"
+  },
+  {
+    "Color ID": "SW6435",
+    "Color Name": "Gratifying Green",
+    "HEX": "DAE2CD"
+  },
+  {
+    "Color ID": "SW6436",
+    "Color Name": "Bonsai Tint",
+    "HEX": "C5D1B2"
+  },
+  {
+    "Color ID": "SW6437",
+    "Color Name": "Haven",
+    "HEX": "A3B48C"
+  },
+  {
+    "Color ID": "SW6438",
+    "Color Name": "Dill",
+    "HEX": "788D60"
+  },
+  {
+    "Color ID": "SW6439",
+    "Color Name": "Greenfield",
+    "HEX": "60724F"
+  },
+  {
+    "Color ID": "SW6440",
+    "Color Name": "Courtyard",
+    "HEX": "475842"
+  },
+  {
+    "Color ID": "SW6441",
+    "Color Name": "White Mint",
+    "HEX": "E0E7DA"
+  },
+  {
+    "Color ID": "SW6442",
+    "Color Name": "Supreme Green",
+    "HEX": "CFDDC7"
+  },
+  {
+    "Color ID": "SW6443",
+    "Color Name": "Relish",
+    "HEX": "B3CBAA"
+  },
+  {
+    "Color ID": "SW6444",
+    "Color Name": "Lounge Green",
+    "HEX": "8BA97F"
+  },
+  {
+    "Color ID": "SW6445",
+    "Color Name": "Garden Grove",
+    "HEX": "5E7F57"
+  },
+  {
+    "Color ID": "SW6446",
+    "Color Name": "Arugula",
+    "HEX": "42603C"
+  },
+  {
+    "Color ID": "SW6447",
+    "Color Name": "Evergreens",
+    "HEX": "405840"
+  },
+  {
+    "Color ID": "SW6449",
+    "Color Name": "Topiary Tint",
+    "HEX": "C8D8C4"
+  },
+  {
+    "Color ID": "SW6450",
+    "Color Name": "Easy Green",
+    "HEX": "ACC2A8"
+  },
+  {
+    "Color ID": "SW6451",
+    "Color Name": "Nurture Green",
+    "HEX": "98B092"
+  },
+  {
+    "Color ID": "SW6452",
+    "Color Name": "Inland",
+    "HEX": "6C8867"
+  },
+  {
+    "Color ID": "SW6453",
+    "Color Name": "Cilantro",
+    "HEX": "537150"
+  },
+  {
+    "Color ID": "SW6454",
+    "Color Name": "Shamrock",
+    "HEX": "205134"
+  },
+  {
+    "Color ID": "SW6455",
+    "Color Name": "Fleeting Green",
+    "HEX": "D8E2D8"
+  },
+  {
+    "Color ID": "SW6456",
+    "Color Name": "Slow Green",
+    "HEX": "C6D5C9"
+  },
+  {
+    "Color ID": "SW6457",
+    "Color Name": "Kind Green",
+    "HEX": "AAC2B3"
+  },
+  {
+    "Color ID": "SW6458",
+    "Color Name": "Restful",
+    "HEX": "91AF9D"
+  },
+  {
+    "Color ID": "SW6459",
+    "Color Name": "Jadite",
+    "HEX": "61826C"
+  },
+  {
+    "Color ID": "SW6460",
+    "Color Name": "Kale Green",
+    "HEX": "4F6A56"
+  },
+  {
+    "Color ID": "SW6461",
+    "Color Name": "Isle of Pines",
+    "HEX": "3D5541"
+  },
+  {
+    "Color ID": "SW6462",
+    "Color Name": "Green Trance",
+    "HEX": "D7E4DB"
+  },
+  {
+    "Color ID": "SW6463",
+    "Color Name": "Breaktime",
+    "HEX": "C4D9CE"
+  },
+  {
+    "Color ID": "SW6464",
+    "Color Name": "Aloe",
+    "HEX": "ACCABC"
+  },
+  {
+    "Color ID": "SW6465",
+    "Color Name": "Spearmint",
+    "HEX": "94B5A6"
+  },
+  {
+    "Color ID": "SW6466",
+    "Color Name": "Grandview",
+    "HEX": "6B927F"
+  },
+  {
+    "Color ID": "SW6467",
+    "Color Name": "Kendal Green",
+    "HEX": "547867"
+  },
+  {
+    "Color ID": "SW6468",
+    "Color Name": "Hunt Club",
+    "HEX": "2A4F43"
+  },
+  {
+    "Color ID": "SW6470",
+    "Color Name": "Waterscape",
+    "HEX": "BFD2C9"
+  },
+  {
+    "Color ID": "SW6471",
+    "Color Name": "Hazel",
+    "HEX": "A8C1B7"
+  },
+  {
+    "Color ID": "SW6472",
+    "Color Name": "Composed",
+    "HEX": "7EA298"
+  },
+  {
+    "Color ID": "SW6473",
+    "Color Name": "Surf Green",
+    "HEX": "5F887D"
+  },
+  {
+    "Color ID": "SW6474",
+    "Color Name": "Raging Sea",
+    "HEX": "476F65"
+  },
+  {
+    "Color ID": "SW6475",
+    "Color Name": "Country Squire",
+    "HEX": "124A42"
+  },
+  {
+    "Color ID": "SW6476",
+    "Color Name": "Glimmer",
+    "HEX": "E0E7E2"
+  },
+  {
+    "Color ID": "SW6477",
+    "Color Name": "Tidewater",
+    "HEX": "C3D7D3"
+  },
+  {
+    "Color ID": "SW6478",
+    "Color Name": "Watery",
+    "HEX": "B4CCC9"
+  },
+  {
+    "Color ID": "SW6479",
+    "Color Name": "Drizzle",
+    "HEX": "8CAEAB"
+  },
+  {
+    "Color ID": "SW6480",
+    "Color Name": "Lagoon",
+    "HEX": "518682"
+  },
+  {
+    "Color ID": "SW6481",
+    "Color Name": "Green Bay",
+    "HEX": "2E6864"
+  },
+  {
+    "Color ID": "SW6482",
+    "Color Name": "Cape Verde",
+    "HEX": "01554F"
+  },
+  {
+    "Color ID": "SW6484",
+    "Color Name": "Meander Blue",
+    "HEX": "BEDBD8"
+  },
+  {
+    "Color ID": "SW6485",
+    "Color Name": "Raindrop",
+    "HEX": "9EC6C6"
+  },
+  {
+    "Color ID": "SW6486",
+    "Color Name": "Reflecting Pool",
+    "HEX": "7BB1B2"
+  },
+  {
+    "Color ID": "SW6487",
+    "Color Name": "Cloudburst",
+    "HEX": "5C9598"
+  },
+  {
+    "Color ID": "SW6488",
+    "Color Name": "Grand Canal",
+    "HEX": "3C797D"
+  },
+  {
+    "Color ID": "SW6489",
+    "Color Name": "Really Teal",
+    "HEX": "016367"
+  },
+  {
+    "Color ID": "SW6491",
+    "Color Name": "Open Air",
+    "HEX": "C7DFE0"
+  },
+  {
+    "Color ID": "SW6492",
+    "Color Name": "Jetstream",
+    "HEX": "B0D2D6"
+  },
+  {
+    "Color ID": "SW6493",
+    "Color Name": "Ebbtide",
+    "HEX": "84B4BE"
+  },
+  {
+    "Color ID": "SW6494",
+    "Color Name": "Lakeshore",
+    "HEX": "5B96A2"
+  },
+  {
+    "Color ID": "SW6495",
+    "Color Name": "Great Falls",
+    "HEX": "217786"
+  },
+  {
+    "Color ID": "SW6496",
+    "Color Name": "Oceanside",
+    "HEX": "015A6B"
+  },
+  {
+    "Color ID": "SW6497",
+    "Color Name": "Blue Horizon",
+    "HEX": "D8E7E6"
+  },
+  {
+    "Color ID": "SW6498",
+    "Color Name": "Byte Blue",
+    "HEX": "C5DCE0"
+  },
+  {
+    "Color ID": "SW6499",
+    "Color Name": "Stream",
+    "HEX": "ADCCD3"
+  },
+  {
+    "Color ID": "SW6500",
+    "Color Name": "Open Seas",
+    "HEX": "83AFBC"
+  },
+  {
+    "Color ID": "SW6501",
+    "Color Name": "Manitou Blue",
+    "HEX": "5B92A2"
+  },
+  {
+    "Color ID": "SW6502",
+    "Color Name": "Loch Blue",
+    "HEX": "2F778B"
+  },
+  {
+    "Color ID": "SW6503",
+    "Color Name": "Bosporus",
+    "HEX": "015D75"
+  },
+  {
+    "Color ID": "SW6504",
+    "Color Name": "Sky High",
+    "HEX": "DCE7E8"
+  },
+  {
+    "Color ID": "SW6505",
+    "Color Name": "Atmospheric",
+    "HEX": "C2DAE0"
+  },
+  {
+    "Color ID": "SW6506",
+    "Color Name": "Vast Sky",
+    "HEX": "A9C9D7"
+  },
+  {
+    "Color ID": "SW6507",
+    "Color Name": "Resolute Blue",
+    "HEX": "85B0C4"
+  },
+  {
+    "Color ID": "SW6508",
+    "Color Name": "Secure Blue",
+    "HEX": "5389A1"
+  },
+  {
+    "Color ID": "SW6509",
+    "Color Name": "Georgian Bay",
+    "HEX": "22657F"
+  },
+  {
+    "Color ID": "SW6510",
+    "Color Name": "Loyal Blue",
+    "HEX": "01455E"
+  },
+  {
+    "Color ID": "SW6511",
+    "Color Name": "Snowdrop",
+    "HEX": "E0E8E7"
+  },
+  {
+    "Color ID": "SW6512",
+    "Color Name": "Balmy",
+    "HEX": "C5D8DE"
+  },
+  {
+    "Color ID": "SW6513",
+    "Color Name": "Take Five",
+    "HEX": "B3C9D3"
+  },
+  {
+    "Color ID": "SW6514",
+    "Color Name": "Respite",
+    "HEX": "97B4C3"
+  },
+  {
+    "Color ID": "SW6515",
+    "Color Name": "Leisure Blue",
+    "HEX": "6A8EA1"
+  },
+  {
+    "Color ID": "SW6516",
+    "Color Name": "Down Pour",
+    "HEX": "43718B"
+  },
+  {
+    "Color ID": "SW6517",
+    "Color Name": "Regatta",
+    "HEX": "215772"
+  },
+  {
+    "Color ID": "SW6519",
+    "Color Name": "Hinting Blue",
+    "HEX": "CED9DD"
+  },
+  {
+    "Color ID": "SW6520",
+    "Color Name": "Honest Blue",
+    "HEX": "B2C7D3"
+  },
+  {
+    "Color ID": "SW6521",
+    "Color Name": "Notable Hue",
+    "HEX": "8BA7BB"
+  },
+  {
+    "Color ID": "SW6522",
+    "Color Name": "Sporty Blue",
+    "HEX": "6A8AA4"
+  },
+  {
+    "Color ID": "SW6523",
+    "Color Name": "Denim",
+    "HEX": "506B84"
+  },
+  {
+    "Color ID": "SW6524",
+    "Color Name": "Commodore",
+    "HEX": "25476A"
+  },
+  {
+    "Color ID": "SW6525",
+    "Color Name": "Rarified Air",
+    "HEX": "E1E6E6"
+  },
+  {
+    "Color ID": "SW6526",
+    "Color Name": "Icelandic",
+    "HEX": "CBD8E1"
+  },
+  {
+    "Color ID": "SW6527",
+    "Color Name": "Blissful Blue",
+    "HEX": "B2C8D8"
+  },
+  {
+    "Color ID": "SW6528",
+    "Color Name": "Cosmos",
+    "HEX": "8EA9C2"
+  },
+  {
+    "Color ID": "SW6529",
+    "Color Name": "Scanda",
+    "HEX": "6B8CA9"
+  },
+  {
+    "Color ID": "SW6530",
+    "Color Name": "Revel Blue",
+    "HEX": "4C6B8A"
+  },
+  {
+    "Color ID": "SW6531",
+    "Color Name": "Indigo",
+    "HEX": "284A70"
+  },
+  {
+    "Color ID": "SW6533",
+    "Color Name": "Mild Blue",
+    "HEX": "CBD5DB"
+  },
+  {
+    "Color ID": "SW6534",
+    "Color Name": "Icy",
+    "HEX": "BBC7D2"
+  },
+  {
+    "Color ID": "SW6535",
+    "Color Name": "Solitude",
+    "HEX": "99A7B8"
+  },
+  {
+    "Color ID": "SW6536",
+    "Color Name": "Searching Blue",
+    "HEX": "6C7F9A"
+  },
+  {
+    "Color ID": "SW6537",
+    "Color Name": "Luxe Blue",
+    "HEX": "516582"
+  },
+  {
+    "Color ID": "SW6538",
+    "Color Name": "Dignified",
+    "HEX": "3B496D"
+  },
+  {
+    "Color ID": "SW6540",
+    "Color Name": "Starry Night",
+    "HEX": "D6D9DE"
+  },
+  {
+    "Color ID": "SW6541",
+    "Color Name": "Daydream",
+    "HEX": "BDC3CD"
+  },
+  {
+    "Color ID": "SW6542",
+    "Color Name": "Vesper Violet",
+    "HEX": "99A0B2"
+  },
+  {
+    "Color ID": "SW6543",
+    "Color Name": "Soulful Blue",
+    "HEX": "757C91"
+  },
+  {
+    "Color ID": "SW6544",
+    "Color Name": "Mesmerize",
+    "HEX": "5D657B"
+  },
+  {
+    "Color ID": "SW6545",
+    "Color Name": "Majestic Purple",
+    "HEX": "3B3C5A"
+  },
+  {
+    "Color ID": "SW6547",
+    "Color Name": "Silver Peony",
+    "HEX": "DAD6DB"
+  },
+  {
+    "Color ID": "SW6548",
+    "Color Name": "Grape Mist",
+    "HEX": "C5C0C9"
+  },
+  {
+    "Color ID": "SW6549",
+    "Color Name": "Ash Violet",
+    "HEX": "A29BAA"
+  },
+  {
+    "Color ID": "SW6550",
+    "Color Name": "Mythical",
+    "HEX": "7E778E"
+  },
+  {
+    "Color ID": "SW6551",
+    "Color Name": "Purple Passage",
+    "HEX": "645E77"
+  },
+  {
+    "Color ID": "SW6552",
+    "Color Name": "Dewberry",
+    "HEX": "3E385A"
+  },
+  {
+    "Color ID": "SW6554",
+    "Color Name": "Lite Lavender",
+    "HEX": "E0DADF"
+  },
+  {
+    "Color ID": "SW6555",
+    "Color Name": "Enchant",
+    "HEX": "D1C6D2"
+  },
+  {
+    "Color ID": "SW6556",
+    "Color Name": "Obi Lilac",
+    "HEX": "B0A3B6"
+  },
+  {
+    "Color ID": "SW6557",
+    "Color Name": "Wood Violet",
+    "HEX": "7A6B85"
+  },
+  {
+    "Color ID": "SW6558",
+    "Color Name": "Plummy",
+    "HEX": "675A75"
+  },
+  {
+    "Color ID": "SW6559",
+    "Color Name": "Concord Grape",
+    "HEX": "443757"
+  },
+  {
+    "Color ID": "SW6561",
+    "Color Name": "Teaberry",
+    "HEX": "EBD1DB"
+  },
+  {
+    "Color ID": "SW6562",
+    "Color Name": "Irresistible",
+    "HEX": "E3C0CF"
+  },
+  {
+    "Color ID": "SW6563",
+    "Color Name": "Rosebay",
+    "HEX": "CB9AAD"
+  },
+  {
+    "Color ID": "SW6564",
+    "Color Name": "Red Clover",
+    "HEX": "B87E93"
+  },
+  {
+    "Color ID": "SW6565",
+    "Color Name": "Grandeur Plum",
+    "HEX": "92576F"
+  },
+  {
+    "Color ID": "SW6566",
+    "Color Name": "Framboise",
+    "HEX": "7C3655"
+  },
+  {
+    "Color ID": "SW6568",
+    "Color Name": "Lighthearted Pink",
+    "HEX": "EDD5DD"
+  },
+  {
+    "Color ID": "SW6569",
+    "Color Name": "Childlike",
+    "HEX": "E8C0CF"
+  },
+  {
+    "Color ID": "SW6570",
+    "Color Name": "Haute Pink",
+    "HEX": "D899B1"
+  },
+  {
+    "Color ID": "SW6571",
+    "Color Name": "Cyclamen",
+    "HEX": "C47B95"
+  },
+  {
+    "Color ID": "SW6572",
+    "Color Name": "Ruby Shade",
+    "HEX": "A2566F"
+  },
+  {
+    "Color ID": "SW6573",
+    "Color Name": "Juneberry",
+    "HEX": "854158"
+  },
+  {
+    "Color ID": "SW6575",
+    "Color Name": "Priscilla",
+    "HEX": "F1D3DA"
+  },
+  {
+    "Color ID": "SW6576",
+    "Color Name": "Azalea Flower",
+    "HEX": "EFC0CB"
+  },
+  {
+    "Color ID": "SW6577",
+    "Color Name": "Jaipur Pink",
+    "HEX": "E392A1"
+  },
+  {
+    "Color ID": "SW6578",
+    "Color Name": "Tuberose",
+    "HEX": "D47C8C"
+  },
+  {
+    "Color ID": "SW6579",
+    "Color Name": "Gala Pink",
+    "HEX": "B04B63"
+  },
+  {
+    "Color ID": "SW6580",
+    "Color Name": "Cerise",
+    "HEX": "99324E"
+  },
+  {
+    "Color ID": "SW6582",
+    "Color Name": "Impatiens Petal",
+    "HEX": "F1D2D7"
+  },
+  {
+    "Color ID": "SW6583",
+    "Color Name": "In the Pink",
+    "HEX": "F0BCC9"
+  },
+  {
+    "Color ID": "SW6584",
+    "Color Name": "Cheery",
+    "HEX": "EB92A3"
+  },
+  {
+    "Color ID": "SW6585",
+    "Color Name": "Coming up Roses",
+    "HEX": "DD7788"
+  },
+  {
+    "Color ID": "SW6586",
+    "Color Name": "Heartfelt",
+    "HEX": "BD4C5F"
+  },
+  {
+    "Color ID": "SW6587",
+    "Color Name": "Valentine",
+    "HEX": "A53A4E"
+  },
+  {
+    "Color ID": "SW6589",
+    "Color Name": "Alyssum",
+    "HEX": "F2D5D7"
+  },
+  {
+    "Color ID": "SW6590",
+    "Color Name": "Loveable",
+    "HEX": "F0C1C6"
+  },
+  {
+    "Color ID": "SW6591",
+    "Color Name": "Amaryllis",
+    "HEX": "ED939D"
+  },
+  {
+    "Color ID": "SW6592",
+    "Color Name": "Grenadine",
+    "HEX": "D66972"
+  },
+  {
+    "Color ID": "SW6593",
+    "Color Name": "Coral Bells",
+    "HEX": "BB4B51"
+  },
+  {
+    "Color ID": "SW6594",
+    "Color Name": "Poinsettia",
+    "HEX": "9D373C"
+  },
+  {
+    "Color ID": "SW6596",
+    "Color Name": "Bella Pink",
+    "HEX": "F1C6C4"
+  },
+  {
+    "Color ID": "SW6597",
+    "Color Name": "Hopeful",
+    "HEX": "F0B3B2"
+  },
+  {
+    "Color ID": "SW6598",
+    "Color Name": "Dishy Coral",
+    "HEX": "ED9190"
+  },
+  {
+    "Color ID": "SW6599",
+    "Color Name": "Begonia",
+    "HEX": "D76C6E"
+  },
+  {
+    "Color ID": "SW6600",
+    "Color Name": "Enticing Red",
+    "HEX": "B74E4F"
+  },
+  {
+    "Color ID": "SW6601",
+    "Color Name": "Tanager",
+    "HEX": "A43834"
+  },
+  {
+    "Color ID": "SW6603",
+    "Color Name": "Oleander",
+    "HEX": "F2CCC5"
+  },
+  {
+    "Color ID": "SW6604",
+    "Color Name": "Youthful Coral",
+    "HEX": "F0AFA8"
+  },
+  {
+    "Color ID": "SW6605",
+    "Color Name": "Charisma",
+    "HEX": "EE9489"
+  },
+  {
+    "Color ID": "SW6606",
+    "Color Name": "Coral Reef",
+    "HEX": "D9766C"
+  },
+  {
+    "Color ID": "SW6607",
+    "Color Name": "Red Tomato",
+    "HEX": "B24743"
+  },
+  {
+    "Color ID": "SW6608",
+    "Color Name": "Rave Red",
+    "HEX": "A13B34"
+  },
+  {
+    "Color ID": "SW6610",
+    "Color Name": "Koral Kicks",
+    "HEX": "F2D1C3"
+  },
+  {
+    "Color ID": "SW6611",
+    "Color Name": "Jovial",
+    "HEX": "F2B8A7"
+  },
+  {
+    "Color ID": "SW6612",
+    "Color Name": "Ravishing Coral",
+    "HEX": "E79580"
+  },
+  {
+    "Color ID": "SW6613",
+    "Color Name": "Lei Flower",
+    "HEX": "D87B6A"
+  },
+  {
+    "Color ID": "SW6614",
+    "Color Name": "Quite Coral",
+    "HEX": "C76356"
+  },
+  {
+    "Color ID": "SW6615",
+    "Color Name": "Peppery",
+    "HEX": "B85444"
+  },
+  {
+    "Color ID": "SW6617",
+    "Color Name": "Blushing",
+    "HEX": "F0D1C3"
+  },
+  {
+    "Color ID": "SW6618",
+    "Color Name": "Cosmetic Peach",
+    "HEX": "F3C1AB"
+  },
+  {
+    "Color ID": "SW6619",
+    "Color Name": "Sockeye",
+    "HEX": "E49780"
+  },
+  {
+    "Color ID": "SW6620",
+    "Color Name": "Rejuvenate",
+    "HEX": "DD7861"
+  },
+  {
+    "Color ID": "SW6621",
+    "Color Name": "Emotional",
+    "HEX": "C65F47"
+  },
+  {
+    "Color ID": "SW6622",
+    "Color Name": "Hearty Orange",
+    "HEX": "B44B34"
+  },
+  {
+    "Color ID": "SW6624",
+    "Color Name": "Peach Blossom",
+    "HEX": "F3D0BD"
+  },
+  {
+    "Color ID": "SW6625",
+    "Color Name": "Certain Peach",
+    "HEX": "F2BDA2"
+  },
+  {
+    "Color ID": "SW6626",
+    "Color Name": "Sunset",
+    "HEX": "E2946F"
+  },
+  {
+    "Color ID": "SW6627",
+    "Color Name": "Emberglow",
+    "HEX": "D67C56"
+  },
+  {
+    "Color ID": "SW6628",
+    "Color Name": "Robust Orange",
+    "HEX": "C4633E"
+  },
+  {
+    "Color ID": "SW6629",
+    "Color Name": "Jalape\u00f1o",
+    "HEX": "B1533C"
+  },
+  {
+    "Color ID": "SW6631",
+    "Color Name": "Naive Peach",
+    "HEX": "F3D3BF"
+  },
+  {
+    "Color ID": "SW6632",
+    "Color Name": "Neighborly Peach",
+    "HEX": "F3C1A3"
+  },
+  {
+    "Color ID": "SW6633",
+    "Color Name": "Inventive Orange",
+    "HEX": "E89D6F"
+  },
+  {
+    "Color ID": "SW6634",
+    "Color Name": "Copper Harbor",
+    "HEX": "D57E52"
+  },
+  {
+    "Color ID": "SW6635",
+    "Color Name": "Determined Orange",
+    "HEX": "C56639"
+  },
+  {
+    "Color ID": "SW6636",
+    "Color Name": "Husky Orange",
+    "HEX": "BB613E"
+  },
+  {
+    "Color ID": "SW6638",
+    "Color Name": "Flattering Peach",
+    "HEX": "F4D3B3"
+  },
+  {
+    "Color ID": "SW6639",
+    "Color Name": "Avid Apricot",
+    "HEX": "F4C69F"
+  },
+  {
+    "Color ID": "SW6640",
+    "Color Name": "Tangerine",
+    "HEX": "F2AC78"
+  },
+  {
+    "Color ID": "SW6641",
+    "Color Name": "Outgoing Orange",
+    "HEX": "E6955F"
+  },
+  {
+    "Color ID": "SW6642",
+    "Color Name": "Rhumba Orange",
+    "HEX": "CB7841"
+  },
+  {
+    "Color ID": "SW6643",
+    "Color Name": "Yam",
+    "HEX": "C36F3E"
+  },
+  {
+    "Color ID": "SW6644",
+    "Color Name": "Champagne",
+    "HEX": "F2E3CE"
+  },
+  {
+    "Color ID": "SW6652",
+    "Color Name": "Flan",
+    "HEX": "F4D4AF"
+  },
+  {
+    "Color ID": "SW6653",
+    "Color Name": "Delicious Melon",
+    "HEX": "F5C894"
+  },
+  {
+    "Color ID": "SW6654",
+    "Color Name": "Surprise Amber",
+    "HEX": "EFB57A"
+  },
+  {
+    "Color ID": "SW6655",
+    "Color Name": "Adventure Orange",
+    "HEX": "E69F5F"
+  },
+  {
+    "Color ID": "SW6656",
+    "Color Name": "Serape",
+    "HEX": "D88B4D"
+  },
+  {
+    "Color ID": "SW6657",
+    "Color Name": "Amber Wave",
+    "HEX": "D28240"
+  },
+  {
+    "Color ID": "SW6658",
+    "Color Name": "Welcome White",
+    "HEX": "F3E3CA"
+  },
+  {
+    "Color ID": "SW6659",
+    "Color Name": "Captivating Cream",
+    "HEX": "F4D9B1"
+  },
+  {
+    "Color ID": "SW6660",
+    "Color Name": "Honey Blush",
+    "HEX": "F5CF9B"
+  },
+  {
+    "Color ID": "SW6661",
+    "Color Name": "Papaya",
+    "HEX": "EFB97B"
+  },
+  {
+    "Color ID": "SW6662",
+    "Color Name": "Summer Day",
+    "HEX": "EAAA62"
+  },
+  {
+    "Color ID": "SW6663",
+    "Color Name": "Saffron Thread",
+    "HEX": "DF984E"
+  },
+  {
+    "Color ID": "SW6664",
+    "Color Name": "Marigold",
+    "HEX": "D28233"
+  },
+  {
+    "Color ID": "SW6665",
+    "Color Name": "Gardenia",
+    "HEX": "F3E2C9"
+  },
+  {
+    "Color ID": "SW6666",
+    "Color Name": "Enjoyable Yellow",
+    "HEX": "F5D6A9"
+  },
+  {
+    "Color ID": "SW6667",
+    "Color Name": "Afterglow",
+    "HEX": "F6CD8E"
+  },
+  {
+    "Color ID": "SW6668",
+    "Color Name": "Sunrise",
+    "HEX": "F4BF77"
+  },
+  {
+    "Color ID": "SW6669",
+    "Color Name": "Yarrow",
+    "HEX": "EBAD5E"
+  },
+  {
+    "Color ID": "SW6670",
+    "Color Name": "Gold Crest",
+    "HEX": "DF9938"
+  },
+  {
+    "Color ID": "SW6671",
+    "Color Name": "Curry",
+    "HEX": "D88F32"
+  },
+  {
+    "Color ID": "SW6672",
+    "Color Name": "Morning Sun",
+    "HEX": "F3E6CE"
+  },
+  {
+    "Color ID": "SW6673",
+    "Color Name": "Banana Cream",
+    "HEX": "F5DEAF"
+  },
+  {
+    "Color ID": "SW6674",
+    "Color Name": "Jonquil",
+    "HEX": "F7D391"
+  },
+  {
+    "Color ID": "SW6675",
+    "Color Name": "Afternoon",
+    "HEX": "FBCB78"
+  },
+  {
+    "Color ID": "SW6676",
+    "Color Name": "Butterfield",
+    "HEX": "F7BE5B"
+  },
+  {
+    "Color ID": "SW6677",
+    "Color Name": "Goldenrod",
+    "HEX": "F2AF46"
+  },
+  {
+    "Color ID": "SW6678",
+    "Color Name": "Sunflower",
+    "HEX": "E39A33"
+  },
+  {
+    "Color ID": "SW6679",
+    "Color Name": "Full Moon",
+    "HEX": "F4E3BC"
+  },
+  {
+    "Color ID": "SW6680",
+    "Color Name": "Friendly Yellow",
+    "HEX": "F5E0B1"
+  },
+  {
+    "Color ID": "SW6681",
+    "Color Name": "Butter Up",
+    "HEX": "F6DDA3"
+  },
+  {
+    "Color ID": "SW6682",
+    "Color Name": "June Day",
+    "HEX": "F6C973"
+  },
+  {
+    "Color ID": "SW6683",
+    "Color Name": "Bee",
+    "HEX": "F1BA55"
+  },
+  {
+    "Color ID": "SW6684",
+    "Color Name": "Brittlebush",
+    "HEX": "EAAE47"
+  },
+  {
+    "Color ID": "SW6685",
+    "Color Name": "Trinket",
+    "HEX": "D69835"
+  },
+  {
+    "Color ID": "SW6686",
+    "Color Name": "Lemon Chiffon",
+    "HEX": "F5E5BC"
+  },
+  {
+    "Color ID": "SW6687",
+    "Color Name": "Lantern Light",
+    "HEX": "F4E1AE"
+  },
+  {
+    "Color ID": "SW6688",
+    "Color Name": "Solaria",
+    "HEX": "F5D68F"
+  },
+  {
+    "Color ID": "SW6689",
+    "Color Name": "Overjoy",
+    "HEX": "EEC25F"
+  },
+  {
+    "Color ID": "SW6690",
+    "Color Name": "Gambol Gold",
+    "HEX": "E1B047"
+  },
+  {
+    "Color ID": "SW6691",
+    "Color Name": "Glitzy Gold",
+    "HEX": "D6A02B"
+  },
+  {
+    "Color ID": "SW6692",
+    "Color Name": "Auric",
+    "HEX": "C48919"
+  },
+  {
+    "Color ID": "SW6693",
+    "Color Name": "Lily",
+    "HEX": "F3E8C2"
+  },
+  {
+    "Color ID": "SW6694",
+    "Color Name": "Glad Yellow",
+    "HEX": "F5E1AC"
+  },
+  {
+    "Color ID": "SW6695",
+    "Color Name": "Midday",
+    "HEX": "F7D78A"
+  },
+  {
+    "Color ID": "SW6696",
+    "Color Name": "Quilt Gold",
+    "HEX": "EAC365"
+  },
+  {
+    "Color ID": "SW6697",
+    "Color Name": "Nugget",
+    "HEX": "DBB04A"
+  },
+  {
+    "Color ID": "SW6698",
+    "Color Name": "Kingdom Gold",
+    "HEX": "D1A436"
+  },
+  {
+    "Color ID": "SW6699",
+    "Color Name": "Crispy Gold",
+    "HEX": "C49832"
+  },
+  {
+    "Color ID": "SW6700",
+    "Color Name": "Daybreak",
+    "HEX": "F3EAC6"
+  },
+  {
+    "Color ID": "SW6701",
+    "Color Name": "Moonraker",
+    "HEX": "EEE3B2"
+  },
+  {
+    "Color ID": "SW6702",
+    "Color Name": "Lively Yellow",
+    "HEX": "E6D88E"
+  },
+  {
+    "Color ID": "SW6703",
+    "Color Name": "Frolic",
+    "HEX": "D9C661"
+  },
+  {
+    "Color ID": "SW6704",
+    "Color Name": "Hep Green",
+    "HEX": "C4B146"
+  },
+  {
+    "Color ID": "SW6705",
+    "Color Name": "High Strung",
+    "HEX": "AC9825"
+  },
+  {
+    "Color ID": "SW6706",
+    "Color Name": "Offbeat Green",
+    "HEX": "9C8B1F"
+  },
+  {
+    "Color ID": "SW6708",
+    "Color Name": "Springtime",
+    "HEX": "E9E5B3"
+  },
+  {
+    "Color ID": "SW6709",
+    "Color Name": "Gleeful",
+    "HEX": "DAD790"
+  },
+  {
+    "Color ID": "SW6710",
+    "Color Name": "M\u00e9lange Green",
+    "HEX": "C4C476"
+  },
+  {
+    "Color ID": "SW6711",
+    "Color Name": "Parakeet",
+    "HEX": "B4B05A"
+  },
+  {
+    "Color ID": "SW6712",
+    "Color Name": "Luau Green",
+    "HEX": "989746"
+  },
+  {
+    "Color ID": "SW6713",
+    "Color Name": "Verdant",
+    "HEX": "847E35"
+  },
+  {
+    "Color ID": "SW6715",
+    "Color Name": "Lime Granita",
+    "HEX": "DCE1B8"
+  },
+  {
+    "Color ID": "SW6716",
+    "Color Name": "Dancing Green",
+    "HEX": "C5CD8F"
+  },
+  {
+    "Color ID": "SW6717",
+    "Color Name": "Lime Rickey",
+    "HEX": "AFB96A"
+  },
+  {
+    "Color ID": "SW6718",
+    "Color Name": "Overt Green",
+    "HEX": "97A554"
+  },
+  {
+    "Color ID": "SW6719",
+    "Color Name": "Gecko",
+    "HEX": "7A8833"
+  },
+  {
+    "Color ID": "SW6720",
+    "Color Name": "Paradise",
+    "HEX": "6C7B30"
+  },
+  {
+    "Color ID": "SW6722",
+    "Color Name": "Cucumber",
+    "HEX": "D3DFC3"
+  },
+  {
+    "Color ID": "SW6723",
+    "Color Name": "Jardin",
+    "HEX": "BDD0AB"
+  },
+  {
+    "Color ID": "SW6724",
+    "Color Name": "Mesclun Green",
+    "HEX": "9DB682"
+  },
+  {
+    "Color ID": "SW6725",
+    "Color Name": "Pickle",
+    "HEX": "85A16A"
+  },
+  {
+    "Color ID": "SW6726",
+    "Color Name": "Talipot Palm",
+    "HEX": "648149"
+  },
+  {
+    "Color ID": "SW6727",
+    "Color Name": "Houseplant",
+    "HEX": "58713F"
+  },
+  {
+    "Color ID": "SW6729",
+    "Color Name": "Lacewing",
+    "HEX": "D7E3CA"
+  },
+  {
+    "Color ID": "SW6730",
+    "Color Name": "Romaine",
+    "HEX": "C0D2AD"
+  },
+  {
+    "Color ID": "SW6731",
+    "Color Name": "Picnic",
+    "HEX": "99C285"
+  },
+  {
+    "Color ID": "SW6732",
+    "Color Name": "Organic Green",
+    "HEX": "7FAC6E"
+  },
+  {
+    "Color ID": "SW6733",
+    "Color Name": "Grasshopper",
+    "HEX": "4F854A"
+  },
+  {
+    "Color ID": "SW6734",
+    "Color Name": "Espalier",
+    "HEX": "2F5F3A"
+  },
+  {
+    "Color ID": "SW6736",
+    "Color Name": "Jocular Green",
+    "HEX": "CCE2CA"
+  },
+  {
+    "Color ID": "SW6737",
+    "Color Name": "Kiwi",
+    "HEX": "AED2B0"
+  },
+  {
+    "Color ID": "SW6738",
+    "Color Name": "Vegan",
+    "HEX": "8EC298"
+  },
+  {
+    "Color ID": "SW6739",
+    "Color Name": "Eco Green",
+    "HEX": "68A678"
+  },
+  {
+    "Color ID": "SW6740",
+    "Color Name": "Kilkenny",
+    "HEX": "498555"
+  },
+  {
+    "Color ID": "SW6741",
+    "Color Name": "Derbyshire",
+    "HEX": "245E36"
+  },
+  {
+    "Color ID": "SW6743",
+    "Color Name": "Mint Condition",
+    "HEX": "D1E3D2"
+  },
+  {
+    "Color ID": "SW6744",
+    "Color Name": "Reclining Green",
+    "HEX": "B7D7BF"
+  },
+  {
+    "Color ID": "SW6745",
+    "Color Name": "Lark Green",
+    "HEX": "8AC1A1"
+  },
+  {
+    "Color ID": "SW6746",
+    "Color Name": "Julep",
+    "HEX": "57AA80"
+  },
+  {
+    "Color ID": "SW6747",
+    "Color Name": "Argyle",
+    "HEX": "348A5D"
+  },
+  {
+    "Color ID": "SW6748",
+    "Color Name": "Greens",
+    "HEX": "016844"
+  },
+  {
+    "Color ID": "SW6749",
+    "Color Name": "Embellished Blue",
+    "HEX": "D7EBE2"
+  },
+  {
+    "Color ID": "SW6750",
+    "Color Name": "Waterfall",
+    "HEX": "C0E3DA"
+  },
+  {
+    "Color ID": "SW6751",
+    "Color Name": "Refresh",
+    "HEX": "A1D4C8"
+  },
+  {
+    "Color ID": "SW6752",
+    "Color Name": "Larchmere",
+    "HEX": "70BAA7"
+  },
+  {
+    "Color ID": "SW6753",
+    "Color Name": "Jargon Jade",
+    "HEX": "53A38F"
+  },
+  {
+    "Color ID": "SW6754",
+    "Color Name": "Ionian",
+    "HEX": "368976"
+  },
+  {
+    "Color ID": "SW6755",
+    "Color Name": "Starboard",
+    "HEX": "016C4F"
+  },
+  {
+    "Color ID": "SW6757",
+    "Color Name": "Tame Teal",
+    "HEX": "C1E6DF"
+  },
+  {
+    "Color ID": "SW6758",
+    "Color Name": "Aqueduct",
+    "HEX": "A1D5CB"
+  },
+  {
+    "Color ID": "SW6759",
+    "Color Name": "Cooled Blue",
+    "HEX": "75B9AE"
+  },
+  {
+    "Color ID": "SW6760",
+    "Color Name": "Rivulet",
+    "HEX": "61A89D"
+  },
+  {
+    "Color ID": "SW6761",
+    "Color Name": "Thermal Spring",
+    "HEX": "3B8C80"
+  },
+  {
+    "Color ID": "SW6762",
+    "Color Name": "Poseidon",
+    "HEX": "016D60"
+  },
+  {
+    "Color ID": "SW6764",
+    "Color Name": "Swimming",
+    "HEX": "C2E5E5"
+  },
+  {
+    "Color ID": "SW6765",
+    "Color Name": "Spa",
+    "HEX": "A7DCDC"
+  },
+  {
+    "Color ID": "SW6766",
+    "Color Name": "Mariner",
+    "HEX": "6EC2C4"
+  },
+  {
+    "Color ID": "SW6767",
+    "Color Name": "Aquarium",
+    "HEX": "3AA9AE"
+  },
+  {
+    "Color ID": "SW6768",
+    "Color Name": "Gulfstream",
+    "HEX": "01858B"
+  },
+  {
+    "Color ID": "SW6769",
+    "Color Name": "Maxi Teal",
+    "HEX": "017478"
+  },
+  {
+    "Color ID": "SW6771",
+    "Color Name": "Bathe Blue",
+    "HEX": "C2E0E3"
+  },
+  {
+    "Color ID": "SW6772",
+    "Color Name": "Cay",
+    "HEX": "A6D0D6"
+  },
+  {
+    "Color ID": "SW6773",
+    "Color Name": "Rapture Blue",
+    "HEX": "7DC1CB"
+  },
+  {
+    "Color ID": "SW6774",
+    "Color Name": "Freshwater",
+    "HEX": "4DA6B2"
+  },
+  {
+    "Color ID": "SW6775",
+    "Color Name": "Briny",
+    "HEX": "08808E"
+  },
+  {
+    "Color ID": "SW6776",
+    "Color Name": "Blue Nile",
+    "HEX": "01717E"
+  },
+  {
+    "Color ID": "SW6778",
+    "Color Name": "Aviary Blue",
+    "HEX": "C6E3E8"
+  },
+  {
+    "Color ID": "SW6779",
+    "Color Name": "Liquid Blue",
+    "HEX": "A6D4DE"
+  },
+  {
+    "Color ID": "SW6780",
+    "Color Name": "Nautilus",
+    "HEX": "71B8C7"
+  },
+  {
+    "Color ID": "SW6781",
+    "Color Name": "Jamaica Bay",
+    "HEX": "34A3B6"
+  },
+  {
+    "Color ID": "SW6782",
+    "Color Name": "Cruising",
+    "HEX": "018498"
+  },
+  {
+    "Color ID": "SW6783",
+    "Color Name": "Amalfi",
+    "HEX": "016E85"
+  },
+  {
+    "Color ID": "SW6784",
+    "Color Name": "Bravo Blue",
+    "HEX": "D3E7E9"
+  },
+  {
+    "Color ID": "SW6785",
+    "Color Name": "Quench Blue",
+    "HEX": "B4E0E7"
+  },
+  {
+    "Color ID": "SW6786",
+    "Color Name": "Cloudless",
+    "HEX": "8FD0DD"
+  },
+  {
+    "Color ID": "SW6787",
+    "Color Name": "Fountain",
+    "HEX": "56B5CA"
+  },
+  {
+    "Color ID": "SW6788",
+    "Color Name": "Capri",
+    "HEX": "01A0B8"
+  },
+  {
+    "Color ID": "SW6789",
+    "Color Name": "Blue Mosque",
+    "HEX": "01819E"
+  },
+  {
+    "Color ID": "SW6790",
+    "Color Name": "Adriatic Sea",
+    "HEX": "016081"
+  },
+  {
+    "Color ID": "SW6792",
+    "Color Name": "Minor Blue",
+    "HEX": "B7DFE8"
+  },
+  {
+    "Color ID": "SW6793",
+    "Color Name": "Bluebell",
+    "HEX": "A2D5E7"
+  },
+  {
+    "Color ID": "SW6794",
+    "Color Name": "Flyway",
+    "HEX": "5DB3D4"
+  },
+  {
+    "Color ID": "SW6795",
+    "Color Name": "Major Blue",
+    "HEX": "289EC4"
+  },
+  {
+    "Color ID": "SW6796",
+    "Color Name": "Blue Plate",
+    "HEX": "017CA7"
+  },
+  {
+    "Color ID": "SW6797",
+    "Color Name": "Jay Blue",
+    "HEX": "015D87"
+  },
+  {
+    "Color ID": "SW6798",
+    "Color Name": "Iceberg",
+    "HEX": "D6E4E7"
+  },
+  {
+    "Color ID": "SW6799",
+    "Color Name": "Soar",
+    "HEX": "C3DFE8"
+  },
+  {
+    "Color ID": "SW6800",
+    "Color Name": "Something Blue",
+    "HEX": "B0D6E6"
+  },
+  {
+    "Color ID": "SW6801",
+    "Color Name": "Regale Blue",
+    "HEX": "7DB5D3"
+  },
+  {
+    "Color ID": "SW6802",
+    "Color Name": "Jacaranda",
+    "HEX": "5A9EC0"
+  },
+  {
+    "Color ID": "SW6803",
+    "Color Name": "Danube",
+    "HEX": "2377A2"
+  },
+  {
+    "Color ID": "SW6804",
+    "Color Name": "Dignity Blue",
+    "HEX": "094C73"
+  },
+  {
+    "Color ID": "SW6806",
+    "Color Name": "Rhythmic Blue",
+    "HEX": "CCDBE5"
+  },
+  {
+    "Color ID": "SW6807",
+    "Color Name": "Wondrous Blue",
+    "HEX": "B8CDDD"
+  },
+  {
+    "Color ID": "SW6808",
+    "Color Name": "Celestial",
+    "HEX": "97B3D0"
+  },
+  {
+    "Color ID": "SW6809",
+    "Color Name": "Lobelia",
+    "HEX": "7498BE"
+  },
+  {
+    "Color ID": "SW6810",
+    "Color Name": "Lupine",
+    "HEX": "4E739F"
+  },
+  {
+    "Color ID": "SW6811",
+    "Color Name": "Honorable Blue",
+    "HEX": "164576"
+  },
+  {
+    "Color ID": "SW6813",
+    "Color Name": "Wishful Blue",
+    "HEX": "D8DDE6"
+  },
+  {
+    "Color ID": "SW6814",
+    "Color Name": "Breathtaking",
+    "HEX": "C7D1E2"
+  },
+  {
+    "Color ID": "SW6815",
+    "Color Name": "Awesome Violet",
+    "HEX": "A7B2D4"
+  },
+  {
+    "Color ID": "SW6816",
+    "Color Name": "Dahlia",
+    "HEX": "8B98C4"
+  },
+  {
+    "Color ID": "SW6817",
+    "Color Name": "Gentian",
+    "HEX": "6572A5"
+  },
+  {
+    "Color ID": "SW6818",
+    "Color Name": "Valiant Violet",
+    "HEX": "3E4371"
+  },
+  {
+    "Color ID": "SW6820",
+    "Color Name": "Inspired Lilac",
+    "HEX": "DFD9E4"
+  },
+  {
+    "Color ID": "SW6821",
+    "Color Name": "Potentially Purple",
+    "HEX": "D1CBDF"
+  },
+  {
+    "Color ID": "SW6822",
+    "Color Name": "Wisteria",
+    "HEX": "BDB4D4"
+  },
+  {
+    "Color ID": "SW6823",
+    "Color Name": "Brave Purple",
+    "HEX": "968DB8"
+  },
+  {
+    "Color ID": "SW6824",
+    "Color Name": "Forget\u2010Me\u2010Not",
+    "HEX": "716998"
+  },
+  {
+    "Color ID": "SW6825",
+    "Color Name": "Izmir Purple",
+    "HEX": "4D426E"
+  },
+  {
+    "Color ID": "SW6827",
+    "Color Name": "Elation",
+    "HEX": "DFDCE5"
+  },
+  {
+    "Color ID": "SW6828",
+    "Color Name": "Rhapsody Lilac",
+    "HEX": "D2C8DD"
+  },
+  {
+    "Color ID": "SW6829",
+    "Color Name": "Magical",
+    "HEX": "C0AFD0"
+  },
+  {
+    "Color ID": "SW6830",
+    "Color Name": "Kismet",
+    "HEX": "A18AB7"
+  },
+  {
+    "Color ID": "SW6831",
+    "Color Name": "Clematis",
+    "HEX": "7E6596"
+  },
+  {
+    "Color ID": "SW6832",
+    "Color Name": "Impulsive Purple",
+    "HEX": "624977"
+  },
+  {
+    "Color ID": "SW6834",
+    "Color Name": "Spangle",
+    "HEX": "E5DBE5"
+  },
+  {
+    "Color ID": "SW6835",
+    "Color Name": "Euphoric Lilac",
+    "HEX": "DAC7DA"
+  },
+  {
+    "Color ID": "SW6836",
+    "Color Name": "Novel Lilac",
+    "HEX": "C2A4C2"
+  },
+  {
+    "Color ID": "SW6837",
+    "Color Name": "Baroness",
+    "HEX": "A785A7"
+  },
+  {
+    "Color ID": "SW6838",
+    "Color Name": "Vigorous Violet",
+    "HEX": "7C5A7E"
+  },
+  {
+    "Color ID": "SW6839",
+    "Color Name": "Kimono Violet",
+    "HEX": "5D395F"
+  },
+  {
+    "Color ID": "SW6840",
+    "Color Name": "Exuberant Pink",
+    "HEX": "B54D7F"
+  },
+  {
+    "Color ID": "SW6841",
+    "Color Name": "Dynamo",
+    "HEX": "953D68"
+  },
+  {
+    "Color ID": "SW6842",
+    "Color Name": "Forward Fuchsia",
+    "HEX": "92345B"
+  },
+  {
+    "Color ID": "SW6843",
+    "Color Name": "Hot",
+    "HEX": "AC4362"
+  },
+  {
+    "Color ID": "SW6855",
+    "Color Name": "Dragon Fruit",
+    "HEX": "CC617F"
+  },
+  {
+    "Color ID": "SW6860",
+    "Color Name": "Eros Pink",
+    "HEX": "C84F68"
+  },
+  {
+    "Color ID": "SW6861",
+    "Color Name": "Radish",
+    "HEX": "A42E41"
+  },
+  {
+    "Color ID": "SW6862",
+    "Color Name": "Cherries Jubilee",
+    "HEX": "AB3C51"
+  },
+  {
+    "Color ID": "SW6866",
+    "Color Name": "Heartthrob",
+    "HEX": "A82E33"
+  },
+  {
+    "Color ID": "SW6868",
+    "Color Name": "Real Red",
+    "HEX": "BF2D32"
+  },
+  {
+    "Color ID": "SW6869",
+    "Color Name": "Stop",
+    "HEX": "C33A36"
+  },
+  {
+    "Color ID": "SW6871",
+    "Color Name": "Positive Red",
+    "HEX": "AD2C34"
+  },
+  {
+    "Color ID": "SW6876",
+    "Color Name": "Comical Coral",
+    "HEX": "F3D1C8"
+  },
+  {
+    "Color ID": "SW6881",
+    "Color Name": "Cayenne",
+    "HEX": "C04D35"
+  },
+  {
+    "Color ID": "SW6883",
+    "Color Name": "Raucous Orange",
+    "HEX": "C35530"
+  },
+  {
+    "Color ID": "SW6884",
+    "Color Name": "Obstinate Orange",
+    "HEX": "D7552A"
+  },
+  {
+    "Color ID": "SW6885",
+    "Color Name": "Knockout Orange",
+    "HEX": "E16F3E"
+  },
+  {
+    "Color ID": "SW6886",
+    "Color Name": "Invigorate",
+    "HEX": "E47237"
+  },
+  {
+    "Color ID": "SW6887",
+    "Color Name": "Navel",
+    "HEX": "EC8430"
+  },
+  {
+    "Color ID": "SW6890",
+    "Color Name": "Osage Orange",
+    "HEX": "F4A045"
+  },
+  {
+    "Color ID": "SW6892",
+    "Color Name": "Carnival",
+    "HEX": "EB882C"
+  },
+  {
+    "Color ID": "SW6896",
+    "Color Name": "Sol\u00e9",
+    "HEX": "F7DDA1"
+  },
+  {
+    "Color ID": "SW6900",
+    "Color Name": "Optimistic Yellow",
+    "HEX": "F5E1A6"
+  },
+  {
+    "Color ID": "SW6901",
+    "Color Name": "Daffodil",
+    "HEX": "FAD97A"
+  },
+  {
+    "Color ID": "SW6902",
+    "Color Name": "Decisive Yellow",
+    "HEX": "FDCC4E"
+  },
+  {
+    "Color ID": "SW6903",
+    "Color Name": "Cheerful",
+    "HEX": "FFC723"
+  },
+  {
+    "Color ID": "SW6904",
+    "Color Name": "Gusto Gold",
+    "HEX": "F8AC1D"
+  },
+  {
+    "Color ID": "SW6905",
+    "Color Name": "Goldfinch",
+    "HEX": "FDB702"
+  },
+  {
+    "Color ID": "SW6907",
+    "Color Name": "Forsythia",
+    "HEX": "FFC801"
+  },
+  {
+    "Color ID": "SW6908",
+    "Color Name": "Fun Yellow",
+    "HEX": "F7E594"
+  },
+  {
+    "Color ID": "SW6909",
+    "Color Name": "Lemon Twist",
+    "HEX": "FED95D"
+  },
+  {
+    "Color ID": "SW6910",
+    "Color Name": "Daisy",
+    "HEX": "FED340"
+  },
+  {
+    "Color ID": "SW6911",
+    "Color Name": "Confident Yellow",
+    "HEX": "FECB01"
+  },
+  {
+    "Color ID": "SW6913",
+    "Color Name": "Funky Yellow",
+    "HEX": "EDD26F"
+  },
+  {
+    "Color ID": "SW6914",
+    "Color Name": "Eye Catching",
+    "HEX": "DDB835"
+  },
+  {
+    "Color ID": "SW6915",
+    "Color Name": "Citronella",
+    "HEX": "CBA901"
+  },
+  {
+    "Color ID": "SW6918",
+    "Color Name": "Humorous Green",
+    "HEX": "C6B836"
+  },
+  {
+    "Color ID": "SW6920",
+    "Color Name": "Center Stage",
+    "HEX": "B2C216"
+  },
+  {
+    "Color ID": "SW6921",
+    "Color Name": "Electric Lime",
+    "HEX": "9ABA25"
+  },
+  {
+    "Color ID": "SW6924",
+    "Color Name": "Direct Green",
+    "HEX": "3F8A24"
+  },
+  {
+    "Color ID": "SW6925",
+    "Color Name": "Envy",
+    "HEX": "358C3F"
+  },
+  {
+    "Color ID": "SW6926",
+    "Color Name": "Lucky Green",
+    "HEX": "238652"
+  },
+  {
+    "Color ID": "SW6927",
+    "Color Name": "Greenbelt",
+    "HEX": "017244"
+  },
+  {
+    "Color ID": "SW6928",
+    "Color Name": "Green Vibes",
+    "HEX": "D4E7C3"
+  },
+  {
+    "Color ID": "SW6937",
+    "Color Name": "Tantalizing Teal",
+    "HEX": "87DCCE"
+  },
+  {
+    "Color ID": "SW6941",
+    "Color Name": "Nifty Turquoise",
+    "HEX": "019187"
+  },
+  {
+    "Color ID": "SW6942",
+    "Color Name": "Splashy",
+    "HEX": "019196"
+  },
+  {
+    "Color ID": "SW6943",
+    "Color Name": "Intense Teal",
+    "HEX": "017680"
+  },
+  {
+    "Color ID": "SW6950",
+    "Color Name": "Calypso",
+    "HEX": "01B0BB"
+  },
+  {
+    "Color ID": "SW6957",
+    "Color Name": "Undercool",
+    "HEX": "7FC3E1"
+  },
+  {
+    "Color ID": "SW6958",
+    "Color Name": "Dynamic Blue",
+    "HEX": "0192C6"
+  },
+  {
+    "Color ID": "SW6959",
+    "Color Name": "Blue Chip",
+    "HEX": "016EA7"
+  },
+  {
+    "Color ID": "SW6965",
+    "Color Name": "Hyper Blue",
+    "HEX": "015F97"
+  },
+  {
+    "Color ID": "SW6966",
+    "Color Name": "Blueblood",
+    "HEX": "015086"
+  },
+  {
+    "Color ID": "SW6967",
+    "Color Name": "Frank Blue",
+    "HEX": "225288"
+  },
+  {
+    "Color ID": "SW6968",
+    "Color Name": "Hyacinth Tint",
+    "HEX": "C2CBE0"
+  },
+  {
+    "Color ID": "SW6971",
+    "Color Name": "Morning Glory",
+    "HEX": "3C4C80"
+  },
+  {
+    "Color ID": "SW6973",
+    "Color Name": "Free Spirit",
+    "HEX": "CAB2D2"
+  },
+  {
+    "Color ID": "SW6981",
+    "Color Name": "Passionate Purple",
+    "HEX": "795484"
+  },
+  {
+    "Color ID": "SW6982",
+    "Color Name": "African Violet",
+    "HEX": "665385"
+  },
+  {
+    "Color ID": "SW6983",
+    "Color Name": "Fully Purple",
+    "HEX": "514C7E"
+  },
+  {
+    "Color ID": "SW6987",
+    "Color Name": "Jitterbug Jade",
+    "HEX": "019D6E"
+  },
+  {
+    "Color ID": "SW6988",
+    "Color Name": "Bohemian Black",
+    "HEX": "3B373C"
+  },
+  {
+    "Color ID": "SW6989",
+    "Color Name": "Domino",
+    "HEX": "353337"
+  },
+  {
+    "Color ID": "SW6990",
+    "Color Name": "Caviar",
+    "HEX": "313031"
+  },
+  {
+    "Color ID": "SW6991",
+    "Color Name": "Black Magic",
+    "HEX": "323132"
+  },
+  {
+    "Color ID": "SW6992",
+    "Color Name": "Inkwell",
+    "HEX": "31363A"
+  },
+  {
+    "Color ID": "SW6993",
+    "Color Name": "Black of Night",
+    "HEX": "323639"
+  },
+  {
+    "Color ID": "SW6994",
+    "Color Name": "Greenblack",
+    "HEX": "373A3A"
+  },
+  {
+    "Color ID": "SW7000",
+    "Color Name": "Ibis White",
+    "HEX": "F2ECE6"
+  },
+  {
+    "Color ID": "SW7001",
+    "Color Name": "Marshmallow",
+    "HEX": "EEE9E0"
+  },
+  {
+    "Color ID": "SW7002",
+    "Color Name": "Downy",
+    "HEX": "EFE8DD"
+  },
+  {
+    "Color ID": "SW7003",
+    "Color Name": "Toque White",
+    "HEX": "E7E2DA"
+  },
+  {
+    "Color ID": "SW7004",
+    "Color Name": "Snowbound",
+    "HEX": "EDEAE5"
+  },
+  {
+    "Color ID": "SW7005",
+    "Color Name": "Pure White",
+    "HEX": "EDECE6"
+  },
+  {
+    "Color ID": "SW7006",
+    "Color Name": "Extra White",
+    "HEX": "EEEFEA"
+  },
+  {
+    "Color ID": "SW7007",
+    "Color Name": "Ceiling Bright White",
+    "HEX": "E9EBE7"
+  },
+  {
+    "Color ID": "SW7008",
+    "Color Name": "Alabaster",
+    "HEX": "EDEAE0"
+  },
+  {
+    "Color ID": "SW7009",
+    "Color Name": "Pearly White",
+    "HEX": "E8E3D9"
+  },
+  {
+    "Color ID": "SW7010",
+    "Color Name": "White Duck",
+    "HEX": "E5DFD2"
+  },
+  {
+    "Color ID": "SW7011",
+    "Color Name": "Natural Choice",
+    "HEX": "E3DED0"
+  },
+  {
+    "Color ID": "SW7012",
+    "Color Name": "Creamy",
+    "HEX": "EFE8DB"
+  },
+  {
+    "Color ID": "SW7013",
+    "Color Name": "Ivory Lace",
+    "HEX": "ECE5D8"
+  },
+  {
+    "Color ID": "SW7014",
+    "Color Name": "Eider White",
+    "HEX": "E2DED8"
+  },
+  {
+    "Color ID": "SW7015",
+    "Color Name": "Repose Gray",
+    "HEX": "CCC9C0"
+  },
+  {
+    "Color ID": "SW7016",
+    "Color Name": "Mindful Gray",
+    "HEX": "BCB7AD"
+  },
+  {
+    "Color ID": "SW7017",
+    "Color Name": "Dorian Gray",
+    "HEX": "ACA79E"
+  },
+  {
+    "Color ID": "SW7018",
+    "Color Name": "Dovetail",
+    "HEX": "908A83"
+  },
+  {
+    "Color ID": "SW7019",
+    "Color Name": "Gauntlet Gray",
+    "HEX": "78736E"
+  },
+  {
+    "Color ID": "SW7020",
+    "Color Name": "Black Fox",
+    "HEX": "4F4842"
+  },
+  {
+    "Color ID": "SW7021",
+    "Color Name": "Simple White",
+    "HEX": "DFD9D2"
+  },
+  {
+    "Color ID": "SW7022",
+    "Color Name": "Alpaca",
+    "HEX": "CCC5BD"
+  },
+  {
+    "Color ID": "SW7023",
+    "Color Name": "Requisite Gray",
+    "HEX": "B9B2A9"
+  },
+  {
+    "Color ID": "SW7024",
+    "Color Name": "Functional Gray",
+    "HEX": "ABA39A"
+  },
+  {
+    "Color ID": "SW7025",
+    "Color Name": "Backdrop",
+    "HEX": "867A6F"
+  },
+  {
+    "Color ID": "SW7026",
+    "Color Name": "Griffin",
+    "HEX": "6F6459"
+  },
+  {
+    "Color ID": "SW7027",
+    "Color Name": "Hickory Smoke",
+    "HEX": "564537"
+  },
+  {
+    "Color ID": "SW7028",
+    "Color Name": "Incredible White",
+    "HEX": "E3DED7"
+  },
+  {
+    "Color ID": "SW7029",
+    "Color Name": "Agreeable Gray",
+    "HEX": "D1CBC1"
+  },
+  {
+    "Color ID": "SW7030",
+    "Color Name": "Anew Gray",
+    "HEX": "BFB6AA"
+  },
+  {
+    "Color ID": "SW7031",
+    "Color Name": "Mega Greige",
+    "HEX": "ADA295"
+  },
+  {
+    "Color ID": "SW7032",
+    "Color Name": "Warm Stone",
+    "HEX": "887B6C"
+  },
+  {
+    "Color ID": "SW7033",
+    "Color Name": "Brainstorm Bronze",
+    "HEX": "74685A"
+  },
+  {
+    "Color ID": "SW7034",
+    "Color Name": "Status Bronze",
+    "HEX": "5C4D3C"
+  },
+  {
+    "Color ID": "SW7035",
+    "Color Name": "Aesthetic White",
+    "HEX": "E3DDD3"
+  },
+  {
+    "Color ID": "SW7036",
+    "Color Name": "Accessible Beige",
+    "HEX": "D1C7B8"
+  },
+  {
+    "Color ID": "SW7037",
+    "Color Name": "Balanced Beige",
+    "HEX": "C0B2A2"
+  },
+  {
+    "Color ID": "SW7038",
+    "Color Name": "Tony Taupe",
+    "HEX": "B1A290"
+  },
+  {
+    "Color ID": "SW7039",
+    "Color Name": "Virtual Taupe",
+    "HEX": "8A7A6A"
+  },
+  {
+    "Color ID": "SW7040",
+    "Color Name": "Smokehouse",
+    "HEX": "716354"
+  },
+  {
+    "Color ID": "SW7041",
+    "Color Name": "Van Dyke Brown",
+    "HEX": "564536"
+  },
+  {
+    "Color ID": "SW7042",
+    "Color Name": "Shoji White",
+    "HEX": "E6DFD3"
+  },
+  {
+    "Color ID": "SW7043",
+    "Color Name": "Worldly Gray",
+    "HEX": "CEC6BB"
+  },
+  {
+    "Color ID": "SW7044",
+    "Color Name": "Amazing Gray",
+    "HEX": "BEB5A9"
+  },
+  {
+    "Color ID": "SW7045",
+    "Color Name": "Intellectual Gray",
+    "HEX": "A8A093"
+  },
+  {
+    "Color ID": "SW7046",
+    "Color Name": "Anonymous",
+    "HEX": "817A6E"
+  },
+  {
+    "Color ID": "SW7047",
+    "Color Name": "Porpoise",
+    "HEX": "6B645B"
+  },
+  {
+    "Color ID": "SW7048",
+    "Color Name": "Urbane Bronze",
+    "HEX": "54504A"
+  },
+  {
+    "Color ID": "SW7049",
+    "Color Name": "Nuance",
+    "HEX": "E2E0D6"
+  },
+  {
+    "Color ID": "SW7050",
+    "Color Name": "Useful Gray",
+    "HEX": "CFCABD"
+  },
+  {
+    "Color ID": "SW7051",
+    "Color Name": "Analytical Gray",
+    "HEX": "BFB6A7"
+  },
+  {
+    "Color ID": "SW7052",
+    "Color Name": "Gray Area",
+    "HEX": "AFA696"
+  },
+  {
+    "Color ID": "SW7053",
+    "Color Name": "Adaptive Shade",
+    "HEX": "867E70"
+  },
+  {
+    "Color ID": "SW7054",
+    "Color Name": "Oak Leaf Brown",
+    "HEX": "645A4B"
+  },
+  {
+    "Color ID": "SW7055",
+    "Color Name": "Enduring Bronze",
+    "HEX": "554C3E"
+  },
+  {
+    "Color ID": "SW7056",
+    "Color Name": "Reserved White",
+    "HEX": "E0E0D9"
+  },
+  {
+    "Color ID": "SW7057",
+    "Color Name": "Silver Strand",
+    "HEX": "C8CBC4"
+  },
+  {
+    "Color ID": "SW7058",
+    "Color Name": "Magnetic Gray",
+    "HEX": "B2B5AF"
+  },
+  {
+    "Color ID": "SW7059",
+    "Color Name": "Unusual Gray",
+    "HEX": "A3A7A0"
+  },
+  {
+    "Color ID": "SW7060",
+    "Color Name": "Attitude Gray",
+    "HEX": "7C7D75"
+  },
+  {
+    "Color ID": "SW7061",
+    "Color Name": "Night Owl",
+    "HEX": "63655F"
+  },
+  {
+    "Color ID": "SW7062",
+    "Color Name": "Rock Bottom",
+    "HEX": "484C49"
+  },
+  {
+    "Color ID": "SW7063",
+    "Color Name": "Nebulous White",
+    "HEX": "DEDFDC"
+  },
+  {
+    "Color ID": "SW7064",
+    "Color Name": "Passive",
+    "HEX": "CBCCC9"
+  },
+  {
+    "Color ID": "SW7065",
+    "Color Name": "Argos",
+    "HEX": "BDBDB7"
+  },
+  {
+    "Color ID": "SW7066",
+    "Color Name": "Gray Matters",
+    "HEX": "A7A8A2"
+  },
+  {
+    "Color ID": "SW7067",
+    "Color Name": "Cityscape",
+    "HEX": "7F817E"
+  },
+  {
+    "Color ID": "SW7068",
+    "Color Name": "Grizzle Gray",
+    "HEX": "636562"
+  },
+  {
+    "Color ID": "SW7069",
+    "Color Name": "Iron Ore",
+    "HEX": "434341"
+  },
+  {
+    "Color ID": "SW7070",
+    "Color Name": "Site White",
+    "HEX": "DCDEDC"
+  },
+  {
+    "Color ID": "SW7071",
+    "Color Name": "Gray Screen",
+    "HEX": "C6CACA"
+  },
+  {
+    "Color ID": "SW7072",
+    "Color Name": "Online",
+    "HEX": "B0B5B5"
+  },
+  {
+    "Color ID": "SW7073",
+    "Color Name": "Network Gray",
+    "HEX": "A0A5A7"
+  },
+  {
+    "Color ID": "SW7074",
+    "Color Name": "Software",
+    "HEX": "7F8486"
+  },
+  {
+    "Color ID": "SW7075",
+    "Color Name": "Web Gray",
+    "HEX": "616669"
+  },
+  {
+    "Color ID": "SW7076",
+    "Color Name": "Cyberspace",
+    "HEX": "44484D"
+  },
+  {
+    "Color ID": "SW7077",
+    "Color Name": "Original White",
+    "HEX": "E2DEDB"
+  },
+  {
+    "Color ID": "SW7078",
+    "Color Name": "Minute Mauve",
+    "HEX": "CFC9C8"
+  },
+  {
+    "Color ID": "SW7079",
+    "Color Name": "Ponder",
+    "HEX": "BCB6B6"
+  },
+  {
+    "Color ID": "SW7080",
+    "Color Name": "Quest Gray",
+    "HEX": "ADA5A5"
+  },
+  {
+    "Color ID": "SW7081",
+    "Color Name": "Sensuous Gray",
+    "HEX": "837D7F"
+  },
+  {
+    "Color ID": "SW7082",
+    "Color Name": "Stunning Shade",
+    "HEX": "676064"
+  },
+  {
+    "Color ID": "SW7083",
+    "Color Name": "Darkroom",
+    "HEX": "443E40"
+  },
+  {
+    "Color ID": "SW7100",
+    "Color Name": "Arcade White",
+    "HEX": "F3EEE7"
+  },
+  {
+    "Color ID": "SW7101",
+    "Color Name": "Futon",
+    "HEX": "EDE6DB"
+  },
+  {
+    "Color ID": "SW7102",
+    "Color Name": "White Flour",
+    "HEX": "F4EFE5"
+  },
+  {
+    "Color ID": "SW7103",
+    "Color Name": "Whitetail",
+    "HEX": "F4EFE4"
+  },
+  {
+    "Color ID": "SW7104",
+    "Color Name": "Cotton White",
+    "HEX": "F7EFE3"
+  },
+  {
+    "Color ID": "SW7105",
+    "Color Name": "Paperwhite",
+    "HEX": "F7EFDE"
+  },
+  {
+    "Color ID": "SW7106",
+    "Color Name": "Honied White",
+    "HEX": "F8EEDB"
+  },
+  {
+    "Color ID": "SW7501",
+    "Color Name": "Threshold Taupe",
+    "HEX": "AC9A8A"
+  },
+  {
+    "Color ID": "SW7502",
+    "Color Name": "Dry Dock",
+    "HEX": "A18D7D"
+  },
+  {
+    "Color ID": "SW7503",
+    "Color Name": "Sticks & Stones",
+    "HEX": "A49689"
+  },
+  {
+    "Color ID": "SW7504",
+    "Color Name": "Keystone Gray",
+    "HEX": "9E9284"
+  },
+  {
+    "Color ID": "SW7505",
+    "Color Name": "Manor House",
+    "HEX": "665D57"
+  },
+  {
+    "Color ID": "SW7506",
+    "Color Name": "Loggia",
+    "HEX": "C4B7A5"
+  },
+  {
+    "Color ID": "SW7507",
+    "Color Name": "Stone Lion",
+    "HEX": "B3A491"
+  },
+  {
+    "Color ID": "SW7508",
+    "Color Name": "Tavern Taupe",
+    "HEX": "9C8A79"
+  },
+  {
+    "Color ID": "SW7509",
+    "Color Name": "Tiki Hut",
+    "HEX": "826F5E"
+  },
+  {
+    "Color ID": "SW7510",
+    "Color Name": "Chateau Brown",
+    "HEX": "5B4B44"
+  },
+  {
+    "Color ID": "SW7511",
+    "Color Name": "Bungalow Beige",
+    "HEX": "CDBFB0"
+  },
+  {
+    "Color ID": "SW7512",
+    "Color Name": "Pavilion Beige",
+    "HEX": "C5B6A4"
+  },
+  {
+    "Color ID": "SW7513",
+    "Color Name": "Sanderling",
+    "HEX": "A79582"
+  },
+  {
+    "Color ID": "SW7514",
+    "Color Name": "Foothills",
+    "HEX": "827466"
+  },
+  {
+    "Color ID": "SW7515",
+    "Color Name": "Homestead Brown",
+    "HEX": "6E5F53"
+  },
+  {
+    "Color ID": "SW7516",
+    "Color Name": "Kestrel White",
+    "HEX": "E0D6C8"
+  },
+  {
+    "Color ID": "SW7517",
+    "Color Name": "Rivers Edge",
+    "HEX": "DBCEBD"
+  },
+  {
+    "Color ID": "SW7518",
+    "Color Name": "Beach House",
+    "HEX": "C9B29C"
+  },
+  {
+    "Color ID": "SW7519",
+    "Color Name": "Mexican Sand",
+    "HEX": "AF9781"
+  },
+  {
+    "Color ID": "SW7520",
+    "Color Name": "Plantation Shutters",
+    "HEX": "6A5143"
+  },
+  {
+    "Color ID": "SW7521",
+    "Color Name": "Dormer Brown",
+    "HEX": "AD947C"
+  },
+  {
+    "Color ID": "SW7522",
+    "Color Name": "Meadowlark",
+    "HEX": "9F8267"
+  },
+  {
+    "Color ID": "SW7523",
+    "Color Name": "Burnished Brandy",
+    "HEX": "7C5C43"
+  },
+  {
+    "Color ID": "SW7524",
+    "Color Name": "Dhurrie Beige",
+    "HEX": "CABAA8"
+  },
+  {
+    "Color ID": "SW7525",
+    "Color Name": "Tree Branch",
+    "HEX": "8A7362"
+  },
+  {
+    "Color ID": "SW7526",
+    "Color Name": "Maison Blanche",
+    "HEX": "DFD2BF"
+  },
+  {
+    "Color ID": "SW7527",
+    "Color Name": "Nantucket Dune",
+    "HEX": "D0BFAA"
+  },
+  {
+    "Color ID": "SW7528",
+    "Color Name": "Windsor Greige",
+    "HEX": "C4B49C"
+  },
+  {
+    "Color ID": "SW7529",
+    "Color Name": "Sand Beach",
+    "HEX": "D4C5AD"
+  },
+  {
+    "Color ID": "SW7530",
+    "Color Name": "Barcelona Beige",
+    "HEX": "C4B39C"
+  },
+  {
+    "Color ID": "SW7531",
+    "Color Name": "Canvas Tan",
+    "HEX": "DCD1BF"
+  },
+  {
+    "Color ID": "SW7532",
+    "Color Name": "Urban Putty",
+    "HEX": "CFC0AB"
+  },
+  {
+    "Color ID": "SW7533",
+    "Color Name": "Khaki Shade",
+    "HEX": "C0AF97"
+  },
+  {
+    "Color ID": "SW7534",
+    "Color Name": "Outerbanks",
+    "HEX": "B7A48B"
+  },
+  {
+    "Color ID": "SW7535",
+    "Color Name": "Sandy Ridge",
+    "HEX": "A18E77"
+  },
+  {
+    "Color ID": "SW7536",
+    "Color Name": "Bittersweet Stem",
+    "HEX": "CBB49A"
+  },
+  {
+    "Color ID": "SW7537",
+    "Color Name": "Irish Cream",
+    "HEX": "E3D2B8"
+  },
+  {
+    "Color ID": "SW7538",
+    "Color Name": "Tamarind",
+    "HEX": "C0A588"
+  },
+  {
+    "Color ID": "SW7539",
+    "Color Name": "Cork Wedge",
+    "HEX": "C1A98A"
+  },
+  {
+    "Color ID": "SW7540",
+    "Color Name": "Artisan Tan",
+    "HEX": "B09879"
+  },
+  {
+    "Color ID": "SW7541",
+    "Color Name": "Grecian Ivory",
+    "HEX": "D8CFBE"
+  },
+  {
+    "Color ID": "SW7542",
+    "Color Name": "Naturel",
+    "HEX": "CBC0AD"
+  },
+  {
+    "Color ID": "SW7543",
+    "Color Name": "Avenue Tan",
+    "HEX": "BCB099"
+  },
+  {
+    "Color ID": "SW7544",
+    "Color Name": "Fenland",
+    "HEX": "AC9D83"
+  },
+  {
+    "Color ID": "SW7545",
+    "Color Name": "Pier",
+    "HEX": "63523D"
+  },
+  {
+    "Color ID": "SW7546",
+    "Color Name": "Prairie Grass",
+    "HEX": "B1A38E"
+  },
+  {
+    "Color ID": "SW7547",
+    "Color Name": "Sandbar",
+    "HEX": "CBBFAD"
+  },
+  {
+    "Color ID": "SW7548",
+    "Color Name": "Portico",
+    "HEX": "BBAB95"
+  },
+  {
+    "Color ID": "SW7549",
+    "Color Name": "Studio Taupe",
+    "HEX": "AD9C85"
+  },
+  {
+    "Color ID": "SW7550",
+    "Color Name": "Resort Tan",
+    "HEX": "907D66"
+  },
+  {
+    "Color ID": "SW7551",
+    "Color Name": "Greek Villa",
+    "HEX": "F0ECE2"
+  },
+  {
+    "Color ID": "SW7552",
+    "Color Name": "Bauhaus Buff",
+    "HEX": "E7DBCC"
+  },
+  {
+    "Color ID": "SW7553",
+    "Color Name": "Fragile Beauty",
+    "HEX": "E7D7C6"
+  },
+  {
+    "Color ID": "SW7554",
+    "Color Name": "Steamed Milk",
+    "HEX": "ECE1D1"
+  },
+  {
+    "Color ID": "SW7555",
+    "Color Name": "Patience",
+    "HEX": "E2D3BF"
+  },
+  {
+    "Color ID": "SW7556",
+    "Color Name": "Cr\u00e8me",
+    "HEX": "F4E8D2"
+  },
+  {
+    "Color ID": "SW7557",
+    "Color Name": "Summer White",
+    "HEX": "F4E9D6"
+  },
+  {
+    "Color ID": "SW7558",
+    "Color Name": "Medici Ivory",
+    "HEX": "F3E9D7"
+  },
+  {
+    "Color ID": "SW7559",
+    "Color Name": "D\u00e9cor White",
+    "HEX": "F2E5CF"
+  },
+  {
+    "Color ID": "SW7560",
+    "Color Name": "Impressive Ivory",
+    "HEX": "F4DEC3"
+  },
+  {
+    "Color ID": "SW7561",
+    "Color Name": "Lemon Meringue",
+    "HEX": "F5EACC"
+  },
+  {
+    "Color ID": "SW7562",
+    "Color Name": "Roman Column",
+    "HEX": "F6F0E2"
+  },
+  {
+    "Color ID": "SW7563",
+    "Color Name": "Restful White",
+    "HEX": "EEE8D7"
+  },
+  {
+    "Color ID": "SW7564",
+    "Color Name": "Polar Bear",
+    "HEX": "E8DFCA"
+  },
+  {
+    "Color ID": "SW7565",
+    "Color Name": "Oyster Bar",
+    "HEX": "DBD0BB"
+  },
+  {
+    "Color ID": "SW7566",
+    "Color Name": "Westhighland White",
+    "HEX": "F3EEE3"
+  },
+  {
+    "Color ID": "SW7567",
+    "Color Name": "Natural Tan",
+    "HEX": "DCD2C3"
+  },
+  {
+    "Color ID": "SW7568",
+    "Color Name": "Neutral Ground",
+    "HEX": "E2DACA"
+  },
+  {
+    "Color ID": "SW7569",
+    "Color Name": "Stucco",
+    "HEX": "DCCFBA"
+  },
+  {
+    "Color ID": "SW7570",
+    "Color Name": "Egret White",
+    "HEX": "DFD9CF"
+  },
+  {
+    "Color ID": "SW7571",
+    "Color Name": "Casa Blanca",
+    "HEX": "EDE1CE"
+  },
+  {
+    "Color ID": "SW7572",
+    "Color Name": "Lotus Pod",
+    "HEX": "E7D7C2"
+  },
+  {
+    "Color ID": "SW7573",
+    "Color Name": "Eaglet Beige",
+    "HEX": "E9D9C0"
+  },
+  {
+    "Color ID": "SW7574",
+    "Color Name": "Echelon Ecru",
+    "HEX": "E7D8BE"
+  },
+  {
+    "Color ID": "SW7575",
+    "Color Name": "Chopsticks",
+    "HEX": "E0D1B8"
+  },
+  {
+    "Color ID": "SW7577",
+    "Color Name": "Blackberry",
+    "HEX": "533640"
+  },
+  {
+    "Color ID": "SW7578",
+    "Color Name": "Borscht",
+    "HEX": "72353D"
+  },
+  {
+    "Color ID": "SW7579",
+    "Color Name": "Alaea",
+    "HEX": "81585B"
+  },
+  {
+    "Color ID": "SW7580",
+    "Color Name": "Carnelian",
+    "HEX": "573E3E"
+  },
+  {
+    "Color ID": "SW7582",
+    "Color Name": "Salute",
+    "HEX": "803532"
+  },
+  {
+    "Color ID": "SW7583",
+    "Color Name": "Wild Currant",
+    "HEX": "7C3239"
+  },
+  {
+    "Color ID": "SW7584",
+    "Color Name": "Red Theatre",
+    "HEX": "6E3637"
+  },
+  {
+    "Color ID": "SW7585",
+    "Color Name": "Sun Dried Tomato",
+    "HEX": "692B2B"
+  },
+  {
+    "Color ID": "SW7586",
+    "Color Name": "Stolen Kiss",
+    "HEX": "813235"
+  },
+  {
+    "Color ID": "SW7587",
+    "Color Name": "Antique Red",
+    "HEX": "9F4442"
+  },
+  {
+    "Color ID": "SW7588",
+    "Color Name": "Show Stopper",
+    "HEX": "A42E37"
+  },
+  {
+    "Color ID": "SW7589",
+    "Color Name": "Habanero Chile",
+    "HEX": "B8473D"
+  },
+  {
+    "Color ID": "SW7591",
+    "Color Name": "Red Barn",
+    "HEX": "7C453D"
+  },
+  {
+    "Color ID": "SW7592",
+    "Color Name": "Crabby Apple",
+    "HEX": "753531"
+  },
+  {
+    "Color ID": "SW7593",
+    "Color Name": "Rustic Red",
+    "HEX": "703229"
+  },
+  {
+    "Color ID": "SW7594",
+    "Color Name": "Carriage Door",
+    "HEX": "6E423E"
+  },
+  {
+    "Color ID": "SW7595",
+    "Color Name": "Sommelier",
+    "HEX": "5D3736"
+  },
+  {
+    "Color ID": "SW7596",
+    "Color Name": "Only Natural",
+    "HEX": "E2D3C4"
+  },
+  {
+    "Color ID": "SW7598",
+    "Color Name": "Sierra Redwood",
+    "HEX": "924E3C"
+  },
+  {
+    "Color ID": "SW7599",
+    "Color Name": "Brick Paver",
+    "HEX": "93402F"
+  },
+  {
+    "Color ID": "SW7600",
+    "Color Name": "Bolero",
+    "HEX": "903934"
+  },
+  {
+    "Color ID": "SW7601",
+    "Color Name": "Dockside Blue",
+    "HEX": "A0B3BC"
+  },
+  {
+    "Color ID": "SW7602",
+    "Color Name": "Indigo Batik",
+    "HEX": "3E5063"
+  },
+  {
+    "Color ID": "SW7603",
+    "Color Name": "Poolhouse",
+    "HEX": "8095A0"
+  },
+  {
+    "Color ID": "SW7604",
+    "Color Name": "Smoky Blue",
+    "HEX": "596E79"
+  },
+  {
+    "Color ID": "SW7605",
+    "Color Name": "Gale Force",
+    "HEX": "35454E"
+  },
+  {
+    "Color ID": "SW7606",
+    "Color Name": "Blue Cruise",
+    "HEX": "6591A8"
+  },
+  {
+    "Color ID": "SW7607",
+    "Color Name": "Santorini Blue",
+    "HEX": "416D83"
+  },
+  {
+    "Color ID": "SW7608",
+    "Color Name": "Adrift",
+    "HEX": "87AAB9"
+  },
+  {
+    "Color ID": "SW7609",
+    "Color Name": "Georgian Revival Blue",
+    "HEX": "5B8D9F"
+  },
+  {
+    "Color ID": "SW7610",
+    "Color Name": "Turkish Tile",
+    "HEX": "3E758A"
+  },
+  {
+    "Color ID": "SW7611",
+    "Color Name": "Tranquil Aqua",
+    "HEX": "7C9AA0"
+  },
+  {
+    "Color ID": "SW7612",
+    "Color Name": "Mountain Stream",
+    "HEX": "679199"
+  },
+  {
+    "Color ID": "SW7613",
+    "Color Name": "Aqua\u2010Sphere",
+    "HEX": "9CB0B3"
+  },
+  {
+    "Color ID": "SW7614",
+    "Color Name": "St. Bart's",
+    "HEX": "577C88"
+  },
+  {
+    "Color ID": "SW7615",
+    "Color Name": "Sea Serpent",
+    "HEX": "3E4B54"
+  },
+  {
+    "Color ID": "SW7616",
+    "Color Name": "Breezy",
+    "HEX": "A0AEAF"
+  },
+  {
+    "Color ID": "SW7617",
+    "Color Name": "Mediterranean",
+    "HEX": "60797D"
+  },
+  {
+    "Color ID": "SW7618",
+    "Color Name": "Deep Sea Dive",
+    "HEX": "376167"
+  },
+  {
+    "Color ID": "SW7619",
+    "Color Name": "Labradorite",
+    "HEX": "657B83"
+  },
+  {
+    "Color ID": "SW7620",
+    "Color Name": "Seaworthy",
+    "HEX": "314D58"
+  },
+  {
+    "Color ID": "SW7621",
+    "Color Name": "Silvermist",
+    "HEX": "B0B8B2"
+  },
+  {
+    "Color ID": "SW7622",
+    "Color Name": "Homburg Gray",
+    "HEX": "666D69"
+  },
+  {
+    "Color ID": "SW7623",
+    "Color Name": "Cascades",
+    "HEX": "273E3E"
+  },
+  {
+    "Color ID": "SW7624",
+    "Color Name": "Slate Tile",
+    "HEX": "606E74"
+  },
+  {
+    "Color ID": "SW7625",
+    "Color Name": "Mount Etna",
+    "HEX": "3D484C"
+  },
+  {
+    "Color ID": "SW7626",
+    "Color Name": "Zurich White",
+    "HEX": "E6E1D9"
+  },
+  {
+    "Color ID": "SW7627",
+    "Color Name": "White Heron",
+    "HEX": "E7E1D7"
+  },
+  {
+    "Color ID": "SW7628",
+    "Color Name": "Windfresh White",
+    "HEX": "DED8CF"
+  },
+  {
+    "Color ID": "SW7629",
+    "Color Name": "Grapy",
+    "HEX": "786E70"
+  },
+  {
+    "Color ID": "SW7630",
+    "Color Name": "Raisin",
+    "HEX": "392B2D"
+  },
+  {
+    "Color ID": "SW7631",
+    "Color Name": "City Loft",
+    "HEX": "DFDAD1"
+  },
+  {
+    "Color ID": "SW7632",
+    "Color Name": "Modern Gray",
+    "HEX": "D6CEC3"
+  },
+  {
+    "Color ID": "SW7633",
+    "Color Name": "Taupe Tone",
+    "HEX": "ADA090"
+  },
+  {
+    "Color ID": "SW7634",
+    "Color Name": "Pediment",
+    "HEX": "D3CCC4"
+  },
+  {
+    "Color ID": "SW7635",
+    "Color Name": "Palisade",
+    "HEX": "AA9E95"
+  },
+  {
+    "Color ID": "SW7636",
+    "Color Name": "Origami White",
+    "HEX": "E5E2DA"
+  },
+  {
+    "Color ID": "SW7637",
+    "Color Name": "Oyster White",
+    "HEX": "E2DDD0"
+  },
+  {
+    "Color ID": "SW7638",
+    "Color Name": "Jogging Path",
+    "HEX": "C0B9A9"
+  },
+  {
+    "Color ID": "SW7639",
+    "Color Name": "Ethereal Mood",
+    "HEX": "AEA594"
+  },
+  {
+    "Color ID": "SW7640",
+    "Color Name": "Fawn Brindle",
+    "HEX": "A7A094"
+  },
+  {
+    "Color ID": "SW7641",
+    "Color Name": "Colonnade Gray",
+    "HEX": "C6C0B6"
+  },
+  {
+    "Color ID": "SW7642",
+    "Color Name": "Pavestone",
+    "HEX": "A0998F"
+  },
+  {
+    "Color ID": "SW7643",
+    "Color Name": "Pussywillow",
+    "HEX": "B2ADA4"
+  },
+  {
+    "Color ID": "SW7644",
+    "Color Name": "Gateway Gray",
+    "HEX": "B2AC9C"
+  },
+  {
+    "Color ID": "SW7645",
+    "Color Name": "Thunder Gray",
+    "HEX": "57534C"
+  },
+  {
+    "Color ID": "SW7646",
+    "Color Name": "First Star",
+    "HEX": "DAD9D4"
+  },
+  {
+    "Color ID": "SW7647",
+    "Color Name": "Crushed Ice",
+    "HEX": "D6D3CC"
+  },
+  {
+    "Color ID": "SW7648",
+    "Color Name": "Big Chill",
+    "HEX": "D0CEC9"
+  },
+  {
+    "Color ID": "SW7649",
+    "Color Name": "Silverplate",
+    "HEX": "C2C0BA"
+  },
+  {
+    "Color ID": "SW7650",
+    "Color Name": "Ellie Gray",
+    "HEX": "AAA9A4"
+  },
+  {
+    "Color ID": "SW7651",
+    "Color Name": "Front Porch",
+    "HEX": "CCCCC5"
+  },
+  {
+    "Color ID": "SW7652",
+    "Color Name": "Mineral Deposit",
+    "HEX": "ABB0AC"
+  },
+  {
+    "Color ID": "SW7653",
+    "Color Name": "Silverpointe",
+    "HEX": "D1D2CB"
+  },
+  {
+    "Color ID": "SW7654",
+    "Color Name": "Lattice",
+    "HEX": "CECEC6"
+  },
+  {
+    "Color ID": "SW7655",
+    "Color Name": "Stamped Concrete",
+    "HEX": "A0A09A"
+  },
+  {
+    "Color ID": "SW7656",
+    "Color Name": "Rhinestone",
+    "HEX": "DEE0DE"
+  },
+  {
+    "Color ID": "SW7657",
+    "Color Name": "Tinsmith",
+    "HEX": "C5C8C4"
+  },
+  {
+    "Color ID": "SW7658",
+    "Color Name": "Gray Clouds",
+    "HEX": "B7B7B2"
+  },
+  {
+    "Color ID": "SW7659",
+    "Color Name": "Gris",
+    "HEX": "A5A9A8"
+  },
+  {
+    "Color ID": "SW7660",
+    "Color Name": "Earl Grey",
+    "HEX": "969A96"
+  },
+  {
+    "Color ID": "SW7661",
+    "Color Name": "Reflection",
+    "HEX": "D3D5D3"
+  },
+  {
+    "Color ID": "SW7662",
+    "Color Name": "Evening Shadow",
+    "HEX": "C9CCCD"
+  },
+  {
+    "Color ID": "SW7663",
+    "Color Name": "Monorail Silver",
+    "HEX": "B8BCBB"
+  },
+  {
+    "Color ID": "SW7664",
+    "Color Name": "Steely Gray",
+    "HEX": "90979B"
+  },
+  {
+    "Color ID": "SW7665",
+    "Color Name": "Wall Street",
+    "HEX": "656D73"
+  },
+  {
+    "Color ID": "SW7666",
+    "Color Name": "Fleur de Sel",
+    "HEX": "DCDDD8"
+  },
+  {
+    "Color ID": "SW7667",
+    "Color Name": "Zircon",
+    "HEX": "CAC9C6"
+  },
+  {
+    "Color ID": "SW7668",
+    "Color Name": "March Wind",
+    "HEX": "BAB9B6"
+  },
+  {
+    "Color ID": "SW7669",
+    "Color Name": "Summit Gray",
+    "HEX": "959491"
+  },
+  {
+    "Color ID": "SW7670",
+    "Color Name": "Gray Shingle",
+    "HEX": "949392"
+  },
+  {
+    "Color ID": "SW7671",
+    "Color Name": "On the Rocks",
+    "HEX": "D0CEC8"
+  },
+  {
+    "Color ID": "SW7672",
+    "Color Name": "Knitting Needles",
+    "HEX": "C3C1BC"
+  },
+  {
+    "Color ID": "SW7673",
+    "Color Name": "Pewter Cast",
+    "HEX": "9B9893"
+  },
+  {
+    "Color ID": "SW7674",
+    "Color Name": "Peppercorn",
+    "HEX": "585858"
+  },
+  {
+    "Color ID": "SW7675",
+    "Color Name": "Sealskin",
+    "HEX": "48423C"
+  },
+  {
+    "Color ID": "SW7676",
+    "Color Name": "Paper Lantern",
+    "HEX": "F2E0C4"
+  },
+  {
+    "Color ID": "SW7677",
+    "Color Name": "Gold Vessel",
+    "HEX": "EABA8A"
+  },
+  {
+    "Color ID": "SW7678",
+    "Color Name": "Cottage Cream",
+    "HEX": "EDDBBD"
+  },
+  {
+    "Color ID": "SW7679",
+    "Color Name": "Golden Gate",
+    "HEX": "D9AD7F"
+  },
+  {
+    "Color ID": "SW7680",
+    "Color Name": "Lanyard",
+    "HEX": "C09972"
+  },
+  {
+    "Color ID": "SW7681",
+    "Color Name": "Tea Light",
+    "HEX": "F8E4C2"
+  },
+  {
+    "Color ID": "SW7682",
+    "Color Name": "Bee's Wax",
+    "HEX": "EABF86"
+  },
+  {
+    "Color ID": "SW7683",
+    "Color Name": "Buff",
+    "HEX": "F1DFC1"
+  },
+  {
+    "Color ID": "SW7684",
+    "Color Name": "Concord Buff",
+    "HEX": "EDD6B1"
+  },
+  {
+    "Color ID": "SW7685",
+    "Color Name": "White Raisin",
+    "HEX": "E5C28B"
+  },
+  {
+    "Color ID": "SW7686",
+    "Color Name": "Hinoki",
+    "HEX": "F8DDB7"
+  },
+  {
+    "Color ID": "SW7687",
+    "Color Name": "August Moon",
+    "HEX": "E7C7A0"
+  },
+  {
+    "Color ID": "SW7688",
+    "Color Name": "Sundew",
+    "HEX": "E1CDAE"
+  },
+  {
+    "Color ID": "SW7689",
+    "Color Name": "Row House Tan",
+    "HEX": "D2BB9D"
+  },
+  {
+    "Color ID": "SW7690",
+    "Color Name": "Townhall Tan",
+    "HEX": "C3AA8C"
+  },
+  {
+    "Color ID": "SW7691",
+    "Color Name": "Pale Yellow",
+    "HEX": "E3C9A1"
+  },
+  {
+    "Color ID": "SW7692",
+    "Color Name": "Cupola Yellow",
+    "HEX": "DCBC8E"
+  },
+  {
+    "Color ID": "SW7693",
+    "Color Name": "Stonebriar",
+    "HEX": "CBA97E"
+  },
+  {
+    "Color ID": "SW7694",
+    "Color Name": "Dromedary Camel",
+    "HEX": "CAAD87"
+  },
+  {
+    "Color ID": "SW7695",
+    "Color Name": "Mesa Tan",
+    "HEX": "BD9C77"
+  },
+  {
+    "Color ID": "SW7696",
+    "Color Name": "Toasted Pine Nut",
+    "HEX": "DCC6A6"
+  },
+  {
+    "Color ID": "SW7697",
+    "Color Name": "Safari",
+    "HEX": "CCB18B"
+  },
+  {
+    "Color ID": "SW7698",
+    "Color Name": "Straw Harvest",
+    "HEX": "DBC8A2"
+  },
+  {
+    "Color ID": "SW7699",
+    "Color Name": "Rustic City",
+    "HEX": "BA9A67"
+  },
+  {
+    "Color ID": "SW7700",
+    "Color Name": "Olde World Gold",
+    "HEX": "8F6C3E"
+  },
+  {
+    "Color ID": "SW7701",
+    "Color Name": "Cavern Clay",
+    "HEX": "AC6B53"
+  },
+  {
+    "Color ID": "SW7702",
+    "Color Name": "Spiced Cider",
+    "HEX": "B0785C"
+  },
+  {
+    "Color ID": "SW7703",
+    "Color Name": "Earthen Jug",
+    "HEX": "A85E39"
+  },
+  {
+    "Color ID": "SW7704",
+    "Color Name": "Tower Tan",
+    "HEX": "D5B59B"
+  },
+  {
+    "Color ID": "SW7705",
+    "Color Name": "Wheat Penny",
+    "HEX": "976B53"
+  },
+  {
+    "Color ID": "SW7707",
+    "Color Name": "Copper Wire",
+    "HEX": "C67B57"
+  },
+  {
+    "Color ID": "SW7709",
+    "Color Name": "Copper Pot",
+    "HEX": "B16A37"
+  },
+  {
+    "Color ID": "SW7710",
+    "Color Name": "Brandywine",
+    "HEX": "A56C4A"
+  },
+  {
+    "Color ID": "SW7711",
+    "Color Name": "Pueblo",
+    "HEX": "E6D0BD"
+  },
+  {
+    "Color ID": "SW7712",
+    "Color Name": "Townhouse Tan",
+    "HEX": "DFC8B5"
+  },
+  {
+    "Color ID": "SW7713",
+    "Color Name": "Tawny Tan",
+    "HEX": "CCB299"
+  },
+  {
+    "Color ID": "SW7714",
+    "Color Name": "Oak Barrel",
+    "HEX": "BFA287"
+  },
+  {
+    "Color ID": "SW7715",
+    "Color Name": "Pottery Urn",
+    "HEX": "AA866E"
+  },
+  {
+    "Color ID": "SW7716",
+    "Color Name": "Croissant",
+    "HEX": "DBC5A7"
+  },
+  {
+    "Color ID": "SW7717",
+    "Color Name": "Ligonier Tan",
+    "HEX": "D2B18F"
+  },
+  {
+    "Color ID": "SW7718",
+    "Color Name": "Oak Creek",
+    "HEX": "BB8D6B"
+  },
+  {
+    "Color ID": "SW7719",
+    "Color Name": "Fresco Cream",
+    "HEX": "D8C4AE"
+  },
+  {
+    "Color ID": "SW7720",
+    "Color Name": "Deer Valley",
+    "HEX": "C7A485"
+  },
+  {
+    "Color ID": "SW7721",
+    "Color Name": "Crescent Cream",
+    "HEX": "EDD1B1"
+  },
+  {
+    "Color ID": "SW7722",
+    "Color Name": "Travertine",
+    "HEX": "ECD3B3"
+  },
+  {
+    "Color ID": "SW7723",
+    "Color Name": "Colony Buff",
+    "HEX": "DDC6AB"
+  },
+  {
+    "Color ID": "SW7724",
+    "Color Name": "Canoe",
+    "HEX": "B7987B"
+  },
+  {
+    "Color ID": "SW7725",
+    "Color Name": "Yearling",
+    "HEX": "AD896A"
+  },
+  {
+    "Color ID": "SW7726",
+    "Color Name": "Lemon Verbena",
+    "HEX": "9D986F"
+  },
+  {
+    "Color ID": "SW7727",
+    "Color Name": "Koi Pond",
+    "HEX": "B9B292"
+  },
+  {
+    "Color ID": "SW7728",
+    "Color Name": "Green Sprout",
+    "HEX": "A29F80"
+  },
+  {
+    "Color ID": "SW7729",
+    "Color Name": "Edamame",
+    "HEX": "827C5A"
+  },
+  {
+    "Color ID": "SW7730",
+    "Color Name": "Forestwood",
+    "HEX": "4D5346"
+  },
+  {
+    "Color ID": "SW7731",
+    "Color Name": "San Antonio Sage",
+    "HEX": "A69474"
+  },
+  {
+    "Color ID": "SW7732",
+    "Color Name": "Lemongrass",
+    "HEX": "C8BD98"
+  },
+  {
+    "Color ID": "SW7733",
+    "Color Name": "Bamboo Shoot",
+    "HEX": "B3A479"
+  },
+  {
+    "Color ID": "SW7734",
+    "Color Name": "Olive Grove",
+    "HEX": "857C5D"
+  },
+  {
+    "Color ID": "SW7735",
+    "Color Name": "Palm Leaf",
+    "HEX": "635936"
+  },
+  {
+    "Color ID": "SW7736",
+    "Color Name": "Garden Sage",
+    "HEX": "B1A584"
+  },
+  {
+    "Color ID": "SW7737",
+    "Color Name": "Meadow Trail",
+    "HEX": "8D8168"
+  },
+  {
+    "Color ID": "SW7738",
+    "Color Name": "Cargo Pants",
+    "HEX": "CDC4AE"
+  },
+  {
+    "Color ID": "SW7739",
+    "Color Name": "Herbal Wash",
+    "HEX": "A49B82"
+  },
+  {
+    "Color ID": "SW7740",
+    "Color Name": "Messenger Bag",
+    "HEX": "7D745E"
+  },
+  {
+    "Color ID": "SW7741",
+    "Color Name": "Willow Tree",
+    "HEX": "AAAD9C"
+  },
+  {
+    "Color ID": "SW7742",
+    "Color Name": "Agate Green",
+    "HEX": "8EA486"
+  },
+  {
+    "Color ID": "SW7743",
+    "Color Name": "Mountain Road",
+    "HEX": "868578"
+  },
+  {
+    "Color ID": "SW7744",
+    "Color Name": "Zeus",
+    "HEX": "99907E"
+  },
+  {
+    "Color ID": "SW7745",
+    "Color Name": "Muddled Basil",
+    "HEX": "5A5243"
+  },
+  {
+    "Color ID": "SW7746",
+    "Color Name": "Rushing River",
+    "HEX": "A19C8F"
+  },
+  {
+    "Color ID": "SW7747",
+    "Color Name": "Recycled Glass",
+    "HEX": "BDC0A0"
+  },
+  {
+    "Color ID": "SW7748",
+    "Color Name": "Green Earth",
+    "HEX": "9A9883"
+  },
+  {
+    "Color ID": "SW7749",
+    "Color Name": "Laurel Woods",
+    "HEX": "44493D"
+  },
+  {
+    "Color ID": "SW7750",
+    "Color Name": "Olympic Range",
+    "HEX": "424C44"
+  },
+  {
+    "Color ID": "SW7757",
+    "Color Name": "High Reflective White",
+    "HEX": "F7F7F1"
+  },
+  {
+    "Color ID": "SW8917",
+    "Color Name": "Shell White",
+    "HEX": "F0EBE0"
+  },
+  {
+    "Color ID": "SW9001",
+    "Color Name": "Audrey's Blush",
+    "HEX": "AE8087"
+  },
+  {
+    "Color ID": "SW9002",
+    "Color Name": "Carley's Rose",
+    "HEX": "A87376"
+  },
+  {
+    "Color ID": "SW9003",
+    "Color Name": "Rita's Rouge",
+    "HEX": "BA7176"
+  },
+  {
+    "Color ID": "SW9004",
+    "Color Name": "Coral Rose",
+    "HEX": "C37F7A"
+  },
+  {
+    "Color ID": "SW9005",
+    "Color Name": "Coral Clay",
+    "HEX": "BF796E"
+  },
+  {
+    "Color ID": "SW9006",
+    "Color Name": "Rojo Dust",
+    "HEX": "B57466"
+  },
+  {
+    "Color ID": "SW9007",
+    "Color Name": "Mel\u00f3n Meloso",
+    "HEX": "F2B88C"
+  },
+  {
+    "Color ID": "SW9008",
+    "Color Name": "Bellini Fizz",
+    "HEX": "F5C78E"
+  },
+  {
+    "Color ID": "SW9009",
+    "Color Name": "Subdued Sienna",
+    "HEX": "CC896C"
+  },
+  {
+    "Color ID": "SW9010",
+    "Color Name": "Windswept Canyon",
+    "HEX": "DBA480"
+  },
+  {
+    "Color ID": "SW9011",
+    "Color Name": "Sun Bleached Ochre",
+    "HEX": "E3AB7B"
+  },
+  {
+    "Color ID": "SW9012",
+    "Color Name": "Polvo de Oro",
+    "HEX": "E8B87F"
+  },
+  {
+    "Color ID": "SW9013",
+    "Color Name": "Olden Amber",
+    "HEX": "EEB76B"
+  },
+  {
+    "Color ID": "SW9014",
+    "Color Name": "Pollen Powder",
+    "HEX": "FBD187"
+  },
+  {
+    "Color ID": "SW9015",
+    "Color Name": "They call it Mellow",
+    "HEX": "FBE4B3"
+  },
+  {
+    "Color ID": "SW9016",
+    "Color Name": "La Luna Amarilla",
+    "HEX": "FDDFA0"
+  },
+  {
+    "Color ID": "SW9017",
+    "Color Name": "Sunny Veranda",
+    "HEX": "FEDF94"
+  },
+  {
+    "Color ID": "SW9018",
+    "Color Name": "Honey Bees",
+    "HEX": "FBD682"
+  },
+  {
+    "Color ID": "SW9019",
+    "Color Name": "Golden Plumeria",
+    "HEX": "FBD073"
+  },
+  {
+    "Color ID": "SW9020",
+    "Color Name": "Rayo de Sol",
+    "HEX": "F4C454"
+  },
+  {
+    "Color ID": "SW9021",
+    "Color Name": "Naples Yellow",
+    "HEX": "F6D58F"
+  },
+  {
+    "Color ID": "SW9022",
+    "Color Name": "Yellow Bird",
+    "HEX": "F1CD7B"
+  },
+  {
+    "Color ID": "SW9023",
+    "Color Name": "Dakota Wheat",
+    "HEX": "E1BD8E"
+  },
+  {
+    "Color ID": "SW9024",
+    "Color Name": "Vintage Gold",
+    "HEX": "CBA576"
+  },
+  {
+    "Color ID": "SW9025",
+    "Color Name": "Coriander Powder",
+    "HEX": "BA9C75"
+  },
+  {
+    "Color ID": "SW9026",
+    "Color Name": "Tarnished Trumpet",
+    "HEX": "D5B176"
+  },
+  {
+    "Color ID": "SW9027",
+    "Color Name": "Pale Moss",
+    "HEX": "DCC797"
+  },
+  {
+    "Color ID": "SW9028",
+    "Color Name": "Dusted Olive",
+    "HEX": "BEA775"
+  },
+  {
+    "Color ID": "SW9029",
+    "Color Name": "Cool Avocado",
+    "HEX": "C4B47D"
+  },
+  {
+    "Color ID": "SW9030",
+    "Color Name": "Lim\u00f3n Fresco",
+    "HEX": "CEBC55"
+  },
+  {
+    "Color ID": "SW9031",
+    "Color Name": "Primavera",
+    "HEX": "D2D083"
+  },
+  {
+    "Color ID": "SW9032",
+    "Color Name": "Stay in Lime",
+    "HEX": "9FAC5C"
+  },
+  {
+    "Color ID": "SW9033",
+    "Color Name": "Oh Pistachio",
+    "HEX": "ABCA99"
+  },
+  {
+    "Color ID": "SW9034",
+    "Color Name": "Seawashed Glass",
+    "HEX": "A9C095"
+  },
+  {
+    "Color ID": "SW9035",
+    "Color Name": "Frosted Emerald",
+    "HEX": "78B185"
+  },
+  {
+    "Color ID": "SW9036",
+    "Color Name": "Retro Mint",
+    "HEX": "9FCDB1"
+  },
+  {
+    "Color ID": "SW9037",
+    "Color Name": "Baby Bok Choy",
+    "HEX": "BBB98A"
+  },
+  {
+    "Color ID": "SW9038",
+    "Color Name": "Cucuzza Verde",
+    "HEX": "9BA373"
+  },
+  {
+    "Color ID": "SW9039",
+    "Color Name": "Broccoflower",
+    "HEX": "8FA277"
+  },
+  {
+    "Color ID": "SW9040",
+    "Color Name": "Reseda Green",
+    "HEX": "75946B"
+  },
+  {
+    "Color ID": "SW9041",
+    "Color Name": "Parisian Patina",
+    "HEX": "7D9B89"
+  },
+  {
+    "Color ID": "SW9042",
+    "Color Name": "Verdigreen",
+    "HEX": "81A595"
+  },
+  {
+    "Color ID": "SW9043",
+    "Color Name": "Aquastone",
+    "HEX": "89C6B7"
+  },
+  {
+    "Color ID": "SW9044",
+    "Color Name": "Little Blue Box",
+    "HEX": "8AC5BA"
+  },
+  {
+    "Color ID": "SW9045",
+    "Color Name": "Bora Bora Shore",
+    "HEX": "92D0D0"
+  },
+  {
+    "Color ID": "SW9046",
+    "Color Name": "Gentle Aquamarine",
+    "HEX": "97CBD2"
+  },
+  {
+    "Color ID": "SW9047",
+    "Color Name": "After the Rain",
+    "HEX": "8BC4D1"
+  },
+  {
+    "Color ID": "SW9048",
+    "Color Name": "Surfin'",
+    "HEX": "73C0D2"
+  },
+  {
+    "Color ID": "SW9049",
+    "Color Name": "Sky Fall",
+    "HEX": "89C6DF"
+  },
+  {
+    "Color ID": "SW9050",
+    "Color Name": "Vintage Vessel",
+    "HEX": "94B2A6"
+  },
+  {
+    "Color ID": "SW9051",
+    "Color Name": "Aquaverde",
+    "HEX": "A3C0BD"
+  },
+  {
+    "Color ID": "SW9052",
+    "Color Name": "Blithe Blue",
+    "HEX": "90BDBD"
+  },
+  {
+    "Color ID": "SW9053",
+    "Color Name": "Agua Fr\u00eda",
+    "HEX": "9FC5CC"
+  },
+  {
+    "Color ID": "SW9054",
+    "Color Name": "Little Boy Blu",
+    "HEX": "C7D8DB"
+  },
+  {
+    "Color ID": "SW9055",
+    "Color Name": "Billowy Breeze",
+    "HEX": "AFC7CD"
+  },
+  {
+    "Color ID": "SW9056",
+    "Color Name": "French Moire",
+    "HEX": "9FBBC3"
+  },
+  {
+    "Color ID": "SW9057",
+    "Color Name": "Aquitaine",
+    "HEX": "88ABB4"
+  },
+  {
+    "Color ID": "SW9058",
+    "Color Name": "Secret Cove",
+    "HEX": "68909D"
+  },
+  {
+    "Color ID": "SW9059",
+    "Color Name": "Silken Peacock",
+    "HEX": "427584"
+  },
+  {
+    "Color ID": "SW9060",
+    "Color Name": "Connor's Lakefront",
+    "HEX": "175A6C"
+  },
+  {
+    "Color ID": "SW9061",
+    "Color Name": "Rest Assured",
+    "HEX": "9BBFC9"
+  },
+  {
+    "Color ID": "SW9062",
+    "Color Name": "Bluebird Feather",
+    "HEX": "6F9DB3"
+  },
+  {
+    "Color ID": "SW9063",
+    "Color Name": "Porch Ceiling",
+    "HEX": "9BC8DE"
+  },
+  {
+    "Color ID": "SW9064",
+    "Color Name": "Bluesy Note",
+    "HEX": "7C9AB5"
+  },
+  {
+    "Color ID": "SW9065",
+    "Color Name": "Perfect Periwinkle",
+    "HEX": "6487B0"
+  },
+  {
+    "Color ID": "SW9066",
+    "Color Name": "Agapanthus",
+    "HEX": "BBC5DE"
+  },
+  {
+    "Color ID": "SW9067",
+    "Color Name": "Forever Lilac",
+    "HEX": "AFA5C7"
+  },
+  {
+    "Color ID": "SW9068",
+    "Color Name": "Berry Frapp\u00e9",
+    "HEX": "B3A1C6"
+  },
+  {
+    "Color ID": "SW9069",
+    "Color Name": "Veri Berri",
+    "HEX": "937496"
+  },
+  {
+    "Color ID": "SW9070",
+    "Color Name": "Baby Blue Eyes",
+    "HEX": "83A2B4"
+  },
+  {
+    "Color ID": "SW9071",
+    "Color Name": "Dyer's Woad",
+    "HEX": "7B99B0"
+  },
+  {
+    "Color ID": "SW9072",
+    "Color Name": "Dried Lavender",
+    "HEX": "8595AA"
+  },
+  {
+    "Color ID": "SW9073",
+    "Color Name": "Dusty Heather",
+    "HEX": "8990A3"
+  },
+  {
+    "Color ID": "SW9074",
+    "Color Name": "Gentle Grape",
+    "HEX": "908A9B"
+  },
+  {
+    "Color ID": "SW9075",
+    "Color Name": "Berry Cream",
+    "HEX": "9A8CA2"
+  },
+  {
+    "Color ID": "SW9076",
+    "Color Name": "Ruby Violet",
+    "HEX": "9B7E8B"
+  },
+  {
+    "Color ID": "SW9077",
+    "Color Name": "Rosaline Pearl",
+    "HEX": "A38887"
+  },
+  {
+    "Color ID": "SW9078",
+    "Color Name": "Cocoa Berry",
+    "HEX": "A08882"
+  },
+  {
+    "Color ID": "SW9079",
+    "Color Name": "Velvety Chestnut",
+    "HEX": "A2877D"
+  },
+  {
+    "Color ID": "SW9080",
+    "Color Name": "Hushed Auburn",
+    "HEX": "A8857A"
+  },
+  {
+    "Color ID": "SW9081",
+    "Color Name": "Redend Point",
+    "HEX": "AE8E7E"
+  },
+  {
+    "Color ID": "SW9082",
+    "Color Name": "Chocolate Powder",
+    "HEX": "A58C7B"
+  },
+  {
+    "Color ID": "SW9083",
+    "Color Name": "Dusted Truffle",
+    "HEX": "9C8373"
+  },
+  {
+    "Color ID": "SW9084",
+    "Color Name": "Cocoa Whip",
+    "HEX": "A08E7E"
+  },
+  {
+    "Color ID": "SW9085",
+    "Color Name": "Touch of Sand",
+    "HEX": "D5C7BA"
+  },
+  {
+    "Color ID": "SW9086",
+    "Color Name": "Cool Beige",
+    "HEX": "C6B5A7"
+  },
+  {
+    "Color ID": "SW9087",
+    "Color Name": "Smoky Beige",
+    "HEX": "B9A796"
+  },
+  {
+    "Color ID": "SW9088",
+    "Color Name": "Utaupeia",
+    "HEX": "A58F7B"
+  },
+  {
+    "Color ID": "SW9089",
+    "Color Name": "Llama Wool",
+    "HEX": "917864"
+  },
+  {
+    "Color ID": "SW9090",
+    "Color Name": "Cara\u00efbe",
+    "HEX": "785F4C"
+  },
+  {
+    "Color ID": "SW9091",
+    "Color Name": "Half\u2010Caff",
+    "HEX": "604C3D"
+  },
+  {
+    "Color ID": "SW9092",
+    "Color Name": "Iced Mocha",
+    "HEX": "A3846C"
+  },
+  {
+    "Color ID": "SW9093",
+    "Color Name": "Nearly Brown",
+    "HEX": "A88E76"
+  },
+  {
+    "Color ID": "SW9094",
+    "Color Name": "Playa Arenosa",
+    "HEX": "DCC7B3"
+  },
+  {
+    "Color ID": "SW9095",
+    "Color Name": "Ginger Root",
+    "HEX": "D2B79E"
+  },
+  {
+    "Color ID": "SW9096",
+    "Color Name": "Beige Intenso",
+    "HEX": "C5A88D"
+  },
+  {
+    "Color ID": "SW9097",
+    "Color Name": "Soft Fawn",
+    "HEX": "B59778"
+  },
+  {
+    "Color ID": "SW9098",
+    "Color Name": "Baked Cookie",
+    "HEX": "89674A"
+  },
+  {
+    "Color ID": "SW9099",
+    "Color Name": "Saddle Up",
+    "HEX": "725237"
+  },
+  {
+    "Color ID": "SW9100",
+    "Color Name": "Umber Rust",
+    "HEX": "765138"
+  },
+  {
+    "Color ID": "SW9101",
+    "Color Name": "Tres Naturale",
+    "HEX": "DCC7AD"
+  },
+  {
+    "Color ID": "SW9102",
+    "Color Name": "Quinoa",
+    "HEX": "CFB597"
+  },
+  {
+    "Color ID": "SW9103",
+    "Color Name": "Farro",
+    "HEX": "C1A485"
+  },
+  {
+    "Color ID": "SW9104",
+    "Color Name": "Woven Wicker",
+    "HEX": "B99974"
+  },
+  {
+    "Color ID": "SW9105",
+    "Color Name": "Almond Roca",
+    "HEX": "A78361"
+  },
+  {
+    "Color ID": "SW9106",
+    "Color Name": "El Caramelo",
+    "HEX": "946E48"
+  },
+  {
+    "Color ID": "SW9107",
+    "Color Name": "\u00dcber Umber",
+    "HEX": "7B5838"
+  },
+  {
+    "Color ID": "SW9108",
+    "Color Name": "Double Latte",
+    "HEX": "A78C71"
+  },
+  {
+    "Color ID": "SW9109",
+    "Color Name": "Natural Linen",
+    "HEX": "DFD3C3"
+  },
+  {
+    "Color ID": "SW9110",
+    "Color Name": "Malabar",
+    "HEX": "CFBEA9"
+  },
+  {
+    "Color ID": "SW9111",
+    "Color Name": "Antler Velvet",
+    "HEX": "C0AD96"
+  },
+  {
+    "Color ID": "SW9112",
+    "Color Name": "Song Thrush",
+    "HEX": "AF987F"
+  },
+  {
+    "Color ID": "SW9113",
+    "Color Name": "Mudslide",
+    "HEX": "A08568"
+  },
+  {
+    "Color ID": "SW9114",
+    "Color Name": "Fallen Leaves",
+    "HEX": "8F7659"
+  },
+  {
+    "Color ID": "SW9115",
+    "Color Name": "Cowboy Boots",
+    "HEX": "695239"
+  },
+  {
+    "Color ID": "SW9116",
+    "Color Name": "Serengeti Grass",
+    "HEX": "AB9579"
+  },
+  {
+    "Color ID": "SW9117",
+    "Color Name": "Urban Jungle",
+    "HEX": "A4947E"
+  },
+  {
+    "Color ID": "SW9118",
+    "Color Name": "Tarnished Treasure",
+    "HEX": "B9A47E"
+  },
+  {
+    "Color ID": "SW9119",
+    "Color Name": "Dirty Martini",
+    "HEX": "DDD0B6"
+  },
+  {
+    "Color ID": "SW9120",
+    "Color Name": "Tumblin' Tumbleweed",
+    "HEX": "CDBB9C"
+  },
+  {
+    "Color ID": "SW9121",
+    "Color Name": "Sawgrass Basket",
+    "HEX": "C3B090"
+  },
+  {
+    "Color ID": "SW9122",
+    "Color Name": "Dried Edamame",
+    "HEX": "B19F80"
+  },
+  {
+    "Color ID": "SW9123",
+    "Color Name": "Barro Verde",
+    "HEX": "9F8E71"
+  },
+  {
+    "Color ID": "SW9124",
+    "Color Name": "Verde Marr\u00f3n",
+    "HEX": "877459"
+  },
+  {
+    "Color ID": "SW9125",
+    "Color Name": "Oliva Oscuro",
+    "HEX": "665439"
+  },
+  {
+    "Color ID": "SW9126",
+    "Color Name": "Honed Soapstone",
+    "HEX": "9D9887"
+  },
+  {
+    "Color ID": "SW9127",
+    "Color Name": "At Ease Soldier",
+    "HEX": "9E9985"
+  },
+  {
+    "Color ID": "SW9128",
+    "Color Name": "Green Onyx",
+    "HEX": "989A82"
+  },
+  {
+    "Color ID": "SW9129",
+    "Color Name": "Jade Dragon",
+    "HEX": "909886"
+  },
+  {
+    "Color ID": "SW9130",
+    "Color Name": "Evergreen Fog",
+    "HEX": "95978A"
+  },
+  {
+    "Color ID": "SW9131",
+    "Color Name": "Cornwall Slate",
+    "HEX": "949488"
+  },
+  {
+    "Color ID": "SW9132",
+    "Color Name": "Acacia Haze",
+    "HEX": "969C92"
+  },
+  {
+    "Color ID": "SW9133",
+    "Color Name": "Jasper Stone",
+    "HEX": "8D9E97"
+  },
+  {
+    "Color ID": "SW9134",
+    "Color Name": "Delft",
+    "HEX": "8B9FA0"
+  },
+  {
+    "Color ID": "SW9135",
+    "Color Name": "Whirlpool",
+    "HEX": "80969D"
+  },
+  {
+    "Color ID": "SW9136",
+    "Color Name": "Lullaby",
+    "HEX": "CBD4D4"
+  },
+  {
+    "Color ID": "SW9137",
+    "Color Name": "Niebla Azul",
+    "HEX": "B6C3C4"
+  },
+  {
+    "Color ID": "SW9138",
+    "Color Name": "Stardew",
+    "HEX": "A6B2B5"
+  },
+  {
+    "Color ID": "SW9139",
+    "Color Name": "Debonair",
+    "HEX": "90A0A6"
+  },
+  {
+    "Color ID": "SW9140",
+    "Color Name": "Blustery Sky",
+    "HEX": "6F848C"
+  },
+  {
+    "Color ID": "SW9141",
+    "Color Name": "Waterloo",
+    "HEX": "536872"
+  },
+  {
+    "Color ID": "SW9142",
+    "Color Name": "Moscow Midnight",
+    "HEX": "204652"
+  },
+  {
+    "Color ID": "SW9143",
+    "Color Name": "Cadet",
+    "HEX": "91999C"
+  },
+  {
+    "Color ID": "SW9144",
+    "Color Name": "Moonmist",
+    "HEX": "C9D9E0"
+  },
+  {
+    "Color ID": "SW9145",
+    "Color Name": "Sleepy Hollow",
+    "HEX": "B7C9D1"
+  },
+  {
+    "Color ID": "SW9146",
+    "Color Name": "Faded Flaxflower",
+    "HEX": "9EB4C0"
+  },
+  {
+    "Color ID": "SW9147",
+    "Color Name": "Favorite Jeans",
+    "HEX": "8AA3B1"
+  },
+  {
+    "Color ID": "SW9148",
+    "Color Name": "Smoky Azurite",
+    "HEX": "708D9E"
+  },
+  {
+    "Color ID": "SW9149",
+    "Color Name": "Inky Blue",
+    "HEX": "4E7287"
+  },
+  {
+    "Color ID": "SW9150",
+    "Color Name": "Endless Sea",
+    "HEX": "32586E"
+  },
+  {
+    "Color ID": "SW9151",
+    "Color Name": "Daphne",
+    "HEX": "899CAA"
+  },
+  {
+    "Color ID": "SW9152",
+    "Color Name": "Let it Rain",
+    "HEX": "979FA5"
+  },
+  {
+    "Color ID": "SW9153",
+    "Color Name": "Moonlit Orchid",
+    "HEX": "949194"
+  },
+  {
+    "Color ID": "SW9154",
+    "Color Name": "Perle Noir",
+    "HEX": "4F4D51"
+  },
+  {
+    "Color ID": "SW9155",
+    "Color Name": "Slate Violet",
+    "HEX": "989192"
+  },
+  {
+    "Color ID": "SW9156",
+    "Color Name": "Gris Morado",
+    "HEX": "8F8A91"
+  },
+  {
+    "Color ID": "SW9157",
+    "Color Name": "Autumn Orchid",
+    "HEX": "9D9093"
+  },
+  {
+    "Color ID": "SW9158",
+    "Color Name": "Coquina",
+    "HEX": "9D8D8E"
+  },
+  {
+    "Color ID": "SW9159",
+    "Color Name": "Auger Shell",
+    "HEX": "9F9291"
+  },
+  {
+    "Color ID": "SW9160",
+    "Color Name": "Armadillo",
+    "HEX": "9E9089"
+  },
+  {
+    "Color ID": "SW9161",
+    "Color Name": "Dustblu",
+    "HEX": "959BA0"
+  },
+  {
+    "Color ID": "SW9162",
+    "Color Name": "African Gray",
+    "HEX": "939899"
+  },
+  {
+    "Color ID": "SW9163",
+    "Color Name": "Tin Lizzie",
+    "HEX": "939591"
+  },
+  {
+    "Color ID": "SW9164",
+    "Color Name": "Illusive Green",
+    "HEX": "92948D"
+  },
+  {
+    "Color ID": "SW9165",
+    "Color Name": "Gossamer Veil",
+    "HEX": "D3CEC4"
+  },
+  {
+    "Color ID": "SW9166",
+    "Color Name": "Drift of Mist",
+    "HEX": "DCD8D0"
+  },
+  {
+    "Color ID": "SW9167",
+    "Color Name": "Polished Concrete",
+    "HEX": "9E9793"
+  },
+  {
+    "Color ID": "SW9168",
+    "Color Name": "Elephant Ear",
+    "HEX": "988F85"
+  },
+  {
+    "Color ID": "SW9169",
+    "Color Name": "Chatura Gray",
+    "HEX": "A09287"
+  },
+  {
+    "Color ID": "SW9170",
+    "Color Name": "Acier",
+    "HEX": "9E9991"
+  },
+  {
+    "Color ID": "SW9171",
+    "Color Name": "Felted Wool",
+    "HEX": "979083"
+  },
+  {
+    "Color ID": "SW9172",
+    "Color Name": "Studio Clay",
+    "HEX": "958D7F"
+  },
+  {
+    "Color ID": "SW9173",
+    "Color Name": "Shiitake",
+    "HEX": "C8BCAB"
+  },
+  {
+    "Color ID": "SW9174",
+    "Color Name": "Moth Wing",
+    "HEX": "A0907F"
+  },
+  {
+    "Color ID": "SW9175",
+    "Color Name": "Deep Forest Brown",
+    "HEX": "393437"
+  },
+  {
+    "Color ID": "SW9176",
+    "Color Name": "Dress Blues",
+    "HEX": "2B4360"
+  },
+  {
+    "Color ID": "SW9177",
+    "Color Name": "Salty Dog",
+    "HEX": "234058"
+  },
+  {
+    "Color ID": "SW9178",
+    "Color Name": "In the Navy",
+    "HEX": "283849"
+  },
+  {
+    "Color ID": "SW9179",
+    "Color Name": "Anchors Aweigh",
+    "HEX": "2B3441"
+  },
+  {
+    "Color ID": "SW9180",
+    "Color Name": "Aged White",
+    "HEX": "E8DECD"
+  },
+  {
+    "Color ID": "SW9182",
+    "Color Name": "Rojo Marr\u00f3n",
+    "HEX": "4B3029"
+  },
+  {
+    "Color ID": "SW9183",
+    "Color Name": "Dark Clove",
+    "HEX": "4C3D31"
+  },
+  {
+    "Color ID": "SW9184",
+    "Color Name": "Foxhall Green",
+    "HEX": "454B40"
+  },
+  {
+    "Color ID": "SW9185",
+    "Color Name": "Marea Baja",
+    "HEX": "2E5464"
+  },
+  {
+    "Color ID": "SW9186",
+    "Color Name": "Caramelized",
+    "HEX": "C29871"
+  }
+]

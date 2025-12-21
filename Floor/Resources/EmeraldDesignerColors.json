@@ -1,0 +1,1012 @@
+{
+  "Classic + Collected": [
+    {
+      "Color Name": "Radiant Dawn",
+      "Color ID": "SW9661",
+      "HEX": "EBE0CE"
+    },
+    {
+      "Color Name": "Fresh Zest",
+      "Color ID": "SW9662",
+      "HEX": "F5E9CF"
+    },
+    {
+      "Color Name": "Honeypot",
+      "Color ID": "SW9663",
+      "HEX": "F6DEB3"
+    },
+    {
+      "Color Name": "Sun Salutation",
+      "Color ID": "SW9664",
+      "HEX": "F5CF92"
+    },
+    {
+      "Color Name": "Sunny Side Up",
+      "Color ID": "SW9665",
+      "HEX": "F7CE65"
+    },
+    {
+      "Color Name": "Barely Pear",
+      "Color ID": "SW9666",
+      "HEX": "EDEBDB"
+    },
+    {
+      "Color Name": "Carambola",
+      "Color ID": "SW9667",
+      "HEX": "EFEBD1"
+    },
+    {
+      "Color Name": "Wild Lime",
+      "Color ID": "SW9668",
+      "HEX": "E3DEB3"
+    },
+    {
+      "Color Name": "Glade Green",
+      "Color ID": "SW9669",
+      "HEX": "A4A571"
+    },
+    {
+      "Color Name": "Olivetone",
+      "Color ID": "SW9670",
+      "HEX": "4E6342"
+    },
+    {
+      "Color Name": "Serendipity",
+      "Color ID": "SW9671",
+      "HEX": "E9EDE7"
+    },
+    {
+      "Color Name": "Wavecrest",
+      "Color ID": "SW9672",
+      "HEX": "D3DCCD"
+    },
+    {
+      "Color Name": "Valleyview",
+      "Color ID": "SW9673",
+      "HEX": "C2CCAC"
+    },
+    {
+      "Color Name": "Leaflet",
+      "Color ID": "SW9674",
+      "HEX": "8B987B"
+    },
+    {
+      "Color Name": "Westhaven",
+      "Color ID": "SW9675",
+      "HEX": "2A4442"
+    },
+    {
+      "Color Name": "Green Glimpse",
+      "Color ID": "SW9676",
+      "HEX": "E7EAE3"
+    },
+    {
+      "Color Name": "Kingston",
+      "Color ID": "SW9677",
+      "HEX": "D4DCD3"
+    },
+    {
+      "Color Name": "Holly Glen",
+      "Color ID": "SW9678",
+      "HEX": "BDCBBB"
+    },
+    {
+      "Color Name": "Juniper",
+      "Color ID": "SW9679",
+      "HEX": "658375"
+    },
+    {
+      "Color Name": "Night Watch",
+      "Color ID": "SW9680",
+      "HEX": "303636"
+    },
+    {
+      "Color Name": "Rainsong",
+      "Color ID": "SW9681",
+      "HEX": "DDE6E5"
+    },
+    {
+      "Color Name": "Silent Ripple",
+      "Color ID": "SW9682",
+      "HEX": "D7E1E5"
+    },
+    {
+      "Color Name": "Lakeside",
+      "Color ID": "SW9683",
+      "HEX": "ADB8C0"
+    },
+    {
+      "Color Name": "Azure Tide",
+      "Color ID": "SW9684",
+      "HEX": "436585"
+    },
+    {
+      "Color Name": "After the Storm",
+      "Color ID": "SW9685",
+      "HEX": "2A3037"
+    },
+    {
+      "Color Name": "Opalescent",
+      "Color ID": "SW9686",
+      "HEX": "DFE0E3"
+    },
+    {
+      "Color Name": "Blue Iris",
+      "Color ID": "SW9687",
+      "HEX": "DCDEE0"
+    },
+    {
+      "Color Name": "Modern Lavender",
+      "Color ID": "SW9688",
+      "HEX": "A8AAB3"
+    },
+    {
+      "Color Name": "Ripe Berry",
+      "Color ID": "SW9689",
+      "HEX": "5C5666"
+    },
+    {
+      "Color Name": "Mountain Fig",
+      "Color ID": "SW9690",
+      "HEX": "383C49"
+    },
+    {
+      "Color Name": "Crystalline",
+      "Color ID": "SW9691",
+      "HEX": "E9E3DE"
+    },
+    {
+      "Color Name": "Cotton Candy",
+      "Color ID": "SW9692",
+      "HEX": "F2E0DF"
+    },
+    {
+      "Color Name": "Rose Pink",
+      "Color ID": "SW9693",
+      "HEX": "EECACD"
+    },
+    {
+      "Color Name": "Wild Poppy",
+      "Color ID": "SW9694",
+      "HEX": "B85B57"
+    },
+    {
+      "Color Name": "Beetroot",
+      "Color ID": "SW9695",
+      "HEX": "833337"
+    },
+    {
+      "Color Name": "Pale Pink",
+      "Color ID": "SW9696",
+      "HEX": "EEE6DE"
+    },
+    {
+      "Color Name": "Lotus Petal",
+      "Color ID": "SW9697",
+      "HEX": "F3DFD6"
+    },
+    {
+      "Color Name": "Corallite",
+      "Color ID": "SW9698",
+      "HEX": "F0DFCD"
+    },
+    {
+      "Color Name": "Stone Fruit",
+      "Color ID": "SW9699",
+      "HEX": "F2A28C"
+    },
+    {
+      "Color Name": "Full Bloom",
+      "Color ID": "SW9700",
+      "HEX": "D16F65"
+    }
+  ],
+  "Form + Function": [
+    {
+      "Color Name": "Oat Milk",
+      "Color ID": "SW9501",
+      "HEX": "DEDACD"
+    },
+    {
+      "Color Name": "Arrowroote",
+      "Color ID": "SW9502",
+      "HEX": "E4DECF"
+    },
+    {
+      "Color Name": "Cheviot",
+      "Color ID": "SW9503",
+      "HEX": "F6F2E8"
+    },
+    {
+      "Color Name": "Cold Foam",
+      "Color ID": "SW9504",
+      "HEX": "EFECE3"
+    },
+    {
+      "Color Name": "Frost Bite",
+      "Color ID": "SW9505",
+      "HEX": "F6F0E5"
+    },
+    {
+      "Color Name": "Warm Winter",
+      "Color ID": "SW9506",
+      "HEX": "E1D9C6"
+    },
+    {
+      "Color Name": "Cream and Sugar",
+      "Color ID": "SW9507",
+      "HEX": "DDCFB9"
+    },
+    {
+      "Color Name": "Natural Wool",
+      "Color ID": "SW9508",
+      "HEX": "D7C9AE"
+    },
+    {
+      "Color Name": "Steamed Chai",
+      "Color ID": "SW9509",
+      "HEX": "E0D4BD"
+    },
+    {
+      "Color Name": "Peace of Mind",
+      "Color ID": "SW9510",
+      "HEX": "C4B9A3"
+    },
+    {
+      "Color Name": "Warm Oats",
+      "Color ID": "SW9511",
+      "HEX": "D8CFBA"
+    },
+    {
+      "Color Name": "Threaded Loom",
+      "Color ID": "SW9512",
+      "HEX": "CEC2AA"
+    },
+    {
+      "Color Name": "Sleepy Owlet",
+      "Color ID": "SW9513",
+      "HEX": "B5A78D"
+    },
+    {
+      "Color Name": "Zinc Luster",
+      "Color ID": "SW9514",
+      "HEX": "8C8373"
+    },
+    {
+      "Color Name": "Tungsten",
+      "Color ID": "SW9515",
+      "HEX": "584E41"
+    },
+    {
+      "Color Name": "Accolade",
+      "Color ID": "SW9516",
+      "HEX": "D5CEBF"
+    },
+    {
+      "Color Name": "Outrigger",
+      "Color ID": "SW9517",
+      "HEX": "BBB2A0"
+    },
+    {
+      "Color Name": "Featherstone",
+      "Color ID": "SW9518",
+      "HEX": "99917C"
+    },
+    {
+      "Color Name": "Country Tweed",
+      "Color ID": "SW9519",
+      "HEX": "837B68"
+    },
+    {
+      "Color Name": "Nocturne",
+      "Color ID": "SW9520",
+      "HEX": "544E42"
+    },
+    {
+      "Color Name": "Simple Stone",
+      "Color ID": "SW9521",
+      "HEX": "CDC7B7"
+    },
+    {
+      "Color Name": "Meander",
+      "Color ID": "SW9522",
+      "HEX": "B6AE99"
+    },
+    {
+      "Color Name": "Canal Street",
+      "Color ID": "SW9523",
+      "HEX": "969281"
+    },
+    {
+      "Color Name": "Crooked River",
+      "Color ID": "SW9524",
+      "HEX": "797869"
+    },
+    {
+      "Color Name": "Hidden Trail",
+      "Color ID": "SW9525",
+      "HEX": "5F5B4D"
+    },
+    {
+      "Color Name": "Woolen Mittens",
+      "Color ID": "SW9526",
+      "HEX": "BFB397"
+    },
+    {
+      "Color Name": "Worn Khaki",
+      "Color ID": "SW9527",
+      "HEX": "A69C81"
+    },
+    {
+      "Color Name": "Vintage",
+      "Color ID": "SW9528",
+      "HEX": "908468"
+    },
+    {
+      "Color Name": "Twig Basket",
+      "Color ID": "SW9529",
+      "HEX": "7D6E52"
+    },
+    {
+      "Color Name": "Momentum",
+      "Color ID": "SW9530",
+      "HEX": "5C4E2E"
+    },
+    {
+      "Color Name": "Stone Guardians",
+      "Color ID": "SW9531",
+      "HEX": "CABA97"
+    },
+    {
+      "Color Name": "Earthy Ochre",
+      "Color ID": "SW9532",
+      "HEX": "BEAE88"
+    },
+    {
+      "Color Name": "Rattan Palm",
+      "Color ID": "SW9533",
+      "HEX": "9E8E6C"
+    },
+    {
+      "Color Name": "River Reed",
+      "Color ID": "SW9534",
+      "HEX": "94876E"
+    },
+    {
+      "Color Name": "Nettle",
+      "Color ID": "SW9535",
+      "HEX": "665B44"
+    },
+    {
+      "Color Name": "Lamb's Wool",
+      "Color ID": "SW9536",
+      "HEX": "CAB598"
+    },
+    {
+      "Color Name": "Sugared Almond",
+      "Color ID": "SW9537",
+      "HEX": "B49D7B"
+    },
+    {
+      "Color Name": "Tangled Twine",
+      "Color ID": "SW9538",
+      "HEX": "A18A67"
+    },
+    {
+      "Color Name": "Shaker Peg",
+      "Color ID": "SW9539",
+      "HEX": "8D7553"
+    },
+    {
+      "Color Name": "Timber Beam",
+      "Color ID": "SW9540",
+      "HEX": "796040"
+    }
+  ],
+  "Minimal + Modern": [
+    {
+      "Color Name": "White Snow",
+      "Color ID": "SW9541",
+      "HEX": "F5F4EE"
+    },
+    {
+      "Color Name": "Natural White",
+      "Color ID": "SW9542",
+      "HEX": "ECEBE8"
+    },
+    {
+      "Color Name": "Gypsum",
+      "Color ID": "SW9543",
+      "HEX": "EAEBE7"
+    },
+    {
+      "Color Name": "Dashing",
+      "Color ID": "SW9544",
+      "HEX": "EAEBE8"
+    },
+    {
+      "Color Name": "Ghosted",
+      "Color ID": "SW9545",
+      "HEX": "E2E0DC"
+    },
+    {
+      "Color Name": "Lunar Lite",
+      "Color ID": "SW9546",
+      "HEX": "E0DDD8"
+    },
+    {
+      "Color Name": "Vessel",
+      "Color ID": "SW9547",
+      "HEX": "CDC8BF"
+    },
+    {
+      "Color Name": "Sweater Weather",
+      "Color ID": "SW9548",
+      "HEX": "CCCCC5"
+    },
+    {
+      "Color Name": "Touch of Grey",
+      "Color ID": "SW9549",
+      "HEX": "D1CFCA"
+    },
+    {
+      "Color Name": "Mercurial",
+      "Color ID": "SW9550",
+      "HEX": "D1CCC6"
+    },
+    {
+      "Color Name": "Skipping Rocks",
+      "Color ID": "SW9551",
+      "HEX": "D1D0C9"
+    },
+    {
+      "Color Name": "Antimony",
+      "Color ID": "SW9552",
+      "HEX": "C7C8C1"
+    },
+    {
+      "Color Name": "Allegory",
+      "Color ID": "SW9553",
+      "HEX": "B4B2A9"
+    },
+    {
+      "Color Name": "Going Grey",
+      "Color ID": "SW9554",
+      "HEX": "83807A"
+    },
+    {
+      "Color Name": "Storm Warning",
+      "Color ID": "SW9555",
+      "HEX": "696863"
+    },
+    {
+      "Color Name": "Intrepid Grey",
+      "Color ID": "SW9556",
+      "HEX": "E0E2E0"
+    },
+    {
+      "Color Name": "Autonomous",
+      "Color ID": "SW9557",
+      "HEX": "C6C7C5"
+    },
+    {
+      "Color Name": "Castlegate",
+      "Color ID": "SW9558",
+      "HEX": "A0A5A5"
+    },
+    {
+      "Color Name": "Scattered Showers",
+      "Color ID": "SW9559",
+      "HEX": "7B8285"
+    },
+    {
+      "Color Name": "Night Out",
+      "Color ID": "SW9560",
+      "HEX": "656A6E"
+    },
+    {
+      "Color Name": "Guild Grey",
+      "Color ID": "SW9561",
+      "HEX": "D2D1CB"
+    },
+    {
+      "Color Name": "Fortitude",
+      "Color ID": "SW9562",
+      "HEX": "C6C5C1"
+    },
+    {
+      "Color Name": "Bedrock",
+      "Color ID": "SW9563",
+      "HEX": "9E9D99"
+    },
+    {
+      "Color Name": "Before the Storm",
+      "Color ID": "SW9564",
+      "HEX": "74777A"
+    },
+    {
+      "Color Name": "Forged Steel",
+      "Color ID": "SW9565",
+      "HEX": "5B5B59"
+    },
+    {
+      "Color Name": "Grey Heron",
+      "Color ID": "SW9566",
+      "HEX": "D6D2CA"
+    },
+    {
+      "Color Name": "Viaduct",
+      "Color ID": "SW9567",
+      "HEX": "C1BBB0"
+    },
+    {
+      "Color Name": "Smooth Stone",
+      "Color ID": "SW9568",
+      "HEX": "A8A298"
+    },
+    {
+      "Color Name": "Alloy",
+      "Color ID": "SW9569",
+      "HEX": "8E8A81"
+    },
+    {
+      "Color Name": "Ironclad",
+      "Color ID": "SW9570",
+      "HEX": "615C55"
+    },
+    {
+      "Color Name": "Solstice",
+      "Color ID": "SW9571",
+      "HEX": "DBD9D2"
+    },
+    {
+      "Color Name": "Warm Pewter",
+      "Color ID": "SW9572",
+      "HEX": "B4ADA6"
+    },
+    {
+      "Color Name": "Hibernate",
+      "Color ID": "SW9573",
+      "HEX": "ACA69F"
+    },
+    {
+      "Color Name": "Hulett Ore",
+      "Color ID": "SW9574",
+      "HEX": "726F6C"
+    },
+    {
+      "Color Name": "Metropolis",
+      "Color ID": "SW9575",
+      "HEX": "59504F"
+    },
+    {
+      "Color Name": "Whirlwind",
+      "Color ID": "SW9576",
+      "HEX": "D8CFC6"
+    },
+    {
+      "Color Name": "Soft Suede",
+      "Color ID": "SW9577",
+      "HEX": "D0C6B8"
+    },
+    {
+      "Color Name": "Restoration",
+      "Color ID": "SW9578",
+      "HEX": "AFA499"
+    },
+    {
+      "Color Name": "Timeless Taupe",
+      "Color ID": "SW9579",
+      "HEX": "908379"
+    },
+    {
+      "Color Name": "Cracked Pepper",
+      "Color ID": "SW9580",
+      "HEX": "483C37"
+    }
+  ],
+  "Rustic + Refined": [
+    {
+      "Color Name": "Clean Slate",
+      "Color ID": "SW9621",
+      "HEX": "E0E3E2"
+    },
+    {
+      "Color Name": "White Sail",
+      "Color ID": "SW9622",
+      "HEX": "EBEBE7"
+    },
+    {
+      "Color Name": "Snowbelt",
+      "Color ID": "SW9623",
+      "HEX": "EEF1EC"
+    },
+    {
+      "Color Name": "Winsome Grey",
+      "Color ID": "SW9624",
+      "HEX": "E7E9E7"
+    },
+    {
+      "Color Name": "Grey Mist",
+      "Color ID": "SW9625",
+      "HEX": "E4E1D6"
+    },
+    {
+      "Color Name": "Glacier Bay",
+      "Color ID": "SW9626",
+      "HEX": "E1E1DB"
+    },
+    {
+      "Color Name": "Pacific Fog",
+      "Color ID": "SW9627",
+      "HEX": "DCDCD5"
+    },
+    {
+      "Color Name": "Winter Walk",
+      "Color ID": "SW9628",
+      "HEX": "D8D5CC"
+    },
+    {
+      "Color Name": "Constellation",
+      "Color ID": "SW9629",
+      "HEX": "CDCCC3"
+    },
+    {
+      "Color Name": "Moorstone",
+      "Color ID": "SW9630",
+      "HEX": "CFD1CA"
+    },
+    {
+      "Color Name": "Mantra",
+      "Color ID": "SW9631",
+      "HEX": "DCE2DF"
+    },
+    {
+      "Color Name": "Serenely",
+      "Color ID": "SW9632",
+      "HEX": "CED7D5"
+    },
+    {
+      "Color Name": "Silver Lake",
+      "Color ID": "SW9633",
+      "HEX": "B6C3C4"
+    },
+    {
+      "Color Name": "Morning at Sea",
+      "Color ID": "SW9634",
+      "HEX": "82979B"
+    },
+    {
+      "Color Name": "Stargazer",
+      "Color ID": "SW9635",
+      "HEX": "60757A"
+    },
+    {
+      "Color Name": "Windchill",
+      "Color ID": "SW9636",
+      "HEX": "D5D8D7"
+    },
+    {
+      "Color Name": "Mineral",
+      "Color ID": "SW9637",
+      "HEX": "B0B7B7"
+    },
+    {
+      "Color Name": "Breakwater",
+      "Color ID": "SW9638",
+      "HEX": "A2A8A6"
+    },
+    {
+      "Color Name": "Rain Cloud",
+      "Color ID": "SW9639",
+      "HEX": "536168"
+    },
+    {
+      "Color Name": "Sea Mariner",
+      "Color ID": "SW9640",
+      "HEX": "434A54"
+    },
+    {
+      "Color Name": "Dew Drop",
+      "Color ID": "SW9641",
+      "HEX": "D4DCDC"
+    },
+    {
+      "Color Name": "Silver Tipped Sage",
+      "Color ID": "SW9642",
+      "HEX": "BFC2BF"
+    },
+    {
+      "Color Name": "Eventide",
+      "Color ID": "SW9643",
+      "HEX": "A3AFAC"
+    },
+    {
+      "Color Name": "Portsmouth",
+      "Color ID": "SW9644",
+      "HEX": "768482"
+    },
+    {
+      "Color Name": "Big Dipper",
+      "Color ID": "SW9645",
+      "HEX": "41494B"
+    },
+    {
+      "Color Name": "Create",
+      "Color ID": "SW9646",
+      "HEX": "C9CABF"
+    },
+    {
+      "Color Name": "Soft Sage",
+      "Color ID": "SW9647",
+      "HEX": "BCBCAE"
+    },
+    {
+      "Color Name": "Frosted Fern",
+      "Color ID": "SW9648",
+      "HEX": "A7A796"
+    },
+    {
+      "Color Name": "Willowleaf",
+      "Color ID": "SW9649",
+      "HEX": "85877B"
+    },
+    {
+      "Color Name": "Succulent",
+      "Color ID": "SW9650",
+      "HEX": "616C64"
+    },
+    {
+      "Color Name": "Sea Spray",
+      "Color ID": "SW9651",
+      "HEX": "C8CEC6"
+    },
+    {
+      "Color Name": "Hazel Gaze",
+      "Color ID": "SW9652",
+      "HEX": "B8BFB1"
+    },
+    {
+      "Color Name": "Forever Green",
+      "Color ID": "SW9653",
+      "HEX": "AAB4A7"
+    },
+    {
+      "Color Name": "Taiga",
+      "Color ID": "SW9654",
+      "HEX": "768078"
+    },
+    {
+      "Color Name": "Mountain Pass",
+      "Color ID": "SW9655",
+      "HEX": "5C6A6A"
+    },
+    {
+      "Color Name": "Pine Frost",
+      "Color ID": "SW9656",
+      "HEX": "D0D5CB"
+    },
+    {
+      "Color Name": "Piedmont",
+      "Color ID": "SW9657",
+      "HEX": "C2CEC5"
+    },
+    {
+      "Color Name": "Fresh Eucalyptus",
+      "Color ID": "SW9658",
+      "HEX": "ADBCB4"
+    },
+    {
+      "Color Name": "Marine",
+      "Color ID": "SW9659",
+      "HEX": "94A69D"
+    },
+    {
+      "Color Name": "Tarragon",
+      "Color ID": "SW9660",
+      "HEX": "424E53"
+    }
+  ],
+  "Warm + Welcoming": [
+    {
+      "Color Name": "Cotton ",
+      "Color ID": "SW9581",
+      "HEX": "EEEBE1"
+    },
+    {
+      "Color Name": "White Sand",
+      "Color ID": "SW9582",
+      "HEX": "EDECE7"
+    },
+    {
+      "Color Name": "Sanctuary",
+      "Color ID": "SW9583",
+      "HEX": "E6E2D9"
+    },
+    {
+      "Color Name": "Mortar",
+      "Color ID": "SW9584",
+      "HEX": "E3DFD5"
+    },
+    {
+      "Color Name": "Sunbleached",
+      "Color ID": "SW9585",
+      "HEX": "E5E0D7"
+    },
+    {
+      "Color Name": "White Sesame",
+      "Color ID": "SW9586",
+      "HEX": "E3DBCD"
+    },
+    {
+      "Color Name": "Mushroom",
+      "Color ID": "SW9587",
+      "HEX": "D0C7B7"
+    },
+    {
+      "Color Name": "High Sierra",
+      "Color ID": "SW9588",
+      "HEX": "C8C0B3"
+    },
+    {
+      "Color Name": "Limewash",
+      "Color ID": "SW9589",
+      "HEX": "DBD5CB"
+    },
+    {
+      "Color Name": "Taupe of the Morning",
+      "Color ID": "SW9590",
+      "HEX": "DAD2C6"
+    },
+    {
+      "Color Name": "Whisper",
+      "Color ID": "SW9591",
+      "HEX": "BBB2A3"
+    },
+    {
+      "Color Name": "Illusion",
+      "Color ID": "SW9592",
+      "HEX": "B0A899"
+    },
+    {
+      "Color Name": "Lauriston Stone",
+      "Color ID": "SW9593",
+      "HEX": "868172"
+    },
+    {
+      "Color Name": "Settlement",
+      "Color ID": "SW9594",
+      "HEX": "7E7970"
+    },
+    {
+      "Color Name": "Braintree",
+      "Color ID": "SW9595",
+      "HEX": "65635B"
+    },
+    {
+      "Color Name": "Pachyderm",
+      "Color ID": "SW9596",
+      "HEX": "BAB3A6"
+    },
+    {
+      "Color Name": "Western Reserve",
+      "Color ID": "SW9597",
+      "HEX": "A8A294"
+    },
+    {
+      "Color Name": "Solitary Slate",
+      "Color ID": "SW9598",
+      "HEX": "80796D"
+    },
+    {
+      "Color Name": "Limestone",
+      "Color ID": "SW9599",
+      "HEX": "6A655C"
+    },
+    {
+      "Color Name": "Armory",
+      "Color ID": "SW9600",
+      "HEX": "413D3C"
+    },
+    {
+      "Color Name": "Symmetry",
+      "Color ID": "SW9601",
+      "HEX": "D5CBBE"
+    },
+    {
+      "Color Name": "Studio Beige",
+      "Color ID": "SW9602",
+      "HEX": "C1B2A1"
+    },
+    {
+      "Color Name": "Quarry Stone",
+      "Color ID": "SW9603",
+      "HEX": "978E7F"
+    },
+    {
+      "Color Name": "Tea Leaf",
+      "Color ID": "SW9604",
+      "HEX": "625346"
+    },
+    {
+      "Color Name": "Clove",
+      "Color ID": "SW9605",
+      "HEX": "453E39"
+    },
+    {
+      "Color Name": "Slumber Sloth",
+      "Color ID": "SW9606",
+      "HEX": "CEC5B6"
+    },
+    {
+      "Color Name": "Tanglewood",
+      "Color ID": "SW9607",
+      "HEX": "9B8F7E"
+    },
+    {
+      "Color Name": "Habitat",
+      "Color ID": "SW9608",
+      "HEX": "897D6D"
+    },
+    {
+      "Color Name": "Landmark",
+      "Color ID": "SW9609",
+      "HEX": "766859"
+    },
+    {
+      "Color Name": "Stony Creek",
+      "Color ID": "SW9610",
+      "HEX": "57534E"
+    },
+    {
+      "Color Name": "Minimalist",
+      "Color ID": "SW9611",
+      "HEX": "CABEAD"
+    },
+    {
+      "Color Name": "Perfect Khaki",
+      "Color ID": "SW9612",
+      "HEX": "B2A492"
+    },
+    {
+      "Color Name": "Terrain",
+      "Color ID": "SW9613",
+      "HEX": "8C8475"
+    },
+    {
+      "Color Name": "Carriage Stone",
+      "Color ID": "SW9614",
+      "HEX": "7C7466"
+    },
+    {
+      "Color Name": "Prospect",
+      "Color ID": "SW9615",
+      "HEX": "62584B"
+    },
+    {
+      "Color Name": "Dumpling",
+      "Color ID": "SW9616",
+      "HEX": "D8D0C1"
+    },
+    {
+      "Color Name": "Beachcomber",
+      "Color ID": "SW9617",
+      "HEX": "D0C1AC"
+    },
+    {
+      "Color Name": "Woodbridge",
+      "Color ID": "SW9618",
+      "HEX": "9F8E7A"
+    },
+    {
+      "Color Name": "Teakwood",
+      "Color ID": "SW9619",
+      "HEX": "8D7E6D"
+    },
+    {
+      "Color Name": "Prelude",
+      "Color ID": "SW9620",
+      "HEX": "5B564F"
+    }
+  ]
+}

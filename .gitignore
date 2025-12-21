@@ -1,0 +1,89 @@
+# Xcode
+.DS_Store
+AppDelegate.h
+Info.plist
+ViewController.h
+main.m
+AppDelegate.m
+ViewController.m
+.xcuserstate
+.xcuserdatad
+
+# Build artifacts
+build/
+DerivedData/
+*.pbxuser
+project.pbxproj.xcworkspace
+xcuserdata/
+*.xcworkspace
+*.xcworkspace/xcuserdata/
+*.moved-aside
+
+# Swift Package Manager
+.build/
+Packages/
+SPM/
+swiftpm/
+Packages/.build/
+Packages/.swiftpm/
+swiftpm/
+
+# CocoaPods
+Pods/
+
+# Large USDZ and reality files (should not be committed)
+*.usdz
+*.reality
+*.usda
+realityKitContentBundle
+
+# Large image assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.heic
+*.tiff
+*.pdf
+*.svg
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.app
+*.framework
+
+# IDE files
+.vscode/
+.idea/
+
+# Node.js/React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary folders
+tmp/
+temp/
+
+# MySQL
+mysql/
+mysql/mysql
+
+# Local env files
+.env
+.env.local
+
+# Custom large files
+Floor/Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/*.usdz

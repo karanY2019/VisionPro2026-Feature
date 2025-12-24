@@ -1,5 +1,8 @@
 # GitHub Repository Creation Commands
 
+git reset --hard
+
+
 ## 🚀 **Quick Start: Easiest Method (GitHub Web Interface)**
 
 ### **Step-by-Step Visual Method (RECOMMENDED):**

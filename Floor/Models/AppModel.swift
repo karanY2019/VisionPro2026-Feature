@@ -51,6 +51,62 @@ class AppModel {
     
     var hasLaunched: Bool = false
     
+    // XR Floor Replacement
+    let xrFloorReplacementID = "XRFloorReplacement"
+    enum XRFloorReplacementState {
+        case closed
+        case inTransition
+        case open
+    }
+    var xrFloorReplacementState = XRFloorReplacementState.closed
+
+    // XR Room Scanner (Phase-based scanning)
+    let xrRoomScannerID = "XRRoomScanner"
+    enum XRRoomScannerState {
+        case closed
+        case inTransition
+        case open
+    }
+    var xrRoomScannerState = XRRoomScannerState.closed
+
+    // Model Viewer (for viewing scanned USDZ rooms)
+    let modelViewerID = "ModelViewer"
+    enum ModelViewerState {
+        case closed
+        case inTransition
+        case open
+    }
+    var modelViewerState = ModelViewerState.closed
+
+    var isXRModeActive: Bool = false
+    var detectedRoomArea: Float = 0
+    
+    // MARK: - Configuration
+    /// Set this to true to use mock data instead of real API calls
+    /// Can be toggled for development/testing purposes
+    var useMockData: Bool = true  // Set to true to use mock data on real devices
+
+    /// Toggle mock data usage at runtime
+    func toggleMockData() {
+        useMockData.toggle()
+        print("🔄 Mock data toggled to: \(useMockData ? "ENABLED" : "DISABLED")")
+        // Refresh distributor data with new setting
+        fetchDistributorList()
+    }
+
+    /// Enable mock data
+    func enableMockData() {
+        useMockData = true
+        print("🔧 Mock data ENABLED")
+        fetchDistributorList()
+    }
+
+    /// Disable mock data (use real API)
+    func disableMockData() {
+        useMockData = false
+        print("🌐 Mock data DISABLED - using real API")
+        fetchDistributorList()
+    }
     // data
     var productList: [Product] = []
     var itemList: [PItem] = []
@@ -109,18 +165,85 @@ class AppModel {
     
     /// 获取经销商列表
     func fetchDistributorList() {
+        // Check if we should use mock data (for simulator or if explicitly enabled)
+        if useMockData || ProcessInfo.processInfo.environment["SIMULATOR_MODEL_IDENTIFIER"] != nil {
+            print("🔧 Using mock distributors (useMockData: \(useMockData), simulator: \(ProcessInfo.processInfo.environment["SIMULATOR_MODEL_IDENTIFIER"] != nil))")
+            self.distributors = createMockDistributors()
+            if self.currentDistributor == nil && !self.distributors.isEmpty {
+                self.currentDistributor = self.distributors[0]
+            }
+            return
+        }
         
+        // Use real API for production
+        print("🌐 Using real API for distributor data")
         let queryRequest = DealerQueryRequest(pageSize: 100)
         HttpClient.shared.getDealerList(query: queryRequest) { result in
             switch result {
             case .success(let pageResponse):
                 print("✅ User getDealerList successful!  response: \n \(pageResponse)")
                 self.distributors = pageResponse.list
+                // Auto-select first if none selected
+                if self.currentDistributor == nil && !self.distributors.isEmpty {
+                    self.currentDistributor = self.distributors[0]
+                }
             case .failure(let error):
-                print("❌ User getUserFavorite failed! error message: \(String(describing: error.errorDescription))")
+                print("❌ User getDealerList failed! error message: \(String(describing: error.errorDescription))")
+                // Fallback to mock data on error
+                print("🔧 Falling back to mock distributors due to API error")
+                self.distributors = self.createMockDistributors()
+                if self.currentDistributor == nil && !self.distributors.isEmpty {
+                    self.currentDistributor = self.distributors[0]
+                }
             }
         }
-        
+    }
+    
+    /// Create mock distributors for development/testing
+    private func createMockDistributors() -> [DealerResponse] {
+        // Create mock distributors matching your DealerResponse structure
+        let currentTime = ISO8601DateFormatter().string(from: Date())
+        return [
+            DealerResponse(
+                id: 1,
+                name: "O4H Flagship Store - SF",
+                code: "O4H-SF-001",
+                email: "flagship@o4h.com",
+                phone: "+1 (415) 555-0001",
+                address: "123 Market St, San Francisco, CA 94103",
+                description: "Flagship store in downtown San Francisco",
+                status: 1,
+                statusText: "Active",
+                createTime: currentTime,
+                updateTime: currentTime
+            ),
+            DealerResponse(
+                id: 2,
+                name: "O4H Downtown - SF",
+                code: "O4H-SF-002",
+                email: "downtown@o4h.com",
+                phone: "+1 (415) 555-0002",
+                address: "456 Mission St, San Francisco, CA 94105",
+                description: "Downtown location",
+                status: 1,
+                statusText: "Active",
+                createTime: currentTime,
+                updateTime: currentTime
+            ),
+            DealerResponse(
+                id: 3,
+                name: "O4H Valley - SF",
+                code: "O4H-SF-003",
+                email: "valley@o4h.com",
+                phone: "+1 (415) 555-0003",
+                address: "789 Valencia St, San Francisco, CA 94110",
+                description: "Mission Valley location",
+                status: 1,
+                statusText: "Active",
+                createTime: currentTime,
+                updateTime: currentTime
+            )
+        ]
     }
     
     /// 获取用户收藏项数据
@@ -197,13 +320,15 @@ class AppModel {
         self.currentDetailItem = item
         let bakeKey = isHideFurniture ? "unbaked" : "baked"
             if let materialName = item.materials[bakeKey] {
+                // CRITICAL FIX: Use material name for immersive space USDZ models
+                // The USDZ floor models in RealityKitContent should match material names
                 self.currentFloorAsset = materialName
-                print("Switched floor asset to: \(materialName)")
+                print("Switched floor asset to: \(materialName) (for immersive space USDZ loading)")
             } else {
                 assertionFailure("AppModel: materials does not contain key \(bakeKey)")
                 self.currentFloorAsset = "Novara_floor"
             }
-        print("Switched floor asset to: \(item.asset)")
+        print("Current floor item asset: \(item.asset)")
     }
     
     func updateCurrentDetailItemFromAllProducts(_ id: Int) {

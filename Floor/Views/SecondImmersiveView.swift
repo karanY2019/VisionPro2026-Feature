@@ -600,4 +600,3 @@ struct SecondImmersiveView: View {
         //        controlPanelAnchor.position = [0, 0, -1]
     }
 }
-

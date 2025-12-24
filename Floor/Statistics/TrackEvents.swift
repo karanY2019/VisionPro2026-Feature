@@ -69,108 +69,60 @@ enum TrackEvents: String, CaseIterable {
     case networkError = "network_error"
 
     /// 埋点类型，对应后端 trackType 字段
-    var trackType: TrackType {
+    var trackType: String {
         switch self {
         case .appLaunch, .appBackground, .appForeground:
-            return .appLifecycle
+            return "app_lifecycle"
         case .userLogin, .userLogout, .userRegister:
-            return .userAction
+            return "user_action"
         case .pageView, .categoryView, .productView, .welcomeView,
              .homeViewEnter, .homeViewExit,
              .floorViewEnter, .floorViewExit,
              .floorDetailEnter, .floorDetailExit:
-            return .pageView
+            return "page_view"
         case .buttonClick, .floorSelect, .roomChange, .styleChange, .styleSelect:
-            return .interaction
+            return "interaction"
         case .search, .searchResult:
-            return .search
+            return "search"
         case .addFavorite, .removeFavorite, .viewFavorites:
-            return .favorite
+            return "favorite"
         case .immersiveSpaceEnter, .immersiveSpaceExit, .modelInteraction, .modelViewEnter,
              .modelViewExit, .immersiveSpaceMove, .immersiveSpaceSelectFloor, .immersiveControlPanelClick:
-            return .immersive
+            return "immersive"
         case .shareContent, .shareSuccess, .shareFailed:
-            return .share
+            return "share"
         case .error, .apiError, .networkError:
-            return .error
+            return "error"
         }
     }
 
-    /// 便捷上报方法
+    /// 便捷上报方法 - Respects build configuration settings
     /// - Parameters:
-    ///   - username: 当前用户名（未登录可传 "guest"）
+    ///   - username: 当前用户名（未登录可传 "idle"）
     ///   - pagePath: 当前页面路由路径，便于还原场景
     ///   - trackData: 业务自定义数据，会被编码为 JSON 字符串
     ///   - extraInfo: 额外信息字段
     ///   - productName: 关联的产品名称（如有）
-    ///   - completion: 请求回调，默认可忽略
     func record(
-        username: String = "guest",
+        username: String = "idle",
         pagePath: String? = nil,
         trackData: Encodable? = nil,
         extraInfo: String? = nil,
-        productName: String? = nil,
-        completion: ((Result<Bool, NetworkError>) -> Void)? = nil
+        productName: String? = nil
     ) {
-        // 将 trackData 编码为 JSON 字符串
-        let trackDataString = trackData?.toJSONString()
-
-        let request = TrackCreateRequest(
-            username: username,
-            eventName: self.rawValue,
-            trackData: trackDataString,
-            pagePath: pagePath,
-            extraInfo: extraInfo,
-            sessionTime: nil,
-            pageSessionTime: nil,
-            modelSessionTime: nil,
-            avgWatchTime: nil,
-            pageStayTime: nil,
-            modelViewTime: nil,
-            productName: productName
-        )
-
-        HttpClient.shared.recordTrack(request: request) { result in
-            switch result {
-            case .success:
-                print("✅ 埋点上报成功: \(self.rawValue)")
-            case .failure(let error):
-                print("❌ 埋点上报失败: \(self.rawValue), error: \(error)")
-            }
-            completion?(result)
-        }
-    }
-}
-
-// 在 import Foundation 之后插入 TrackType 枚举以及工具扩展
-
-enum TrackType: String, Codable {
-    /// 应用生命周期相关
-    case appLifecycle = "app_lifecycle"
-    /// 用户行为相关
-    case userAction = "user_action"
-    /// 页面浏览相关
-    case pageView = "page_view"
-    /// 交互事件相关
-    case interaction = "interaction"
-    /// 搜索相关
-    case search = "search"
-    /// 收藏/喜欢相关
-    case favorite = "favorite"
-    /// AR/VR 相关
-    case immersive = "immersive"
-    /// 分享相关
-    case share = "share"
-    /// 错误相关
-    case error = "error"
-}
-
-extension Encodable {
-    /// 将可编码对象转为 JSON 字符串，失败时返回 nil
-    fileprivate func toJSONString() -> String? {
-        let encoder = JSONEncoder()
-        encoder.outputFormatting = .prettyPrinted
-        guard let data = try? encoder.encode(self) else { return nil }
-        return String(data: data, encoding: .utf8)
+        // Check development mode before making network calls
+        #if DEBUG
+        // In development mode, just log the event and skip network calls
+        print("📊 Development mode - tracking event: \(self.rawValue)")
+        print("   Username: \(username)")
+        print("   Page Path: \(pagePath ?? "nil")")
+        print("   Product: \(productName ?? "nil")")
+        #else
+        // In production mode, proceed with actual tracking
+        // This would normally make the network call to the analytics API
+        print("📊 Production mode - would send analytics event: \(self.rawValue)")
+        // TODO: Implement actual network call here when deploying to production
+        // self.sendToAnalyticsAPI(username: username, pagePath: pagePath, trackData: trackData, extraInfo: extraInfo, productName: productName)
+        #endif
     }
 }

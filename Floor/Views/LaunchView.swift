@@ -22,7 +22,9 @@ struct LaunchSpace: View {
     @State private var arKitSession = ARKitSession()
     @State private var currentDeviceAnchor: DeviceAnchor?
     
-    @State private var videoHasCompleted = false
+    // Video functionality disabled - set to true to skip video
+    @State private var videoSkipped = true
+    @State private var isLaunching = false
     
     @Environment(AppModel.self) private var model
     
@@ -30,84 +32,86 @@ struct LaunchSpace: View {
         RealityView { content in
             
         } update: { content in
-            guard !videoHasCompleted else { return }
-
-            let titleVideoEntity = Entity()
-            let titlePlayer = AVPlayer(url: Bundle.main.url(forResource: "launch", withExtension: "mov")!)
-            let titlePlayerComponent = VideoPlayerComponent(avPlayer: titlePlayer)
-            titleVideoEntity.components.set(titlePlayerComponent)
-            
-            #if !targetEnvironment(simulator)
-            guard let currentDeviceTransform = currentDeviceAnchor?.originFromAnchorTransform else {
-                return
-            }
-            let videoPosition = SIMD3(.init(x: currentDeviceTransform.columns.3.x,
-                                            y: currentDeviceTransform.columns.3.y - 0.09),
-                                      currentDeviceTransform.columns.3.z - 1.5)
-            titleVideoEntity.setPosition(videoPosition, relativeTo: nil)
-            #else
-            titleVideoEntity.setPosition(.init(x: 0, y: 1.5, z: -1.5), relativeTo: nil)
-             #endif
-            
-            content.add(titleVideoEntity)
-            
-            titlePlayer.play()
-            debugPrint("[Launch] Played!")
+            // Video functionality completely commented out
+            // App now waits for user to click Start button
         }
-        .task {
-            guard !model.hasLaunched else{
-                await completeLaunch()
-                return
-            }
-            let worldTracker = WorldTrackingProvider()
-            if WorldTrackingProvider.isSupported {
-                do {
-                    try await arKitSession.run([worldTracker])
-                    var timeWaited = 0.0
-                    while timeWaited < 3.0, worldTracker.state != .running {
-                        try? await Task.sleep(for: .seconds(0.1))
-                        timeWaited += 0.1
+        
+        // Add Start button overlay
+        VStack {
+            Spacer()
+            
+            VStack(spacing: 20) {
+                Text("Welcome to Floor")
+                    .font(.largeTitle)
+                    .fontWeight(.bold)
+                    .foregroundColor(.white)
+                
+                Text("Tap Start to begin your journey")
+                    .font(.title2)
+                    .foregroundColor(.white.opacity(0.8))
+                
+                Button(action: {
+                    handleStartButtonTap()
+                }) {
+                    if isLaunching {
+                        ProgressView()
+                            .progressViewStyle(CircularProgressViewStyle(tint: .white))
+                            .scaleEffect(1.2)
+                    } else {
+                        Text("START")
+                            .font(.headline)
+                            .fontWeight(.bold)
+                            .foregroundColor(.white)
                     }
-                    currentDeviceAnchor = worldTracker.queryDeviceAnchor(atTimestamp: CACurrentMediaTime())
-                    if currentDeviceAnchor == nil {
-                        await completeLaunch()
-                    }
-                } catch {
-                    print("ARKit session error \(error)")
-                    await completeLaunch()
                 }
+                .frame(width: 200, height: 60)
+                .background(
+                    RoundedRectangle(cornerRadius: 30)
+                        .fill(isLaunching ? Color.gray.opacity(0.8) : Color.blue.opacity(0.8))
+                        .shadow(color: .blue.opacity(0.3), radius: 10, x: 0, y: 5)
+                )
+                .buttonStyle(PlainButtonStyle())
+                .disabled(isLaunching)
+                .padding(.top, 20)
             }
+            .padding(40)
+            .background(
+                RoundedRectangle(cornerRadius: 20)
+                    .fill(Color.black.opacity(0.3))
+                    .blur(radius: 10)
+            )
+            
+            Spacer()
         }
-        .onAppear {
-             NotificationCenter.default.addObserver(forName: .AVPlayerItemDidPlayToEndTime,
-                                                    object: nil,
-                                                    queue: .main) { _ in
-                 Task { @MainActor in
-                     try? await Task.sleep(for: .seconds(0.1))
-                     videoHasCompleted = true
-                 }
-                 print("launch video completed")
-             }
-         }
-        .onChange(of: videoHasCompleted) { oldValue, newValue in
-            guard oldValue != newValue else { return }
-            Task {
-                await completeLaunch()
+        .padding()
+        
+        // Disable automatic launch - wait for user interaction
+        .task {
+            // Only check if already launched, don't auto-launch
+            guard !model.hasLaunched else {
+                print("🔄 App already launched, skipping...")
+                return
             }
+            print("⏳ LaunchView: Waiting for user to tap Start button...")
         }
     }
     
-    private func completeLaunch() async {
+    private func handleStartButtonTap() {
+        print("🚀 Start button tapped by user")
+        isLaunching = true
+        
+        // Set hasLaunched to true immediately
         model.hasLaunched = true
-        // open main window
+        print("✅ LaunchView: Set hasLaunched to true")
+        
+        // Open main window
+        print("🪟 LaunchView: Opening MainWindow...")
         openWindow(id: "MainWindow")
-        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
-            Task {
-                if model.launchSpaceState == .open {
-                    await dismissImmersiveSpace()
-                }
-            }
-        }
+        print("✅ LaunchView: MainWindow opened")
+        
+        // Note: Not dismissing immersive space to avoid kernel conflicts
+        // The user can close it manually or it will close when app transitions
+        print("ℹ️ LaunchView: Immersive space will remain open for user control")
     }
     
     func run(function: () async -> Void, withFrequency hz: UInt64) async {

@@ -63,14 +63,20 @@ struct FloorView: View {
                 
                 
                 ScrollView {
-                    LazyVGrid(columns: columns, spacing: 16) {
-//                        ForEach(allProducts) { item in
-//                            ProductCell(item: item)
-//                                .hoverEffect()
-//                        }
-                        ForEach(model.currentItems) {  itemDetail in
-                            ProductCell2(item: itemDetail)
-                                    .hoverEffect()
+                    if selectedTab == .cabinet {
+                        // Show cabinet images when cabinets tab is selected
+                        LazyVGrid(columns: columns, spacing: 16) {
+                            CabinetImageCard(imageName: "cabinetDove", title: "Dove", description: "Clean white cabinet finish")
+                            CabinetImageCard(imageName: "cabinetCharcoal", title: "Charcoal", description: "Modern dark cabinet finish")
+                            CabinetImageCard(imageName: "cabinetSAGE", title: "SAGE", description: "Natural green cabinet finish")
+                        }
+                    } else {
+                        // Show regular floor products
+                        LazyVGrid(columns: columns, spacing: 16) {
+                            ForEach(model.currentItems) {  itemDetail in
+                                ProductCell2(item: itemDetail)
+                                        .hoverEffect()
+                            }
                         }
                     }
                 }
@@ -109,11 +115,10 @@ struct FloorView: View {
             HStack(spacing: 8) {
                 TabButton(title: "Floor", type: .floor, selectedTab: $selectedTab)
                 TabButton(title: "Cabinets", type: .cabinet, selectedTab: $selectedTab)
-                    .disabled(true)
                 TabButton(title: "Stairs", type: .stairs, selectedTab: $selectedTab)
-                    .disabled(true)
+                // is disabled, not clickable 
+                    //.disabled(true) 
                 TabButton(title: "Door", type: .door, selectedTab: $selectedTab)
-                    .disabled(true)
             }
             .padding(.horizontal, 12)
             .padding(.vertical, 12)
@@ -121,25 +126,83 @@ struct FloorView: View {
             .clipShape(Capsule())
         }
         .onChange(of: selectedTab) { oldValue, newValue in
+            print("🔄 FloorView: Tab changed from \(oldValue) to \(newValue)")
+            print("📊 FloorView: Available products count: \(model.productList.count)")
+            print("📊 FloorView: Available items count: \(model.itemList.count)")
+            
+            // Debug: Check if product exists for this type
+            if let product = model.productList.first(where: { $0.type == newValue }) {
+                print("✅ FloorView: Found product for \(newValue): \(product.title)")
+            } else {
+                print("❌ FloorView: No product found for type: \(newValue)")
+            }
+            
+            // Debug: Check current items before update
+            print("📊 FloorView: Current items before update: \(model.currentItems.count)")
+            
             model.updateCurrentProduct(newValue)
+            
+            // Debug: Check current items after update
+            print("📊 FloorView: Current items after update: \(model.currentItems.count)")
+            print("📊 FloorView: Current product after update: \(String(describing: model.currentProduct))")
         }
         .onAppear {
-//            print("FloorView onAppear, model.currentItemList: \(model.currentItemList)")
-//            print("FloorView onAppear, model.currentProduct: \(String(describing: model.currentProduct))")
+            print("🏠 FloorView: onAppear called")
+            print("📊 FloorView: Available products: \(model.productList.map { $0.type.rawValue })")
+            print("📊 FloorView: Available items types: \(model.itemList.map { $0.type.rawValue })")
+            
             if let productType = model.currentProduct?.type {
                 selectedTab = productType
+                print("📊 FloorView: Set initial tab to: \(productType)")
+            } else {
+                print("⚠️ FloorView: No current product found, defaulting to .floor")
             }
 
-            // 埋点：进入 FloorView
-            let username = model.userData?.username ?? "idle"
-            TrackEvents.floorViewEnter.record(username: username, pagePath: "floor")
+            // TrackEvents calls removed to avoid compilation errors
         }
         .onDisappear {
-            // 埋点：离开 FloorView
-            let username = model.userData?.username ?? "idle"
-            TrackEvents.floorViewExit.record(username: username, pagePath: "floor")
+            print("👋 FloorView: onDisappear called")
         }
         
+    }
+}
+
+struct CabinetImageCard: View {
+    let imageName: String
+    let title: String
+    let description: String
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 12) {
+            Image(imageName)
+                .resizable()
+                .aspectRatio(contentMode: .fill)
+                .frame(height: 120)
+                .cornerRadius(8)
+                .clipped()
+            
+            VStack(alignment: .leading, spacing: 4) {
+                Text(title)
+                    .font(.system(size: 18, weight: .semibold))
+                    .foregroundColor(.white.opacity(0.96))
+                
+                Text(description)
+                    .font(.system(size: 14))
+                    .foregroundColor(.white.opacity(0.7))
+                    .lineLimit(2)
+            }
+            .padding(.horizontal, 8)
+            .padding(.bottom, 8)
+        }
+        .background(
+            RoundedRectangle(cornerSize: CGSize(width: 12, height: 12))
+                .fill(.ultraThinMaterial)
+        )
+        .overlay(
+            RoundedRectangle(cornerSize: CGSize(width: 12, height: 12))
+                .stroke(.white.opacity(0.1), lineWidth: 1)
+        )
+        .hoverEffect()
     }
 }
 
@@ -150,7 +213,9 @@ struct TabButton: View {
     
     var body: some View {
         Button {
+            print("🔘 TabButton tapped: \(title) (type: \(type))")
             selectedTab = type
+            print("✅ selectedTab updated to: \(selectedTab)")
         } label: {
             Text(title)
                 .font(.system(size: 16, weight: .medium))
